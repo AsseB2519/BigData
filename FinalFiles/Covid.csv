@@ -1,4 +1,4 @@
-iso_code,location,total_cases,year
+country_code,country,covid_cases,year
 AFG,Afghanistan,51848.0,2020
 AFG,Afghanistan,157902.0,2021
 AFG,Afghanistan,207322.0,2022
