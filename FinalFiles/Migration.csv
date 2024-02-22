@@ -1,0 +1,4105 @@
+Country,Year,Migration
+India,2024,"-486,784"
+India,2023,"-486,136"
+India,2022,"-487,303"
+India,2020,"-34,772"
+India,2015,"-475,094"
+India,2010,"-380,087"
+India,2005,"-550,186"
+India,2000,"-149,966"
+India,1995,"-57,139"
+India,1990,"108,465"
+India,1985,"-112,781"
+India,1980,"202,323"
+India,1975,"-225,989"
+India,1970,"-45,792"
+India,1965,"19,077"
+India,1960,"52,264"
+India,1955,"-115,107"
+China,2024,"-310,866"
+China,2023,"-310,220"
+China,2022,"-311,380"
+China,2020,"-33,649"
+China,2015,"-155,379"
+China,2010,"-216,417"
+China,2005,"-519,752"
+China,2000,"-549,792"
+China,1995,"-625,725"
+China,1990,"-290,067"
+China,1985,"-60,932"
+China,1980,"-20,131"
+China,1975,"-115,215"
+China,1970,"-126,514"
+China,1965,"-128,537"
+China,1960,"-118,519"
+China,1955,"-16,814"
+the United States of America,2024,"999,054"
+the United States of America,2023,"999,700"
+the United States of America,2022,"998,540"
+the United States of America,2020,"675,560"
+the United States of America,2015,"1,221,849"
+the United States of America,2010,"1,030,731"
+the United States of America,2005,"1,129,462"
+the United States of America,2000,"1,479,676"
+the United States of America,1995,"1,678,815"
+the United States of America,1990,"1,421,775"
+the United States of America,1985,"759,118"
+the United States of America,1980,"1,123,144"
+the United States of America,1975,"832,170"
+the United States of America,1970,"937,473"
+the United States of America,1965,"497,365"
+the United States of America,1960,"583,458"
+the United States of America,1955,"628,394"
+Indonesia,2024,"-49,997"
+Indonesia,2023,"-49,997"
+Indonesia,2022,"-49,997"
+Indonesia,2020,"-24,999"
+Indonesia,2015,"-37,991"
+Indonesia,2010,"-77,010"
+Indonesia,2005,"-102,380"
+Indonesia,2000,"-42,697"
+Indonesia,1995,"-1,651"
+Indonesia,1990,"11,542"
+Indonesia,1985,"37,447"
+Indonesia,1980,"42,246"
+Indonesia,1975,"56,388"
+Indonesia,1970,"81,364"
+Indonesia,1965,"-61,146"
+Indonesia,1960,"50,818"
+Indonesia,1955,"46,214"
+Pakistan,2024,"-165,988"
+Pakistan,2023,"-165,988"
+Pakistan,2022,"-165,988"
+Pakistan,2020,"-588,736"
+Pakistan,2015,"-2,172,159"
+Pakistan,2010,"-431,891"
+Pakistan,2005,"-632,467"
+Pakistan,2000,"940,739"
+Pakistan,1995,"296,208"
+Pakistan,1990,"30,184"
+Pakistan,1985,"282,435"
+Pakistan,1980,"1,078,233"
+Pakistan,1975,"-3,437"
+Pakistan,1970,"-116,631"
+Pakistan,1965,"-124,241"
+Pakistan,1960,0
+Pakistan,1955,0
+Nigeria,2024,"-59,996"
+Nigeria,2023,"-59,996"
+Nigeria,2022,"-59,996"
+Nigeria,2020,"-4,824"
+Nigeria,2015,"-145,917"
+Nigeria,2010,"18,073"
+Nigeria,2005,"-46,749"
+Nigeria,2000,"34,146"
+Nigeria,1995,"43,504"
+Nigeria,1990,"107,212"
+Nigeria,1985,"19,791"
+Nigeria,1980,"184,467"
+Nigeria,1975,"75,448"
+Nigeria,1970,"7,960"
+Nigeria,1965,"28,207"
+Nigeria,1960,"12,174"
+Nigeria,1955,"-12,619"
+Brazil,2024,"6,000"
+Brazil,2023,"6,000"
+Brazil,2022,"6,425"
+Brazil,2020,"56,880"
+Brazil,2015,"4,764"
+Brazil,2010,"16,843"
+Brazil,2005,"-42,926"
+Brazil,2000,"-1,761"
+Brazil,1995,"-26,337"
+Brazil,1990,"6,457"
+Brazil,1985,"-13,535"
+Brazil,1980,"11,959"
+Brazil,1975,"-7,793"
+Brazil,1970,"-3,856"
+Brazil,1965,"10,232"
+Brazil,1960,"51,401"
+Brazil,1955,"40,774"
+Bangladesh,2024,"-309,977"
+Bangladesh,2023,"-309,977"
+Bangladesh,2022,"-309,977"
+Bangladesh,2020,"-61,154"
+Bangladesh,2015,"-286,512"
+Bangladesh,2010,"-462,265"
+Bangladesh,2005,"-715,970"
+Bangladesh,2000,"-424,718"
+Bangladesh,1995,"-374,788"
+Bangladesh,1990,"-200,144"
+Bangladesh,1985,"-204,954"
+Bangladesh,1980,"-369,408"
+Bangladesh,1975,"-499,347"
+Bangladesh,1970,"-193,149"
+Bangladesh,1965,"47,618"
+Bangladesh,1960,"13,584"
+Bangladesh,1955,"-30,690"
+the Russian Federation,2024,"-79,327"
+the Russian Federation,2023,"-136,414"
+the Russian Federation,2022,"942,445"
+the Russian Federation,2020,"340,711"
+the Russian Federation,2015,"384,942"
+the Russian Federation,2010,"253,479"
+the Russian Federation,2005,"244,437"
+the Russian Federation,2000,"404,928"
+the Russian Federation,1995,"544,803"
+the Russian Federation,1990,"257,950"
+the Russian Federation,1985,"220,025"
+the Russian Federation,1980,"5,810"
+the Russian Federation,1975,"74,147"
+the Russian Federation,1970,"-243,934"
+the Russian Federation,1965,"-154,888"
+the Russian Federation,1960,"-161,432"
+the Russian Federation,1955,"-194,030"
+Mexico,2024,"-50,885"
+Mexico,2023,"-50,239"
+Mexico,2022,"-51,399"
+Mexico,2020,"-9,949"
+Mexico,2015,"-82,173"
+Mexico,2010,"-41,156"
+Mexico,2005,"-318,048"
+Mexico,2000,"-356,430"
+Mexico,1995,"-313,979"
+Mexico,1990,"-286,584"
+Mexico,1985,"-588,611"
+Mexico,1980,"-261,285"
+Mexico,1975,"-113,208"
+Mexico,1970,"-137,213"
+Mexico,1965,"-72,486"
+Mexico,1960,"-90,381"
+Mexico,1955,"-137,597"
+Ethiopia,2024,"-11,999"
+Ethiopia,2023,"-11,999"
+Ethiopia,2022,"-11,999"
+Ethiopia,2020,"38,867"
+Ethiopia,2015,"62,784"
+Ethiopia,2010,"80,213"
+Ethiopia,2005,"-44,423"
+Ethiopia,2000,"-49,892"
+Ethiopia,1995,"91,538"
+Ethiopia,1990,"296,018"
+Ethiopia,1985,"157,474"
+Ethiopia,1980,"-903,529"
+Ethiopia,1975,"-42,567"
+Ethiopia,1970,"8,595"
+Ethiopia,1965,"16,349"
+Ethiopia,1960,"1,698"
+Ethiopia,1955,"-10,399"
+Japan,2024,"99,994"
+Japan,2023,"99,994"
+Japan,2022,"99,994"
+Japan,2020,"87,584"
+Japan,2015,"150,215"
+Japan,2010,"148,460"
+Japan,2005,"153,248"
+Japan,2000,"84,477"
+Japan,1995,"38,572"
+Japan,1990,"26,291"
+Japan,1985,"-8,228"
+Japan,1980,"-30,594"
+Japan,1975,"22,942"
+Japan,1970,"124,197"
+Japan,1965,"49,763"
+Japan,1960,"-46,245"
+Japan,1955,"-72,784"
+the Philippines,2024,"-69,996"
+the Philippines,2023,"-69,996"
+the Philippines,2022,"-69,996"
+the Philippines,2020,"-41,937"
+the Philippines,2015,"6,954"
+the Philippines,2010,"-183,268"
+the Philippines,2005,"-223,074"
+the Philippines,2000,"-122,971"
+the Philippines,1995,"-143,386"
+the Philippines,1990,"-149,089"
+the Philippines,1985,"-185,754"
+the Philippines,1980,"-134,411"
+the Philippines,1975,"-191,812"
+the Philippines,1970,"-208,125"
+the Philippines,1965,"-242,177"
+the Philippines,1960,"-155,327"
+the Philippines,1955,"225,595"
+Egypt,2024,"-29,998"
+Egypt,2023,"-29,998"
+Egypt,2022,"-29,998"
+Egypt,2020,"4,476"
+Egypt,2015,"-79,150"
+Egypt,2010,"-18,831"
+Egypt,2005,"-18,144"
+Egypt,2000,"-2,815"
+Egypt,1995,"-31,423"
+Egypt,1990,"6,995"
+Egypt,1985,-199
+Egypt,1980,"-50,167"
+Egypt,1975,"-125,141"
+Egypt,1970,"-70,830"
+Egypt,1965,"-4,593"
+Egypt,1960,"-2,959"
+Egypt,1955,"-28,857"
+the DR Congo,2024,"-14,999"
+the DR Congo,2023,"-14,999"
+the DR Congo,2022,"-14,999"
+the DR Congo,2020,"-1,643"
+the DR Congo,2015,"47,831"
+the DR Congo,2010,"8,823"
+the DR Congo,2005,"20,379"
+the DR Congo,2000,"-48,028"
+the DR Congo,1995,"-273,443"
+the DR Congo,1990,"183,750"
+the DR Congo,1985,"17,496"
+the DR Congo,1980,"27,764"
+the DR Congo,1975,-981
+the DR Congo,1970,"39,119"
+the DR Congo,1965,"61,401"
+the DR Congo,1960,"27,672"
+the DR Congo,1955,"-4,875"
+Vietnam (or Viet Nam),2024,"-82,700"
+Vietnam (or Viet Nam),2023,"-82,700"
+Vietnam (or Viet Nam),2022,"-82,700"
+Vietnam (or Viet Nam),2020,"-2,016"
+Vietnam (or Viet Nam),2015,"-4,761"
+Vietnam (or Viet Nam),2010,"-4,382"
+Vietnam (or Viet Nam),2005,"-144,080"
+Vietnam (or Viet Nam),2000,"-150,955"
+Vietnam (or Viet Nam),1995,"43,672"
+Vietnam (or Viet Nam),1990,"-10,252"
+Vietnam (or Viet Nam),1985,"-56,107"
+Vietnam (or Viet Nam),1980,"-52,498"
+Vietnam (or Viet Nam),1975,"-2,117"
+Vietnam (or Viet Nam),1970,"2,002"
+Vietnam (or Viet Nam),1965,"-4,997"
+Vietnam (or Viet Nam),1960,0
+Vietnam (or Viet Nam),1955,0
+the Islamic Republic of Iran,2024,"-39,998"
+the Islamic Republic of Iran,2023,"-39,998"
+the Islamic Republic of Iran,2022,"-39,998"
+the Islamic Republic of Iran,2020,"-156,669"
+the Islamic Republic of Iran,2015,"628,310"
+the Islamic Republic of Iran,2010,"127,703"
+the Islamic Republic of Iran,2005,"323,987"
+the Islamic Republic of Iran,2000,"394,594"
+the Islamic Republic of Iran,1995,"-120,114"
+the Islamic Republic of Iran,1990,"1,375,419"
+the Islamic Republic of Iran,1985,"82,961"
+the Islamic Republic of Iran,1980,"66,006"
+the Islamic Republic of Iran,1975,"76,834"
+the Islamic Republic of Iran,1970,"59,763"
+the Islamic Republic of Iran,1965,"95,420"
+the Islamic Republic of Iran,1960,"24,066"
+the Islamic Republic of Iran,1955,"-6,159"
+Turkey,2024,"-303,414"
+Turkey,2023,"-318,067"
+Turkey,2022,"-301,586"
+Turkey,2020,"-80,952"
+Turkey,2015,"341,261"
+Turkey,2010,"69,638"
+Turkey,2005,"-23,548"
+Turkey,2000,"-77,647"
+Turkey,1995,"-81,045"
+Turkey,1990,"-22,662"
+Turkey,1985,"8,961"
+Turkey,1980,"-126,640"
+Turkey,1975,"-193,902"
+Turkey,1970,"-90,600"
+Turkey,1965,"-71,560"
+Turkey,1960,"-15,052"
+Turkey,1955,"-78,624"
+Germany,2024,"155,106"
+Germany,2023,"155,751"
+Germany,2022,"154,592"
+Germany,2020,"334,055"
+Germany,2015,"397,921"
+Germany,2010,"267,047"
+Germany,2005,"102,694"
+Germany,2000,"60,905"
+Germany,1995,"330,244"
+Germany,1990,"479,954"
+Germany,1985,"214,794"
+Germany,1980,"-9,445"
+Germany,1975,"63,902"
+Germany,1970,"168,468"
+Germany,1965,"170,903"
+Germany,1960,"100,380"
+Germany,1955,"-83,541"
+Thailand,2024,"18,999"
+Thailand,2023,"18,999"
+Thailand,2022,"18,999"
+Thailand,2020,"35,526"
+Thailand,2015,"32,595"
+Thailand,2010,"52,842"
+Thailand,2005,"70,281"
+Thailand,2000,"119,074"
+Thailand,1995,"102,011"
+Thailand,1990,"130,112"
+Thailand,1985,"147,244"
+Thailand,1980,"109,679"
+Thailand,1975,"66,197"
+Thailand,1970,"49,227"
+Thailand,1965,"20,022"
+Thailand,1960,"6,910"
+Thailand,1955,"-7,471"
+the United Kingdom,2024,"165,790"
+the United Kingdom,2023,"165,790"
+the United Kingdom,2022,"165,790"
+the United Kingdom,2020,"211,063"
+the United Kingdom,2015,"254,218"
+the United Kingdom,2010,"281,588"
+the United Kingdom,2005,"261,300"
+the United Kingdom,2000,"161,157"
+the United Kingdom,1995,"48,732"
+the United Kingdom,1990,-701
+the United Kingdom,1985,"-8,661"
+the United Kingdom,1980,"-12,117"
+the United Kingdom,1975,"-19,790"
+the United Kingdom,1970,"-26,696"
+the United Kingdom,1965,"-24,045"
+the United Kingdom,1960,"2,344"
+the United Kingdom,1955,"14,885"
+the United Republic of Tanzania,2024,"-39,997"
+the United Republic of Tanzania,2023,"-39,997"
+the United Republic of Tanzania,2022,"-39,997"
+the United Republic of Tanzania,2020,"-15,795"
+the United Republic of Tanzania,2015,"201,562"
+the United Republic of Tanzania,2010,"-121,993"
+the United Republic of Tanzania,2005,"-128,147"
+the United Republic of Tanzania,2000,"-12,539"
+the United Republic of Tanzania,1995,"-109,903"
+the United Republic of Tanzania,1990,"-88,284"
+the United Republic of Tanzania,1985,"75,784"
+the United Republic of Tanzania,1980,"-46,294"
+the United Republic of Tanzania,1975,"53,248"
+the United Republic of Tanzania,1970,"38,628"
+the United Republic of Tanzania,1965,"3,644"
+the United Republic of Tanzania,1960,"1,953"
+the United Republic of Tanzania,1955,"1,226"
+France,2024,"67,115"
+France,2023,"67,761"
+France,2022,"66,601"
+France,2020,"18,335"
+France,2015,"18,807"
+France,2010,"86,355"
+France,2005,"155,943"
+France,2000,"102,857"
+France,1995,"11,505"
+France,1990,"11,404"
+France,1985,"50,391"
+France,1980,"53,403"
+France,1975,"60,976"
+France,1970,"135,988"
+France,1965,"202,497"
+France,1960,"160,864"
+France,1955,"81,966"
+South Africa,2024,"58,496"
+South Africa,2023,"58,496"
+South Africa,2022,"58,496"
+South Africa,2020,"30,852"
+South Africa,2015,"644,996"
+South Africa,2010,"68,599"
+South Africa,2005,"31,424"
+South Africa,2000,"-80,388"
+South Africa,1995,"-98,300"
+South Africa,1990,"231,224"
+South Africa,1985,"123,316"
+South Africa,1980,"52,736"
+South Africa,1975,"38,750"
+South Africa,1970,"61,524"
+South Africa,1965,"80,687"
+South Africa,1960,"18,909"
+South Africa,1955,"-2,753"
+Italy,2024,"58,496"
+Italy,2023,"58,496"
+Italy,2022,"58,496"
+Italy,2020,"28,021"
+Italy,2015,"34,031"
+Italy,2010,"270,043"
+Italy,2005,"250,910"
+Italy,2000,"49,166"
+Italy,1995,"28,851"
+Italy,1990,"21,268"
+Italy,1985,"-19,940"
+Italy,1980,"261,163"
+Italy,1975,"46,976"
+Italy,1970,"-67,909"
+Italy,1965,"-37,417"
+Italy,1960,"-145,608"
+Italy,1955,"-128,698"
+Kenya,2024,"-10,000"
+Kenya,2023,"-10,000"
+Kenya,2022,"-10,000"
+Kenya,2020,"-17,106"
+Kenya,2015,"-95,981"
+Kenya,2010,"-21,076"
+Kenya,2005,"5,496"
+Kenya,2000,"5,407"
+Kenya,1995,"-75,544"
+Kenya,1990,"-11,341"
+Kenya,1985,"-35,416"
+Kenya,1980,"-39,943"
+Kenya,1975,"-71,454"
+Kenya,1970,"-13,059"
+Kenya,1965,"8,524"
+Kenya,1960,"2,140"
+Kenya,1955,"-4,336"
+Myanmar (formerly Burma),2024,"-34,998"
+Myanmar (formerly Burma),2023,"-34,998"
+Myanmar (formerly Burma),2022,"-34,998"
+Myanmar (formerly Burma),2020,"-66,228"
+Myanmar (formerly Burma),2015,"-94,128"
+Myanmar (formerly Burma),2010,"-116,543"
+Myanmar (formerly Burma),2005,"-185,133"
+Myanmar (formerly Burma),2000,"-106,816"
+Myanmar (formerly Burma),1995,"-75,127"
+Myanmar (formerly Burma),1990,"-40,864"
+Myanmar (formerly Burma),1985,"6,076"
+Myanmar (formerly Burma),1980,"-37,697"
+Myanmar (formerly Burma),1975,"-52,795"
+Myanmar (formerly Burma),1970,"17,995"
+Myanmar (formerly Burma),1965,"18,850"
+Myanmar (formerly Burma),1960,"8,812"
+Myanmar (formerly Burma),1955,-140
+Colombia,2024,"-150,616"
+Colombia,2023,"-175,051"
+Colombia,2022,"-167,924"
+Colombia,2020,"229,437"
+Colombia,2015,"-41,064"
+Colombia,2010,"-34,185"
+Colombia,2005,"-41,348"
+Colombia,2000,"-31,116"
+Colombia,1995,"-33,016"
+Colombia,1990,"-17,237"
+Colombia,1985,"-35,855"
+Colombia,1980,"-49,253"
+Colombia,1975,"-84,511"
+Colombia,1970,"-66,058"
+Colombia,1965,"-53,597"
+Colombia,1960,"-49,098"
+Colombia,1955,"-47,988"
+the Republic of Korea,2024,"29,998"
+the Republic of Korea,2023,"29,998"
+the Republic of Korea,2022,"29,998"
+the Republic of Korea,2020,0
+the Republic of Korea,2015,"266,322"
+the Republic of Korea,2010,"56,092"
+the Republic of Korea,2005,"-36,504"
+the Republic of Korea,2000,"-72,624"
+the Republic of Korea,1995,"-230,292"
+the Republic of Korea,1990,"69,252"
+the Republic of Korea,1985,"82,082"
+the Republic of Korea,1980,"-132,395"
+the Republic of Korea,1975,"-37,366"
+the Republic of Korea,1970,"-28,035"
+the Republic of Korea,1965,"-111,260"
+the Republic of Korea,1960,"23,626"
+the Republic of Korea,1955,"75,562"
+Uganda,2024,"-116,348"
+Uganda,2023,"-126,181"
+Uganda,2022,"-118,846"
+Uganda,2020,"43,465"
+Uganda,2015,"-62,377"
+Uganda,2010,"-168,379"
+Uganda,2005,"-151,432"
+Uganda,2000,"-52,834"
+Uganda,1995,"-242,445"
+Uganda,1990,"-21,692"
+Uganda,1985,"-42,995"
+Uganda,1980,"-106,037"
+Uganda,1975,"-47,415"
+Uganda,1970,"-25,655"
+Uganda,1965,"-3,718"
+Uganda,1960,"-7,586"
+Uganda,1955,0
+Sudan,2024,"-9,999"
+Sudan,2023,"-9,999"
+Sudan,2022,"-9,999"
+Sudan,2020,86
+Sudan,2015,"49,080"
+Sudan,2010,"-331,713"
+Sudan,2005,"-10,644"
+Sudan,2000,"-80,698"
+Sudan,1995,"-71,692"
+Sudan,1990,"-227,157"
+Sudan,1985,"-207,483"
+Sudan,1980,"151,287"
+Sudan,1975,"105,500"
+Sudan,1970,"4,467"
+Sudan,1965,"6,367"
+Sudan,1960,"2,191"
+Sudan,1955,"-2,348"
+Spain,2024,"39,998"
+Spain,2023,"39,998"
+Spain,2022,"39,998"
+Spain,2020,"208,791"
+Spain,2015,-871
+Spain,2010,"62,782"
+Spain,2005,"632,974"
+Spain,2000,"175,213"
+Spain,1995,"164,507"
+Spain,1990,"-38,206"
+Spain,1985,"-17,354"
+Spain,1980,"15,108"
+Spain,1975,"1,177"
+Spain,1970,"-53,295"
+Spain,1965,"-36,245"
+Spain,1960,"-150,213"
+Spain,1955,"-88,709"
+Argentina,2024,"3,565"
+Argentina,2023,"3,718"
+Argentina,2022,"3,886"
+Argentina,2020,"2,344"
+Argentina,2015,"5,522"
+Argentina,2010,"-4,970"
+Argentina,2005,"-21,961"
+Argentina,2000,"-22,770"
+Argentina,1995,"-19,736"
+Argentina,1990,"6,021"
+Argentina,1985,"31,967"
+Argentina,1980,"-3,466"
+Argentina,1975,"-5,357"
+Argentina,1970,"38,356"
+Argentina,1965,"33,973"
+Argentina,1960,"20,399"
+Argentina,1955,"30,379"
+Algeria,2024,"-9,999"
+Algeria,2023,"-9,999"
+Algeria,2022,"-9,999"
+Algeria,2020,"-18,797"
+Algeria,2015,"-36,371"
+Algeria,2010,"-33,071"
+Algeria,2005,"-111,256"
+Algeria,2000,"-18,994"
+Algeria,1995,"-28,581"
+Algeria,1990,"-21,641"
+Algeria,1985,"64,927"
+Algeria,1980,"29,298"
+Algeria,1975,"338,533"
+Algeria,1970,"-37,056"
+Algeria,1965,"-122,843"
+Algeria,1960,"-55,202"
+Algeria,1955,"-28,194"
+Iraq,2024,"-6,000"
+Iraq,2023,"-6,000"
+Iraq,2022,"-6,000"
+Iraq,2020,"71,539"
+Iraq,2015,"-19,490"
+Iraq,2010,"107,297"
+Iraq,2005,"51,019"
+Iraq,2000,"87,624"
+Iraq,1995,"40,424"
+Iraq,1990,"-601,469"
+Iraq,1985,"-199,505"
+Iraq,1980,"15,757"
+Iraq,1975,"-6,237"
+Iraq,1970,"1,377"
+Iraq,1965,"4,555"
+Iraq,1960,"1,573"
+Iraq,1955,"-2,235"
+Afghanistan,2024,"-65,846"
+Afghanistan,2023,"-65,846"
+Afghanistan,2022,"-65,846"
+Afghanistan,2020,"166,821"
+Afghanistan,2015,"-281,739"
+Afghanistan,2010,"-141,355"
+Afghanistan,2005,"252,185"
+Afghanistan,2000,"-1,007,135"
+Afghanistan,1995,"71,824"
+Afghanistan,1990,"-666,001"
+Afghanistan,1985,"-210,572"
+Afghanistan,1980,"-1,205,401"
+Afghanistan,1975,"-44,418"
+Afghanistan,1970,"4,458"
+Afghanistan,1965,"10,695"
+Afghanistan,1960,"2,606"
+Afghanistan,1955,"-7,263"
+Poland,2024,"-685,356"
+Poland,2023,"-910,475"
+Poland,2022,"3,366,387"
+Poland,2020,-779
+Poland,2015,"-25,426"
+Poland,2010,"-8,835"
+Poland,2005,"-21,324"
+Poland,2000,"315,602"
+Poland,1995,"-48,065"
+Poland,1990,"-41,244"
+Poland,1985,"-12,963"
+Poland,1980,"-12,083"
+Poland,1975,"-28,852"
+Poland,1970,"-71,601"
+Poland,1965,"-18,112"
+Poland,1960,"-20,564"
+Poland,1955,"-28,163"
+Canada,2024,"249,100"
+Canada,2023,"249,746"
+Canada,2022,"248,586"
+Canada,2020,"195,181"
+Canada,2015,"232,738"
+Canada,2010,"227,724"
+Canada,2005,"204,710"
+Canada,2000,"201,617"
+Canada,1995,"137,472"
+Canada,1990,"145,270"
+Canada,1985,"39,796"
+Canada,1980,"101,270"
+Canada,1975,"130,169"
+Canada,1970,"295,787"
+Canada,1965,"103,588"
+Canada,1960,"44,527"
+Canada,1955,"89,011"
+Morocco,2024,"-39,998"
+Morocco,2023,"-39,998"
+Morocco,2022,"-39,998"
+Morocco,2020,"-33,807"
+Morocco,2015,"-81,202"
+Morocco,2010,"-70,490"
+Morocco,2005,"-58,941"
+Morocco,2000,"-90,376"
+Morocco,1995,"-97,336"
+Morocco,1990,"-104,908"
+Morocco,1985,"-56,186"
+Morocco,1980,"-17,644"
+Morocco,1975,"-52,014"
+Morocco,1970,"-26,172"
+Morocco,1965,"-34,401"
+Morocco,1960,"-19,418"
+Morocco,1955,"-4,490"
+Saudi Arabia,2024,"28,998"
+Saudi Arabia,2023,"28,998"
+Saudi Arabia,2022,"28,998"
+Saudi Arabia,2020,"-1,025,295"
+Saudi Arabia,2015,"60,337"
+Saudi Arabia,2010,"236,962"
+Saudi Arabia,2005,"481,349"
+Saudi Arabia,2000,"17,241"
+Saudi Arabia,1995,"27,095"
+Saudi Arabia,1990,"186,898"
+Saudi Arabia,1985,"163,926"
+Saudi Arabia,1980,"148,004"
+Saudi Arabia,1975,"132,741"
+Saudi Arabia,1970,"63,988"
+Saudi Arabia,1965,"28,951"
+Saudi Arabia,1960,"7,608"
+Saudi Arabia,1955,"2,108"
+Ukraine,2024,"1,339,538"
+Ukraine,2023,"1,784,718"
+Ukraine,2022,"-6,673,580"
+Ukraine,2020,"-2,173"
+Ukraine,2015,"-21,937"
+Ukraine,2010,"8,366"
+Ukraine,2005,"-4,936"
+Ukraine,2000,"-77,752"
+Ukraine,1995,"-124,586"
+Ukraine,1990,"49,782"
+Ukraine,1985,"-23,788"
+Ukraine,1980,"55,903"
+Ukraine,1975,"36,779"
+Ukraine,1970,"-9,186"
+Ukraine,1965,"64,657"
+Ukraine,1960,"55,633"
+Ukraine,1955,"130,670"
+Angola,2024,"-1,000"
+Angola,2023,"-1,000"
+Angola,2022,"-1,000"
+Angola,2020,"7,557"
+Angola,2015,"74,170"
+Angola,2010,"90,016"
+Angola,2005,"64,009"
+Angola,2000,"53,527"
+Angola,1995,"40,855"
+Angola,1990,"47,663"
+Angola,1985,"54,953"
+Angola,1980,"53,078"
+Angola,1975,"38,725"
+Angola,1970,"-36,455"
+Angola,1965,"-87,288"
+Angola,1960,"-43,749"
+Angola,1955,"-23,647"
+Uzbekistan,2024,"-19,999"
+Uzbekistan,2023,"-19,999"
+Uzbekistan,2022,"-19,999"
+Uzbekistan,2020,"-39,203"
+Uzbekistan,2015,"-20,380"
+Uzbekistan,2010,"-20,381"
+Uzbekistan,2005,"-33,395"
+Uzbekistan,2000,"-66,569"
+Uzbekistan,1995,"-45,888"
+Uzbekistan,1990,"-73,485"
+Uzbekistan,1985,"-19,965"
+Uzbekistan,1980,"-30,940"
+Uzbekistan,1975,"37,609"
+Uzbekistan,1970,"37,326"
+Uzbekistan,1965,"65,581"
+Uzbekistan,1960,"22,033"
+Uzbekistan,1955,"4,213"
+Yemen,2024,"-29,350"
+Yemen,2023,"-29,914"
+Yemen,2022,"-29,998"
+Yemen,2020,"-86,100"
+Yemen,2015,"-38,355"
+Yemen,2010,"-25,573"
+Yemen,2005,"-51,360"
+Yemen,2000,"-87,753"
+Yemen,1995,"-55,482"
+Yemen,1990,"-15,868"
+Yemen,1985,"-14,678"
+Yemen,1980,"-26,773"
+Yemen,1975,"-23,214"
+Yemen,1970,"-20,982"
+Yemen,1965,"-18,968"
+Yemen,1960,"-17,145"
+Yemen,1955,"-15,503"
+Peru,2024,"-54,099"
+Peru,2023,"-61,442"
+Peru,2022,"-60,652"
+Peru,2020,"79,456"
+Peru,2015,"2,462"
+Peru,2010,"-181,284"
+Peru,2005,"-221,582"
+Peru,2000,"-94,554"
+Peru,1995,"-46,443"
+Peru,1990,"-35,982"
+Peru,1985,"-23,587"
+Peru,1980,"-4,806"
+Peru,1975,"-34,423"
+Peru,1970,-649
+Peru,1965,"-2,311"
+Peru,1960,"-2,026"
+Peru,1955,"-6,272"
+Malaysia,2024,"48,997"
+Malaysia,2023,"48,997"
+Malaysia,2022,"48,997"
+Malaysia,2020,"57,483"
+Malaysia,2015,"80,603"
+Malaysia,2010,"114,491"
+Malaysia,2005,"245,376"
+Malaysia,2000,"174,011"
+Malaysia,1995,"94,297"
+Malaysia,1990,"94,487"
+Malaysia,1985,"50,994"
+Malaysia,1980,"6,622"
+Malaysia,1975,"-15,218"
+Malaysia,1970,"-25,428"
+Malaysia,1965,"-13,158"
+Malaysia,1960,"-10,446"
+Malaysia,1955,"-11,592"
+Ghana,2024,"-9,999"
+Ghana,2023,"-9,999"
+Ghana,2022,"-9,999"
+Ghana,2020,-297
+Ghana,2015,"-13,308"
+Ghana,2010,"-3,724"
+Ghana,2005,"21,273"
+Ghana,2000,"-4,208"
+Ghana,1995,"-42,594"
+Ghana,1990,"-46,822"
+Ghana,1985,"-106,911"
+Ghana,1980,"-13,567"
+Ghana,1975,-290
+Ghana,1970,"-10,239"
+Ghana,1965,"-38,520"
+Ghana,1960,"12,176"
+Ghana,1955,"9,572"
+Mozambique,2024,"-5,000"
+Mozambique,2023,"-5,000"
+Mozambique,2022,"-5,000"
+Mozambique,2020,"11,745"
+Mozambique,2015,"30,414"
+Mozambique,2010,"-29,343"
+Mozambique,2005,"-52,323"
+Mozambique,2000,"-58,468"
+Mozambique,1995,"72,493"
+Mozambique,1990,"-97,330"
+Mozambique,1985,"-39,678"
+Mozambique,1980,"-122,726"
+Mozambique,1975,"64,299"
+Mozambique,1970,"-5,468"
+Mozambique,1965,"-20,420"
+Mozambique,1960,"-44,466"
+Mozambique,1955,"-53,692"
+Nepal,2024,"-62,012"
+Nepal,2023,"-62,012"
+Nepal,2022,"-62,012"
+Nepal,2020,"306,664"
+Nepal,2015,"-221,059"
+Nepal,2010,"-293,613"
+Nepal,2005,"-238,799"
+Nepal,2000,"-147,403"
+Nepal,1995,"-86,300"
+Nepal,1990,-650
+Nepal,1985,"-30,173"
+Nepal,1980,"5,084"
+Nepal,1975,"-6,677"
+Nepal,1970,"1,846"
+Nepal,1965,"-1,559"
+Nepal,1960,"-13,235"
+Nepal,1955,"-16,468"
+Madagascar,2024,"-1,500"
+Madagascar,2023,"-1,500"
+Madagascar,2022,"-1,500"
+Madagascar,2020,-742
+Madagascar,2015,485
+Madagascar,2010,485
+Madagascar,2005,485
+Madagascar,2000,485
+Madagascar,1995,485
+Madagascar,1990,"-1,792"
+Madagascar,1985,"-1,956"
+Madagascar,1980,"-4,002"
+Madagascar,1975,"-5,174"
+Madagascar,1970,"-2,657"
+Madagascar,1965,-560
+Madagascar,1960,0
+Madagascar,1955,0
+Côte d'Ivoire,2024,"6,000"
+Côte d'Ivoire,2023,"6,000"
+Côte d'Ivoire,2022,"6,000"
+Côte d'Ivoire,2020,"-12,301"
+Côte d'Ivoire,2015,"-21,498"
+Côte d'Ivoire,2010,"-138,260"
+Côte d'Ivoire,2005,"-117,468"
+Côte d'Ivoire,2000,"-63,877"
+Côte d'Ivoire,1995,"66,455"
+Côte d'Ivoire,1990,"62,979"
+Côte d'Ivoire,1985,"-4,006"
+Côte d'Ivoire,1980,"1,771"
+Côte d'Ivoire,1975,"79,765"
+Côte d'Ivoire,1970,"58,885"
+Côte d'Ivoire,1965,"40,132"
+Côte d'Ivoire,1960,"31,307"
+Côte d'Ivoire,1955,"15,800"
+the Bolivarian Republic of Venezuela,2024,"293,294"
+the Bolivarian Republic of Venezuela,2023,"321,106"
+the Bolivarian Republic of Venezuela,2022,"297,713"
+the Bolivarian Republic of Venezuela,2020,"-525,142"
+the Bolivarian Republic of Venezuela,2015,"-77,421"
+the Bolivarian Republic of Venezuela,2010,"-52,784"
+the Bolivarian Republic of Venezuela,2005,"-18,400"
+the Bolivarian Republic of Venezuela,2000,"-2,004"
+the Bolivarian Republic of Venezuela,1995,-633
+the Bolivarian Republic of Venezuela,1990,-80
+the Bolivarian Republic of Venezuela,1985,243
+the Bolivarian Republic of Venezuela,1980,244
+the Bolivarian Republic of Venezuela,1975,195
+the Bolivarian Republic of Venezuela,1970,309
+the Bolivarian Republic of Venezuela,1965,"1,668"
+the Bolivarian Republic of Venezuela,1960,"8,369"
+the Bolivarian Republic of Venezuela,1955,"27,612"
+Cameroon,2024,"-4,800"
+Cameroon,2023,"-4,800"
+Cameroon,2022,"-4,800"
+Cameroon,2020,"-9,889"
+Cameroon,2015,"42,007"
+Cameroon,2010,"-9,362"
+Cameroon,2005,"-27,782"
+Cameroon,2000,"-21,221"
+Cameroon,1995,"-12,660"
+Cameroon,1990,"-8,163"
+Cameroon,1985,"-3,597"
+Cameroon,1980,"70,584"
+Cameroon,1975,-243
+Cameroon,1970,-373
+Cameroon,1965,-51
+Cameroon,1960,0
+Cameroon,1955,0
+Niger,2024,"1,000"
+Niger,2023,"1,000"
+Niger,2022,"1,000"
+Niger,2020,"-4,403"
+Niger,2015,"17,051"
+Niger,2010,"-8,045"
+Niger,2005,"-9,710"
+Niger,2000,"-8,533"
+Niger,1995,"3,837"
+Niger,1990,84
+Niger,1985,"-6,141"
+Niger,1980,"-5,582"
+Niger,1975,"-3,256"
+Niger,1970,"-2,226"
+Niger,1965,"-2,301"
+Niger,1960,"-3,653"
+Niger,1955,"-3,310"
+Australia,2024,"139,991"
+Australia,2023,"139,991"
+Australia,2022,"139,991"
+Australia,2020,"117,929"
+Australia,2015,"209,466"
+Australia,2010,"166,833"
+Australia,2005,"132,109"
+Australia,2000,"109,375"
+Australia,1995,"79,727"
+Australia,1990,"95,996"
+Australia,1985,"87,895"
+Australia,1980,"86,522"
+Australia,1975,"31,122"
+Australia,1970,"258,627"
+Australia,1965,"118,655"
+Australia,1960,"86,587"
+Australia,1955,"95,973"
+North Korea,2024,"-2,000"
+North Korea,2023,"-2,000"
+North Korea,2022,"-2,000"
+North Korea,2020,"-1,589"
+North Korea,2015,"-3,200"
+North Korea,2010,"-3,047"
+North Korea,2005,"-2,860"
+North Korea,2000,"-3,139"
+North Korea,1995,"-3,093"
+North Korea,1990,0
+North Korea,1985,0
+North Korea,1980,0
+North Korea,1975,0
+North Korea,1970,0
+North Korea,1965,0
+North Korea,1960,0
+North Korea,1955,"-35,414"
+Taiwan,2024,"23,999"
+Taiwan,2023,"23,999"
+Taiwan,2022,"23,999"
+Taiwan,2020,"26,393"
+Taiwan,2015,"32,099"
+Taiwan,2010,"5,849"
+Taiwan,2005,"8,776"
+Taiwan,2000,"-9,304"
+Taiwan,1995,"-51,283"
+Taiwan,1990,"-49,742"
+Taiwan,1985,"-2,399"
+Taiwan,1980,"-38,131"
+Taiwan,1975,"-19,493"
+Taiwan,1970,"-15,126"
+Taiwan,1965,"63,400"
+Taiwan,1960,"24,395"
+Taiwan,1955,"3,210"
+Mali,2024,"-39,998"
+Mali,2023,"-39,998"
+Mali,2022,"-39,998"
+Mali,2020,"-14,978"
+Mali,2015,"-48,947"
+Mali,2010,"-34,523"
+Mali,2005,"-17,436"
+Mali,2000,"-17,423"
+Mali,1995,"-67,932"
+Mali,1990,"-68,856"
+Mali,1985,"-63,524"
+Mali,1980,"-30,239"
+Mali,1975,"-26,632"
+Mali,1970,"-17,521"
+Mali,1965,"-13,693"
+Mali,1960,"-10,332"
+Mali,1955,"-9,845"
+Burkina Faso,2024,"-24,998"
+Burkina Faso,2023,"-24,998"
+Burkina Faso,2022,"-24,998"
+Burkina Faso,2020,"-5,665"
+Burkina Faso,2015,"-19,754"
+Burkina Faso,2010,"-42,128"
+Burkina Faso,2005,"9,794"
+Burkina Faso,2000,"3,880"
+Burkina Faso,1995,"-39,033"
+Burkina Faso,1990,"-33,043"
+Burkina Faso,1985,"-16,650"
+Burkina Faso,1980,"-15,379"
+Burkina Faso,1975,"-30,577"
+Burkina Faso,1970,"-28,920"
+Burkina Faso,1965,"-25,486"
+Burkina Faso,1960,"-23,329"
+Burkina Faso,1955,"-21,805"
+the Syrian Arab Republic,2024,"699,132"
+the Syrian Arab Republic,2023,"757,103"
+the Syrian Arab Republic,2022,"734,304"
+the Syrian Arab Republic,2020,"270,006"
+the Syrian Arab Republic,2015,"-827,474"
+the Syrian Arab Republic,2010,"-54,336"
+the Syrian Arab Republic,2005,"13,431"
+the Syrian Arab Republic,2000,"-18,458"
+the Syrian Arab Republic,1995,"-13,569"
+the Syrian Arab Republic,1990,"-12,182"
+the Syrian Arab Republic,1985,"-12,623"
+the Syrian Arab Republic,1980,"-28,012"
+the Syrian Arab Republic,1975,"-21,100"
+the Syrian Arab Republic,1970,"-19,260"
+the Syrian Arab Republic,1965,"-9,099"
+the Syrian Arab Republic,1960,0
+the Syrian Arab Republic,1955,0
+Sri Lanka,2024,"-77,495"
+Sri Lanka,2023,"-77,495"
+Sri Lanka,2022,"-77,495"
+Sri Lanka,2020,"-92,400"
+Sri Lanka,2015,"-98,598"
+Sri Lanka,2010,"-26,603"
+Sri Lanka,2005,"-36,955"
+Sri Lanka,2000,"-91,900"
+Sri Lanka,1995,"-73,695"
+Sri Lanka,1990,"-36,199"
+Sri Lanka,1985,"-53,596"
+Sri Lanka,1980,"-66,398"
+Sri Lanka,1975,"-37,505"
+Sri Lanka,1970,"-16,297"
+Sri Lanka,1965,"-8,295"
+Sri Lanka,1960,"-12,606"
+Sri Lanka,1955,"-11,697"
+Malawi,2024,"-6,000"
+Malawi,2023,"-6,000"
+Malawi,2022,"-6,000"
+Malawi,2020,"-1,775"
+Malawi,2015,"-6,449"
+Malawi,2010,"-9,321"
+Malawi,2005,"-31,428"
+Malawi,2000,"-29,032"
+Malawi,1995,"-66,368"
+Malawi,1990,"71,114"
+Malawi,1985,"70,875"
+Malawi,1980,"51,087"
+Malawi,1975,"5,145"
+Malawi,1970,"-2,149"
+Malawi,1965,0
+Malawi,1960,0
+Malawi,1955,0
+Zambia,2024,"-5,000"
+Zambia,2023,"-5,000"
+Zambia,2022,"-5,000"
+Zambia,2020,"9,015"
+Zambia,2015,"16,283"
+Zambia,2010,"22,765"
+Zambia,2005,"35,351"
+Zambia,2000,"-5,152"
+Zambia,1995,"-45,408"
+Zambia,1990,"-40,900"
+Zambia,1985,"-21,769"
+Zambia,1980,"-25,771"
+Zambia,1975,"-30,891"
+Zambia,1970,"-31,372"
+Zambia,1965,"-5,370"
+Zambia,1960,"-3,894"
+Zambia,1955,"-2,343"
+Romania,2024,"-192,962"
+Romania,2023,"-254,616"
+Romania,2022,"916,813"
+Romania,2020,"-12,724"
+Romania,2015,"-49,612"
+Romania,2010,"-112,173"
+Romania,2005,"-129,933"
+Romania,2000,"-91,807"
+Romania,1995,"-75,823"
+Romania,1990,"-39,265"
+Romania,1985,"-29,179"
+Romania,1980,"-19,516"
+Romania,1975,"58,626"
+Romania,1970,"-10,510"
+Romania,1965,"-12,261"
+Romania,1960,"-24,974"
+Romania,1955,"-44,099"
+Chile,2024,"-65,580"
+Chile,2023,"-71,205"
+Chile,2022,"-66,850"
+Chile,2020,"98,439"
+Chile,2015,"55,709"
+Chile,2010,"26,064"
+Chile,2005,"14,336"
+Chile,2000,"5,790"
+Chile,1995,"2,490"
+Chile,1990,"-5,253"
+Chile,1985,"-24,137"
+Chile,1980,"-30,275"
+Chile,1975,"-30,556"
+Chile,1970,"-36,078"
+Chile,1965,"-34,847"
+Chile,1960,"-27,179"
+Chile,1955,"-25,010"
+Kazakhstan,2024,0
+Kazakhstan,2023,0
+Kazakhstan,2022,0
+Kazakhstan,2020,"-12,432"
+Kazakhstan,2015,"-12,253"
+Kazakhstan,2010,"23,234"
+Kazakhstan,2005,"22,958"
+Kazakhstan,2000,"-43,423"
+Kazakhstan,1995,"-412,725"
+Kazakhstan,1990,"-108,425"
+Kazakhstan,1985,"4,937"
+Kazakhstan,1980,"4,615"
+Kazakhstan,1975,"-12,192"
+Kazakhstan,1970,"19,825"
+Kazakhstan,1965,"102,579"
+Kazakhstan,1960,"83,541"
+Kazakhstan,1955,"84,892"
+the Republic of Chad,2024,"-2,000"
+the Republic of Chad,2023,"-2,000"
+the Republic of Chad,2022,"-2,000"
+the Republic of Chad,2020,"9,016"
+the Republic of Chad,2015,"-48,918"
+the Republic of Chad,2010,"10,419"
+the Republic of Chad,2005,"19,281"
+the Republic of Chad,2000,"-3,839"
+the Republic of Chad,1995,"152,235"
+the Republic of Chad,1990,"-58,912"
+the Republic of Chad,1985,"-30,747"
+the Republic of Chad,1980,"-210,554"
+the Republic of Chad,1975,"-22,800"
+the Republic of Chad,1970,"-8,937"
+the Republic of Chad,1965,"-4,383"
+the Republic of Chad,1960,-687
+the Republic of Chad,1955,-243
+Ecuador,2024,"-19,360"
+Ecuador,2023,"-21,525"
+Ecuador,2022,"-20,206"
+Ecuador,2020,"35,894"
+Ecuador,2015,"14,740"
+Ecuador,2010,"-8,315"
+Ecuador,2005,"-16,816"
+Ecuador,2000,"-41,899"
+Ecuador,1995,"-45,172"
+Ecuador,1990,"-15,159"
+Ecuador,1985,"-3,146"
+Ecuador,1980,"-2,080"
+Ecuador,1975,"-1,206"
+Ecuador,1970,"-1,095"
+Ecuador,1965,"-1,456"
+Ecuador,1960,"-1,742"
+Ecuador,1955,"-1,170"
+Somalia,2024,"-30,000"
+Somalia,2023,"-30,000"
+Somalia,2022,"-30,000"
+Somalia,2020,"-11,383"
+Somalia,2015,"-17,178"
+Somalia,2010,"-88,448"
+Somalia,2005,"-5,955"
+Somalia,2000,"53,580"
+Somalia,1995,"65,888"
+Somalia,1990,"-248,155"
+Somalia,1985,"62,183"
+Somalia,1980,"65,519"
+Somalia,1975,"-1,934"
+Somalia,1970,"1,104"
+Somalia,1965,"2,142"
+Somalia,1960,750
+Somalia,1955,-826
+Guatemala,2024,"-9,092"
+Guatemala,2023,"-9,110"
+Guatemala,2022,"-9,128"
+Guatemala,2020,"-23,142"
+Guatemala,2015,"-48,162"
+Guatemala,2010,"-36,072"
+Guatemala,2005,"-49,600"
+Guatemala,2000,"-66,153"
+Guatemala,1995,"-39,890"
+Guatemala,1990,"-30,399"
+Guatemala,1985,"-28,843"
+Guatemala,1980,"-44,463"
+Guatemala,1975,"-42,349"
+Guatemala,1970,"-14,756"
+Guatemala,1965,"-1,131"
+Guatemala,1960,-182
+Guatemala,1955,"-1,824"
+Senegal,2024,"-19,999"
+Senegal,2023,"-19,999"
+Senegal,2022,"-19,999"
+Senegal,2020,"-10,090"
+Senegal,2015,"-31,006"
+Senegal,2010,"-43,569"
+Senegal,2005,"-41,857"
+Senegal,2000,"-42,952"
+Senegal,1995,"-31,064"
+Senegal,1990,"-12,986"
+Senegal,1985,"-18,686"
+Senegal,1980,"-32,711"
+Senegal,1975,"-7,870"
+Senegal,1970,"16,164"
+Senegal,1965,"13,910"
+Senegal,1960,"9,338"
+Senegal,1955,"7,858"
+the Netherlands,2024,"29,998"
+the Netherlands,2023,"29,998"
+the Netherlands,2022,"29,998"
+the Netherlands,2020,"58,816"
+the Netherlands,2015,"57,677"
+the Netherlands,2010,"35,628"
+the Netherlands,2005,"13,610"
+the Netherlands,2000,"21,650"
+the Netherlands,1995,"38,760"
+the Netherlands,1990,"32,373"
+the Netherlands,1985,"19,149"
+the Netherlands,1980,"24,210"
+the Netherlands,1975,"32,971"
+the Netherlands,1970,"24,024"
+the Netherlands,1965,"8,091"
+the Netherlands,1960,"-1,845"
+the Netherlands,1955,"-10,986"
+Cambodia,2024,"-29,998"
+Cambodia,2023,"-29,998"
+Cambodia,2022,"-29,998"
+Cambodia,2020,"-22,308"
+Cambodia,2015,"-52,272"
+Cambodia,2010,"-43,068"
+Cambodia,2005,"-11,435"
+Cambodia,2000,"-4,248"
+Cambodia,1995,"-8,706"
+Cambodia,1990,"56,166"
+Cambodia,1985,"1,557"
+Cambodia,1980,"-134,549"
+Cambodia,1975,"-47,734"
+Cambodia,1970,"-193,005"
+Cambodia,1965,"-7,396"
+Cambodia,1960,"-3,332"
+Cambodia,1955,"-2,948"
+Zimbabwe,2024,"-9,999"
+Zimbabwe,2023,"-9,999"
+Zimbabwe,2022,"-9,999"
+Zimbabwe,2020,"-29,955"
+Zimbabwe,2015,"-59,918"
+Zimbabwe,2010,"-133,402"
+Zimbabwe,2005,"-164,732"
+Zimbabwe,2000,"-137,321"
+Zimbabwe,1995,"-32,961"
+Zimbabwe,1990,"2,355"
+Zimbabwe,1985,"1,785"
+Zimbabwe,1980,"389,244"
+Zimbabwe,1975,"-29,003"
+Zimbabwe,1970,"-24,103"
+Zimbabwe,1965,"-10,889"
+Zimbabwe,1960,"-8,256"
+Zimbabwe,1955,"-6,491"
+Guinea,2024,"-4,000"
+Guinea,2023,"-4,000"
+Guinea,2022,"-4,000"
+Guinea,2020,"-4,364"
+Guinea,2015,"-15,127"
+Guinea,2010,"-31,352"
+Guinea,2005,"-71,104"
+Guinea,2000,"-77,558"
+Guinea,1995,"18,021"
+Guinea,1990,"107,641"
+Guinea,1985,"-6,966"
+Guinea,1980,"-25,331"
+Guinea,1975,"-26,254"
+Guinea,1970,"-6,904"
+Guinea,1965,0
+Guinea,1960,0
+Guinea,1955,0
+Rwanda,2024,"-8,999"
+Rwanda,2023,"-8,999"
+Rwanda,2022,"-8,999"
+Rwanda,2020,"-1,579"
+Rwanda,2015,"-14,477"
+Rwanda,2010,"-8,394"
+Rwanda,2005,"-23,051"
+Rwanda,2000,"-99,860"
+Rwanda,1995,"443,316"
+Rwanda,1990,"-31,720"
+Rwanda,1985,"4,017"
+Rwanda,1980,"4,634"
+Rwanda,1975,"-4,792"
+Rwanda,1970,"1,156"
+Rwanda,1965,"-9,788"
+Rwanda,1960,"-13,204"
+Rwanda,1955,-823
+Benin,2024,-200
+Benin,2023,-200
+Benin,2022,-200
+Benin,2020,"1,732"
+Benin,2015,"3,366"
+Benin,2010,"3,947"
+Benin,2005,"30,492"
+Benin,2000,"3,337"
+Benin,1995,"-45,474"
+Benin,1990,-337
+Benin,1985,"-1,965"
+Benin,1980,"-2,945"
+Benin,1975,"-4,600"
+Benin,1970,"-4,854"
+Benin,1965,"-4,800"
+Benin,1960,"-4,725"
+Benin,1955,"-4,602"
+Burundi,2024,"2,000"
+Burundi,2023,"2,000"
+Burundi,2022,"2,000"
+Burundi,2020,"-10,186"
+Burundi,2015,"-236,447"
+Burundi,2010,"11,847"
+Burundi,2005,"17,913"
+Burundi,2000,"-40,114"
+Burundi,1995,"-84,698"
+Burundi,1990,"-39,996"
+Burundi,1985,"-66,680"
+Burundi,1980,"149,360"
+Burundi,1975,"-20,706"
+Burundi,1970,"-6,348"
+Burundi,1965,"-13,952"
+Burundi,1960,"-14,647"
+Burundi,1955,"-14,669"
+Tunisia,2024,"-4,000"
+Tunisia,2023,"-4,000"
+Tunisia,2022,"-4,000"
+Tunisia,2020,"-9,189"
+Tunisia,2015,"-25,230"
+Tunisia,2010,"-25,953"
+Tunisia,2005,"-29,303"
+Tunisia,2000,"-17,475"
+Tunisia,1995,"-10,177"
+Tunisia,1990,"7,453"
+Tunisia,1985,"5,148"
+Tunisia,1980,"-11,505"
+Tunisia,1975,"-8,762"
+Tunisia,1970,"-10,062"
+Tunisia,1965,"-54,215"
+Tunisia,1960,"-66,870"
+Tunisia,1955,"-2,476"
+the Plurinational State of Bolivia,2024,"-3,000"
+the Plurinational State of Bolivia,2023,"-3,000"
+the Plurinational State of Bolivia,2022,"-3,000"
+the Plurinational State of Bolivia,2020,"-4,666"
+the Plurinational State of Bolivia,2015,"-10,525"
+the Plurinational State of Bolivia,2010,"-12,592"
+the Plurinational State of Bolivia,2005,"-14,657"
+the Plurinational State of Bolivia,2000,"-17,675"
+the Plurinational State of Bolivia,1995,"-23,615"
+the Plurinational State of Bolivia,1990,"-21,915"
+the Plurinational State of Bolivia,1985,"-17,558"
+the Plurinational State of Bolivia,1980,"-11,766"
+the Plurinational State of Bolivia,1975,"-6,426"
+the Plurinational State of Bolivia,1970,"-4,913"
+the Plurinational State of Bolivia,1965,"-4,444"
+the Plurinational State of Bolivia,1960,"-3,148"
+the Plurinational State of Bolivia,1955,"-2,990"
+Haiti,2024,"-31,453"
+Haiti,2023,"-31,811"
+Haiti,2022,"-32,248"
+Haiti,2020,"-33,872"
+Haiti,2015,"-32,698"
+Haiti,2010,"-28,437"
+Haiti,2005,"-26,304"
+Haiti,2000,"-27,098"
+Haiti,1995,"-27,130"
+Haiti,1990,"-26,101"
+Haiti,1985,"-24,908"
+Haiti,1980,"-22,125"
+Haiti,1975,"-18,691"
+Haiti,1970,"-18,441"
+Haiti,1965,"-17,423"
+Haiti,1960,"-13,788"
+Haiti,1955,"-10,279"
+Belgium,2024,"23,999"
+Belgium,2023,"23,999"
+Belgium,2022,"23,999"
+Belgium,2020,"53,428"
+Belgium,2015,"57,008"
+Belgium,2010,"54,611"
+Belgium,2005,"46,280"
+Belgium,2000,"32,262"
+Belgium,1995,"16,528"
+Belgium,1990,"6,752"
+Belgium,1985,"2,743"
+Belgium,1980,"5,129"
+Belgium,1975,"10,637"
+Belgium,1970,"15,519"
+Belgium,1965,"17,110"
+Belgium,1960,"12,907"
+Belgium,1955,"6,483"
+Jordan,2024,"-150,540"
+Jordan,2023,"-157,392"
+Jordan,2022,"-141,192"
+Jordan,2020,"18,092"
+Jordan,2015,"490,844"
+Jordan,2010,"4,872"
+Jordan,2005,"3,500"
+Jordan,2000,"-26,074"
+Jordan,1995,"27,992"
+Jordan,1990,"66,103"
+Jordan,1985,"28,040"
+Jordan,1980,"1,735"
+Jordan,1975,"-14,822"
+Jordan,1970,"25,894"
+Jordan,1965,"29,737"
+Jordan,1960,"15,509"
+Jordan,1955,"24,942"
+the Dominican Republic,2024,"-28,884"
+the Dominican Republic,2023,"-29,099"
+the Dominican Republic,2022,"-29,294"
+the Dominican Republic,2020,"-14,966"
+the Dominican Republic,2015,"-30,310"
+the Dominican Republic,2010,"-30,489"
+the Dominican Republic,2005,"-30,883"
+the Dominican Republic,2000,"-30,231"
+the Dominican Republic,1995,"-29,610"
+the Dominican Republic,1990,"-27,399"
+the Dominican Republic,1985,"-23,385"
+the Dominican Republic,1980,"-17,487"
+the Dominican Republic,1975,"-13,171"
+the Dominican Republic,1970,"-13,518"
+the Dominican Republic,1965,"-9,943"
+the Dominican Republic,1960,"-7,545"
+the Dominican Republic,1955,"-5,106"
+Cuba,2024,"-6,000"
+Cuba,2023,"-6,000"
+Cuba,2022,"-6,000"
+Cuba,2020,"-7,068"
+Cuba,2015,"-14,372"
+Cuba,2010,"-27,718"
+Cuba,2005,"-11,973"
+Cuba,2000,"-24,942"
+Cuba,1995,"-28,713"
+Cuba,1990,"-15,438"
+Cuba,1985,"-18,048"
+Cuba,1980,"-43,166"
+Cuba,1975,"-57,074"
+Cuba,1970,"-44,466"
+Cuba,1965,"-46,683"
+Cuba,1960,"-25,396"
+Cuba,1955,"-7,838"
+South Sudan,2024,"-20,713"
+South Sudan,2023,"-23,291"
+South Sudan,2022,"-30,694"
+South Sudan,2020,"-74,415"
+South Sudan,2015,"-160,109"
+South Sudan,2010,"299,400"
+South Sudan,2005,"132,868"
+South Sudan,2000,"74,224"
+South Sudan,1995,"17,077"
+South Sudan,1990,"12,993"
+South Sudan,1985,0
+South Sudan,1980,0
+South Sudan,1975,0
+South Sudan,1970,0
+South Sudan,1965,0
+South Sudan,1960,0
+South Sudan,1955,0
+Sweden,2024,"39,998"
+Sweden,2023,"39,998"
+Sweden,2022,"39,998"
+Sweden,2020,"81,066"
+Sweden,2015,"77,987"
+Sweden,2010,"60,639"
+Sweden,2005,"39,103"
+Sweden,2000,"27,734"
+Sweden,1995,"22,161"
+Sweden,1990,"17,724"
+Sweden,1985,"14,534"
+Sweden,1980,"11,174"
+Sweden,1975,"10,588"
+Sweden,1970,"15,779"
+Sweden,1965,"19,129"
+Sweden,1960,"14,792"
+Sweden,1955,"9,814"
+Honduras,2024,"-4,675"
+Honduras,2023,"-5,034"
+Honduras,2022,"-5,374"
+Honduras,2020,"-6,199"
+Honduras,2015,"-6,512"
+Honduras,2010,"-5,418"
+Honduras,2005,"-6,187"
+Honduras,2000,"-10,762"
+Honduras,1995,"-14,711"
+Honduras,1990,"-15,350"
+Honduras,1985,"-13,739"
+Honduras,1980,"-11,183"
+Honduras,1975,"-9,655"
+Honduras,1970,"-8,746"
+Honduras,1965,"-7,160"
+Honduras,1960,"-4,090"
+Honduras,1955,"-1,248"
+Czechia (Czech Republic),2024,"22,011"
+Czechia (Czech Republic),2023,"22,011"
+Czechia (Czech Republic),2022,"22,011"
+Czechia (Czech Republic),2020,"3,621"
+Czechia (Czech Republic),2015,"5,297"
+Czechia (Czech Republic),2010,"34,805"
+Czechia (Czech Republic),2005,"24,895"
+Czechia (Czech Republic),2000,"4,195"
+Czechia (Czech Republic),1995,"6,465"
+Czechia (Czech Republic),1990,"-4,187"
+Czechia (Czech Republic),1985,-487
+Czechia (Czech Republic),1980,-33
+Czechia (Czech Republic),1975,"-3,733"
+Czechia (Czech Republic),1970,"-10,433"
+Czechia (Czech Republic),1965,"-7,987"
+Czechia (Czech Republic),1960,"1,514"
+Czechia (Czech Republic),1955,"-1,406"
+Azerbaijan,2024,0
+Azerbaijan,2023,0
+Azerbaijan,2022,0
+Azerbaijan,2020,"1,084"
+Azerbaijan,2015,"1,084"
+Azerbaijan,2010,"1,384"
+Azerbaijan,2005,"16,436"
+Azerbaijan,2000,"15,938"
+Azerbaijan,1995,"-37,975"
+Azerbaijan,1990,"-28,017"
+Azerbaijan,1985,"-27,358"
+Azerbaijan,1980,"-27,793"
+Azerbaijan,1975,"-10,012"
+Azerbaijan,1970,"-9,056"
+Azerbaijan,1965,"-3,842"
+Azerbaijan,1960,-163
+Azerbaijan,1955,-101
+Greece,2024,"5,000"
+Greece,2023,"5,000"
+Greece,2022,"5,000"
+Greece,2020,"-17,853"
+Greece,2015,"-29,315"
+Greece,2010,"-25,002"
+Greece,2005,"-7,559"
+Greece,2000,"35,798"
+Greece,1995,"69,212"
+Greece,1990,"74,412"
+Greece,1985,"66,912"
+Greece,1980,"56,793"
+Greece,1975,"21,249"
+Greece,1970,"-41,226"
+Greece,1965,"-87,226"
+Greece,1960,"-51,051"
+Greece,1955,"3,085"
+Papua New Guinea,2024,-800
+Papua New Guinea,2023,-800
+Papua New Guinea,2022,-800
+Papua New Guinea,2020,"10,695"
+Papua New Guinea,2015,"30,581"
+Papua New Guinea,2010,"50,107"
+Papua New Guinea,2005,"46,016"
+Papua New Guinea,2000,"41,857"
+Papua New Guinea,1995,"40,951"
+Papua New Guinea,1990,"2,397"
+Papua New Guinea,1985,"-25,472"
+Papua New Guinea,1980,"-25,633"
+Papua New Guinea,1975,"-23,563"
+Papua New Guinea,1970,"-18,774"
+Papua New Guinea,1965,"-18,532"
+Papua New Guinea,1960,"-2,033"
+Papua New Guinea,1955,-601
+Portugal,2024,"9,999"
+Portugal,2023,"9,999"
+Portugal,2022,"9,999"
+Portugal,2020,"40,535"
+Portugal,2015,"-10,124"
+Portugal,2010,"-11,820"
+Portugal,2005,"17,155"
+Portugal,2000,"63,195"
+Portugal,1995,"30,130"
+Portugal,1990,"-33,704"
+Portugal,1985,"-16,080"
+Portugal,1980,"29,423"
+Portugal,1975,"43,650"
+Portugal,1970,"-193,554"
+Portugal,1965,"-123,211"
+Portugal,1960,"-99,337"
+Portugal,1955,"-62,944"
+Hungary,2024,"-116,008"
+Hungary,2023,"-156,677"
+Hungary,2022,"616,038"
+Hungary,2020,"9,042"
+Hungary,2015,"14,166"
+Hungary,2010,"11,394"
+Hungary,2005,"16,615"
+Hungary,2000,"15,478"
+Hungary,1995,"16,934"
+Hungary,1990,"17,545"
+Hungary,1985,"-16,765"
+Hungary,1980,"-18,988"
+Hungary,1975,"1,861"
+Hungary,1970,583
+Hungary,1965,"-1,057"
+Hungary,1960,"-1,446"
+Hungary,1955,"3,276"
+Tajikistan,2024,"-19,999"
+Tajikistan,2023,"-19,999"
+Tajikistan,2022,"-19,999"
+Tajikistan,2020,"-3,564"
+Tajikistan,2015,"-18,984"
+Tajikistan,2010,"-33,731"
+Tajikistan,2005,"-27,949"
+Tajikistan,2000,"-13,870"
+Tajikistan,1995,"-40,411"
+Tajikistan,1990,"-41,579"
+Tajikistan,1985,"-13,015"
+Tajikistan,1980,"-5,554"
+Tajikistan,1975,"7,235"
+Tajikistan,1970,"5,559"
+Tajikistan,1965,"7,746"
+Tajikistan,1960,"2,464"
+Tajikistan,1955,"4,246"
+the United Arab Emirates,2024,0
+the United Arab Emirates,2023,0
+the United Arab Emirates,2022,0
+the United Arab Emirates,2020,"-2,762"
+the United Arab Emirates,2015,"-14,154"
+the United Arab Emirates,2010,"-13,726"
+the United Arab Emirates,2005,"339,380"
+the United Arab Emirates,2000,"131,735"
+the United Arab Emirates,1995,"64,261"
+the United Arab Emirates,1990,"64,939"
+the United Arab Emirates,1985,"35,496"
+the United Arab Emirates,1980,"79,756"
+the United Arab Emirates,1975,"39,556"
+the United Arab Emirates,1970,"38,490"
+the United Arab Emirates,1965,"3,866"
+the United Arab Emirates,1960,"3,916"
+the United Arab Emirates,1955,"3,289"
+Belarus,2024,"-2,462"
+Belarus,2023,"-4,282"
+Belarus,2022,"30,308"
+Belarus,2020,"13,589"
+Belarus,2015,"13,681"
+Belarus,2010,"4,892"
+Belarus,2005,"-11,902"
+Belarus,2000,"-10,419"
+Belarus,1995,"3,910"
+Belarus,1990,"4,246"
+Belarus,1985,730
+Belarus,1980,"-4,143"
+Belarus,1975,"-3,446"
+Belarus,1970,"-12,530"
+Belarus,1965,"-23,414"
+Belarus,1960,"-34,548"
+Belarus,1955,"-54,989"
+Israel,2024,"9,999"
+Israel,2023,"9,999"
+Israel,2022,"9,999"
+Israel,2020,"16,569"
+Israel,2015,"12,049"
+Israel,2010,"9,580"
+Israel,2005,"13,756"
+Israel,2000,"27,257"
+Israel,1995,"50,609"
+Israel,1990,"57,467"
+Israel,1985,"34,721"
+Israel,1980,601
+Israel,1975,"6,973"
+Israel,1970,"48,257"
+Israel,1965,"58,426"
+Israel,1960,"39,949"
+Israel,1955,"23,087"
+Togo,2024,"-2,000"
+Togo,2023,"-2,000"
+Togo,2022,"-2,000"
+Togo,2020,-995
+Togo,2015,"-1,985"
+Togo,2010,"-1,972"
+Togo,2005,"-4,438"
+Togo,2000,"4,710"
+Togo,1995,"57,406"
+Togo,1990,59
+Togo,1985,"1,242"
+Togo,1980,"-4,993"
+Togo,1975,"-16,973"
+Togo,1970,"10,865"
+Togo,1965,"6,104"
+Togo,1960,"-13,868"
+Togo,1955,"-10,221"
+Austria,2024,"19,999"
+Austria,2023,"19,999"
+Austria,2022,"19,999"
+Austria,2020,"20,314"
+Austria,2015,"115,125"
+Austria,2010,"22,786"
+Austria,2005,"50,282"
+Austria,2000,"17,531"
+Austria,1995,"1,447"
+Austria,1990,"59,606"
+Austria,1985,"5,834"
+Austria,1980,"9,591"
+Austria,1975,"-24,472"
+Austria,1970,"10,360"
+Austria,1965,"10,295"
+Austria,1960,"-2,274"
+Austria,1955,"-19,321"
+Switzerland,2024,"39,998"
+Switzerland,2023,"39,998"
+Switzerland,2022,"39,998"
+Switzerland,2020,"53,786"
+Switzerland,2015,"71,488"
+Switzerland,2010,"75,604"
+Switzerland,2005,"32,421"
+Switzerland,2000,"24,066"
+Switzerland,1995,"24,956"
+Switzerland,1990,"58,538"
+Switzerland,1985,"14,005"
+Switzerland,1980,"17,242"
+Switzerland,1975,"-58,461"
+Switzerland,1970,"-18,454"
+Switzerland,1965,"-1,040"
+Switzerland,1960,"22,356"
+Switzerland,1955,"28,847"
+Sierra Leone,2024,"-4,000"
+Sierra Leone,2023,"-4,000"
+Sierra Leone,2022,"-4,000"
+Sierra Leone,2020,"1,292"
+Sierra Leone,2015,-356
+Sierra Leone,2010,"7,983"
+Sierra Leone,2005,"-1,805"
+Sierra Leone,2000,"83,013"
+Sierra Leone,1995,"-112,857"
+Sierra Leone,1990,"131,587"
+Sierra Leone,1985,"-7,873"
+Sierra Leone,1980,"-11,641"
+Sierra Leone,1975,"-13,058"
+Sierra Leone,1970,"-4,957"
+Sierra Leone,1965,"-1,851"
+Sierra Leone,1960,"-3,528"
+Sierra Leone,1955,"-5,237"
+the Lao People's Democratic Republic,2024,"-9,999"
+the Lao People's Democratic Republic,2023,"-9,999"
+the Lao People's Democratic Republic,2022,"-9,999"
+the Lao People's Democratic Republic,2020,"-10,303"
+the Lao People's Democratic Republic,2015,"-12,995"
+the Lao People's Democratic Republic,2010,"-27,446"
+the Lao People's Democratic Republic,2005,"-24,171"
+the Lao People's Democratic Republic,2000,"-34,009"
+the Lao People's Democratic Republic,1995,"-14,290"
+the Lao People's Democratic Republic,1990,"-3,100"
+the Lao People's Democratic Republic,1985,"-1,388"
+the Lao People's Democratic Republic,1980,"-17,366"
+the Lao People's Democratic Republic,1975,"-13,881"
+the Lao People's Democratic Republic,1970,0
+the Lao People's Democratic Republic,1965,0
+the Lao People's Democratic Republic,1960,0
+the Lao People's Democratic Republic,1955,0
+the Hong Kong Special Administrative Region of the People's Republic of China,2024,"19,999"
+the Hong Kong Special Administrative Region of the People's Republic of China,2023,"19,999"
+the Hong Kong Special Administrative Region of the People's Republic of China,2022,"19,999"
+the Hong Kong Special Administrative Region of the People's Republic of China,2020,0
+the Hong Kong Special Administrative Region of the People's Republic of China,2015,"13,061"
+the Hong Kong Special Administrative Region of the People's Republic of China,2010,"10,584"
+the Hong Kong Special Administrative Region of the People's Republic of China,2005,75
+the Hong Kong Special Administrative Region of the People's Republic of China,2000,"60,719"
+the Hong Kong Special Administrative Region of the People's Republic of China,1995,"30,241"
+the Hong Kong Special Administrative Region of the People's Republic of China,1990,"42,265"
+the Hong Kong Special Administrative Region of the People's Republic of China,1985,"26,327"
+the Hong Kong Special Administrative Region of the People's Republic of China,1980,"53,964"
+the Hong Kong Special Administrative Region of the People's Republic of China,1975,"48,467"
+the Hong Kong Special Administrative Region of the People's Republic of China,1970,"-3,703"
+the Hong Kong Special Administrative Region of the People's Republic of China,1965,"3,559"
+the Hong Kong Special Administrative Region of the People's Republic of China,1960,"39,211"
+the Hong Kong Special Administrative Region of the People's Republic of China,1955,"37,643"
+Serbia,2024,"-9,999"
+Serbia,2023,"-9,999"
+Serbia,2022,"-9,999"
+Serbia,2020,243
+Serbia,2015,"7,368"
+Serbia,2010,-20
+Serbia,2005,351
+Serbia,2000,"2,082"
+Serbia,1995,"7,879"
+Serbia,1990,-651
+Serbia,1985,"1,869"
+Serbia,1980,"9,690"
+Serbia,1975,"14,294"
+Serbia,1970,"4,673"
+Serbia,1965,"4,063"
+Serbia,1960,"-10,246"
+Serbia,1955,"-14,815"
+Nicaragua,2024,"-8,000"
+Nicaragua,2023,"-8,000"
+Nicaragua,2022,"-8,000"
+Nicaragua,2020,"-10,384"
+Nicaragua,2015,"-24,359"
+Nicaragua,2010,"-29,081"
+Nicaragua,2005,"-33,283"
+Nicaragua,2000,"-42,092"
+Nicaragua,1995,"-25,888"
+Nicaragua,1990,"-24,283"
+Nicaragua,1985,"-23,848"
+Nicaragua,1980,"-15,132"
+Nicaragua,1975,"-9,349"
+Nicaragua,1970,"-5,419"
+Nicaragua,1965,"-3,226"
+Nicaragua,1960,"-2,417"
+Nicaragua,1955,"-2,185"
+Libya,2024,"-2,000"
+Libya,2023,"-2,000"
+Libya,2022,"-2,000"
+Libya,2020,-696
+Libya,2015,"-7,660"
+Libya,2010,"9,613"
+Libya,2005,"41,035"
+Libya,2000,"31,970"
+Libya,1995,"-5,066"
+Libya,1990,947
+Libya,1985,"11,961"
+Libya,1980,"54,588"
+Libya,1975,"43,437"
+Libya,1970,"-15,185"
+Libya,1965,"-14,590"
+Libya,1960,"14,784"
+Libya,1955,"10,358"
+Paraguay,2024,"-12,499"
+Paraguay,2023,"-12,499"
+Paraguay,2022,"-12,499"
+Paraguay,2020,"-8,230"
+Paraguay,2015,"-16,833"
+Paraguay,2010,"-26,173"
+Paraguay,2005,"-42,163"
+Paraguay,2000,"-15,880"
+Paraguay,1995,"-7,653"
+Paraguay,1990,"-4,689"
+Paraguay,1985,"-3,564"
+Paraguay,1980,"-2,802"
+Paraguay,1975,"-3,803"
+Paraguay,1970,"-12,579"
+Paraguay,1965,"-13,720"
+Paraguay,1960,"-14,610"
+Paraguay,1955,"-15,424"
+Kyrgyzstan,2024,"-9,999"
+Kyrgyzstan,2023,"-9,999"
+Kyrgyzstan,2022,"-9,999"
+Kyrgyzstan,2020,"-14,307"
+Kyrgyzstan,2015,"-29,468"
+Kyrgyzstan,2010,"-52,547"
+Kyrgyzstan,2005,"-27,130"
+Kyrgyzstan,2000,"-21,139"
+Kyrgyzstan,1995,"-17,460"
+Kyrgyzstan,1990,"-37,094"
+Kyrgyzstan,1985,"-32,108"
+Kyrgyzstan,1980,"-5,090"
+Kyrgyzstan,1975,"-7,649"
+Kyrgyzstan,1970,"11,294"
+Kyrgyzstan,1965,"22,875"
+Kyrgyzstan,1960,"13,949"
+Kyrgyzstan,1955,"3,355"
+Bulgaria,2024,"-4,800"
+Bulgaria,2023,"-4,800"
+Bulgaria,2022,"-4,800"
+Bulgaria,2020,"-9,902"
+Bulgaria,2015,"-15,356"
+Bulgaria,2010,"-8,686"
+Bulgaria,2005,"-3,832"
+Bulgaria,2000,"-11,295"
+Bulgaria,1995,"-22,495"
+Bulgaria,1990,"-29,479"
+Bulgaria,1985,"-32,050"
+Bulgaria,1980,"-28,047"
+Bulgaria,1975,"-12,089"
+Bulgaria,1970,"2,745"
+Bulgaria,1965,"1,838"
+Bulgaria,1960,"-1,050"
+Bulgaria,1955,"-3,623"
+Turkmenistan,2024,"-4,000"
+Turkmenistan,2023,"-4,000"
+Turkmenistan,2022,"-4,000"
+Turkmenistan,2020,"-4,502"
+Turkmenistan,2015,"-9,612"
+Turkmenistan,2010,"-9,627"
+Turkmenistan,2005,"-8,252"
+Turkmenistan,2000,"-9,473"
+Turkmenistan,1995,-462
+Turkmenistan,1990,798
+Turkmenistan,1985,"-6,209"
+Turkmenistan,1980,"-4,609"
+Turkmenistan,1975,"2,247"
+Turkmenistan,1970,"5,557"
+Turkmenistan,1965,"5,492"
+Turkmenistan,1960,"5,730"
+Turkmenistan,1955,"4,672"
+El Salvador,2024,"-23,249"
+El Salvador,2023,"-23,249"
+El Salvador,2022,"-23,249"
+El Salvador,2020,"-25,214"
+El Salvador,2015,"-51,282"
+El Salvador,2010,"-54,686"
+El Salvador,2005,"-91,042"
+El Salvador,2000,"-97,219"
+El Salvador,1995,"-89,307"
+El Salvador,1990,"-39,690"
+El Salvador,1985,"-29,111"
+El Salvador,1980,"-41,318"
+El Salvador,1975,"-26,198"
+El Salvador,1970,"-11,367"
+El Salvador,1965,"-11,220"
+El Salvador,1960,"-4,888"
+El Salvador,1955,"-8,016"
+the Republic of the Congo,2024,"-1,000"
+the Republic of the Congo,2023,"-1,000"
+the Republic of the Congo,2022,"-1,000"
+the Republic of the Congo,2020,"-4,465"
+the Republic of the Congo,2015,"-18,219"
+the Republic of the Congo,2010,"12,316"
+the Republic of the Congo,2005,"38,337"
+the Republic of the Congo,2000,"79,780"
+the Republic of the Congo,1995,"3,746"
+the Republic of the Congo,1990,-400
+the Republic of the Congo,1985,192
+the Republic of the Congo,1980,"-13,988"
+the Republic of the Congo,1975,"-10,299"
+the Republic of the Congo,1970,0
+the Republic of the Congo,1965,0
+the Republic of the Congo,1960,0
+the Republic of the Congo,1955,0
+Singapore,2024,"26,998"
+Singapore,2023,"26,998"
+Singapore,2022,"26,998"
+Singapore,2020,"21,324"
+Singapore,2015,"40,958"
+Singapore,2010,"109,045"
+Singapore,2005,"80,422"
+Singapore,2000,"39,387"
+Singapore,1995,"67,448"
+Singapore,1990,"44,423"
+Singapore,1985,"31,389"
+Singapore,1980,"17,373"
+Singapore,1975,"1,104"
+Singapore,1970,607
+Singapore,1965,422
+Singapore,1960,"1,688"
+Singapore,1955,"14,096"
+Denmark,2024,"19,999"
+Denmark,2023,"19,999"
+Denmark,2022,"19,999"
+Denmark,2020,"23,076"
+Denmark,2015,"22,368"
+Denmark,2010,"17,037"
+Denmark,2005,"11,693"
+Denmark,2000,"12,536"
+Denmark,1995,"14,157"
+Denmark,1990,"9,449"
+Denmark,1985,"3,498"
+Denmark,1980,"2,904"
+Denmark,1975,"4,643"
+Denmark,1970,"3,763"
+Denmark,1965,"1,584"
+Denmark,1960,-726
+Denmark,1955,"-3,898"
+Slovakia,2024,"-83,800"
+Slovakia,2023,"-112,067"
+Slovakia,2022,"425,001"
+Slovakia,2020,"1,746"
+Slovakia,2015,"2,637"
+Slovakia,2010,"-1,558"
+Slovakia,2005,-219
+Slovakia,2000,"-1,135"
+Slovakia,1995,-591
+Slovakia,1990,"-10,132"
+Slovakia,1985,"-6,829"
+Slovakia,1980,"-6,420"
+Slovakia,1975,"-4,945"
+Slovakia,1970,"-5,293"
+Slovakia,1965,"-9,248"
+Slovakia,1960,"3,717"
+Slovakia,1955,"4,499"
+the Central African Republic,2024,"-12,337"
+the Central African Republic,2023,"-14,716"
+the Central African Republic,2022,"-17,463"
+the Central African Republic,2020,"-24,803"
+the Central African Republic,2015,"-63,213"
+the Central African Republic,2010,"-43,189"
+the Central African Republic,2005,"-13,609"
+the Central African Republic,2000,"8,082"
+the Central African Republic,1995,"-12,995"
+the Central African Republic,1990,"2,000"
+the Central African Republic,1985,"-46,428"
+the Central African Republic,1980,"-41,537"
+the Central African Republic,1975,"-9,904"
+the Central African Republic,1970,"-3,689"
+the Central African Republic,1965,485
+the Central African Republic,1960,485
+the Central African Republic,1955,0
+Finland,2024,"13,999"
+Finland,2023,"13,999"
+Finland,2022,"13,999"
+Finland,2020,"17,482"
+Finland,2015,"12,433"
+Finland,2010,"14,053"
+Finland,2005,"9,406"
+Finland,2000,"2,428"
+Finland,1995,"4,250"
+Finland,1990,"8,864"
+Finland,1985,"2,343"
+Finland,1980,"-2,259"
+Finland,1975,"-3,788"
+Finland,1970,"-36,633"
+Finland,1965,"-21,466"
+Finland,1960,"-9,445"
+Finland,1955,"-2,591"
+Norway,2024,"27,998"
+Norway,2023,"27,998"
+Norway,2022,"27,998"
+Norway,2020,"10,756"
+Norway,2015,"30,329"
+Norway,2010,"42,906"
+Norway,2005,"18,467"
+Norway,2000,"9,789"
+Norway,1995,"6,522"
+Norway,1990,"1,895"
+Norway,1985,"6,558"
+Norway,1980,"3,745"
+Norway,1975,"3,311"
+Norway,1970,"-1,319"
+Norway,1965,"-1,976"
+Norway,1960,"-1,990"
+Norway,1955,"1,423"
+Liberia,2024,"-5,000"
+Liberia,2023,"-5,000"
+Liberia,2022,"-5,000"
+Liberia,2020,"-10,119"
+Liberia,2015,"-15,195"
+Liberia,2010,"2,848"
+Liberia,2005,"101,019"
+Liberia,2000,"-2,060"
+Liberia,1995,"54,372"
+Liberia,1990,"-712,546"
+Liberia,1985,"7,482"
+Liberia,1980,"4,012"
+Liberia,1975,"2,038"
+Liberia,1970,"2,294"
+Liberia,1965,"2,435"
+Liberia,1960,"1,891"
+Liberia,1955,749
+the State of Palestine,2024,"-5,000"
+the State of Palestine,2023,"-5,000"
+the State of Palestine,2022,"-5,000"
+the State of Palestine,2020,"-12,369"
+the State of Palestine,2015,"-22,904"
+the State of Palestine,2010,"-26,350"
+the State of Palestine,2005,"-28,157"
+the State of Palestine,2000,"-11,501"
+the State of Palestine,1995,"8,763"
+the State of Palestine,1990,-476
+the State of Palestine,1985,"-31,640"
+the State of Palestine,1980,"-15,067"
+the State of Palestine,1975,"-11,596"
+the State of Palestine,1970,"-31,405"
+the State of Palestine,1965,"-36,419"
+the State of Palestine,1960,"-17,662"
+the State of Palestine,1955,"-16,930"
+Lebanon,2024,"-167,954"
+Lebanon,2023,"-177,331"
+Lebanon,2022,"-160,237"
+Lebanon,2020,"-115,146"
+Lebanon,2015,"-223,722"
+Lebanon,2010,"-40,915"
+Lebanon,2005,"1,224"
+Lebanon,2000,455
+Lebanon,1995,"2,634"
+Lebanon,1990,"-6,595"
+Lebanon,1985,"-1,108"
+Lebanon,1980,"2,104"
+Lebanon,1975,0
+Lebanon,1970,"-4,508"
+Lebanon,1965,-742
+Lebanon,1960,0
+Lebanon,1955,0
+New Zealand,2024,"12,999"
+New Zealand,2023,"12,999"
+New Zealand,2022,"12,999"
+New Zealand,2020,"38,220"
+New Zealand,2015,"47,165"
+New Zealand,2010,"6,258"
+New Zealand,2005,"19,148"
+New Zealand,2000,"-6,080"
+New Zealand,1995,"26,133"
+New Zealand,1990,"71,491"
+New Zealand,1985,"-13,674"
+New Zealand,1980,"-15,213"
+New Zealand,1975,"12,858"
+New Zealand,1970,"4,590"
+New Zealand,1965,"9,382"
+New Zealand,1960,"4,371"
+New Zealand,1955,"8,132"
+Costa Rica,2024,"3,638"
+Costa Rica,2023,"3,750"
+Costa Rica,2022,"3,850"
+Costa Rica,2020,"2,084"
+Costa Rica,2015,"4,065"
+Costa Rica,2010,"4,728"
+Costa Rica,2005,"7,022"
+Costa Rica,2000,"13,590"
+Costa Rica,1995,"16,607"
+Costa Rica,1990,"7,941"
+Costa Rica,1985,"3,631"
+Costa Rica,1980,"3,681"
+Costa Rica,1975,"3,081"
+Costa Rica,1970,"1,917"
+Costa Rica,1965,"1,570"
+Costa Rica,1960,"1,525"
+Costa Rica,1955,"1,240"
+Ireland,2024,"9,999"
+Ireland,2023,"9,999"
+Ireland,2022,"9,999"
+Ireland,2020,"15,320"
+Ireland,2015,"13,130"
+Ireland,2010,"-27,110"
+Ireland,2005,"64,192"
+Ireland,2000,"31,230"
+Ireland,1995,"10,186"
+Ireland,1990,"-8,183"
+Ireland,1985,"-15,690"
+Ireland,1980,"-2,183"
+Ireland,1975,"14,124"
+Ireland,1970,"-8,610"
+Ireland,1965,"-13,782"
+Ireland,1960,"-38,971"
+Ireland,1955,"-43,166"
+Mauritania,2024,"3,000"
+Mauritania,2023,"3,000"
+Mauritania,2022,"3,000"
+Mauritania,2020,"-1,494"
+Mauritania,2015,"-3,018"
+Mauritania,2010,"3,637"
+Mauritania,2005,"-18,723"
+Mauritania,2000,"-2,997"
+Mauritania,1995,"-22,996"
+Mauritania,1990,"-3,002"
+Mauritania,1985,"-2,998"
+Mauritania,1980,"-2,997"
+Mauritania,1975,"-1,477"
+Mauritania,1970,-864
+Mauritania,1965,-438
+Mauritania,1960,-322
+Mauritania,1955,-291
+Oman,2024,0
+Oman,2023,0
+Oman,2022,0
+Oman,2020,"-164,408"
+Oman,2015,"134,260"
+Oman,2010,"264,095"
+Oman,2005,-630
+Oman,2000,"-19,889"
+Oman,1995,"-15,515"
+Oman,1990,"33,492"
+Oman,1985,"33,818"
+Oman,1980,"12,626"
+Oman,1975,"5,632"
+Oman,1970,"-2,997"
+Oman,1965,"-2,997"
+Oman,1960,"-2,997"
+Oman,1955,"-2,005"
+Panama,2024,"6,556"
+Panama,2023,"7,262"
+Panama,2022,"7,967"
+Panama,2020,"5,473"
+Panama,2015,"8,648"
+Panama,2010,"4,953"
+Panama,2005,"3,843"
+Panama,2000,"2,602"
+Panama,1995,"1,221"
+Panama,1990,-854
+Panama,1985,"-2,297"
+Panama,1980,"-2,701"
+Panama,1975,"-2,635"
+Panama,1970,"-2,476"
+Panama,1965,"-2,454"
+Panama,1960,"-2,409"
+Panama,1955,"-2,574"
+Kuwait,2024,"11,999"
+Kuwait,2023,"11,999"
+Kuwait,2022,"11,999"
+Kuwait,2020,"-254,177"
+Kuwait,2015,"259,114"
+Kuwait,2010,"94,736"
+Kuwait,2005,"68,878"
+Kuwait,2000,"19,193"
+Kuwait,1995,"1,693"
+Kuwait,1990,"-1,196,051"
+Kuwait,1985,"25,773"
+Kuwait,1980,"32,491"
+Kuwait,1975,"30,911"
+Kuwait,1970,"26,616"
+Kuwait,1965,"30,575"
+Kuwait,1960,"21,767"
+Kuwait,1955,"14,998"
+Croatia,2024,"-2,000"
+Croatia,2023,"-2,000"
+Croatia,2022,"-2,000"
+Croatia,2020,"-11,592"
+Croatia,2015,"-13,408"
+Croatia,2010,"-5,624"
+Croatia,2005,"-3,834"
+Croatia,2000,"-50,791"
+Croatia,1995,"-52,246"
+Croatia,1990,"-7,183"
+Croatia,1985,"15,822"
+Croatia,1980,"5,588"
+Croatia,1975,"-6,653"
+Croatia,1970,"-4,120"
+Croatia,1965,-420
+Croatia,1960,"-2,176"
+Croatia,1955,"-2,945"
+Eritrea,2024,"-13,918"
+Eritrea,2023,"-15,297"
+Eritrea,2022,"-17,152"
+Eritrea,2020,"-14,987"
+Eritrea,2015,"-53,049"
+Eritrea,2010,"-13,369"
+Eritrea,2005,"-12,841"
+Eritrea,2000,"-33,196"
+Eritrea,1995,"136,103"
+Eritrea,1990,"-12,442"
+Eritrea,1985,"-1,086"
+Eritrea,1980,"1,995"
+Eritrea,1975,"1,995"
+Eritrea,1970,"1,487"
+Eritrea,1965,"1,194"
+Eritrea,1960,"1,059"
+Eritrea,1955,348
+Georgia,2024,"-9,999"
+Georgia,2023,"-9,999"
+Georgia,2022,"-9,999"
+Georgia,2020,"-2,734"
+Georgia,2015,"-13,317"
+Georgia,2010,"-24,663"
+Georgia,2005,"-31,214"
+Georgia,2000,"-135,044"
+Georgia,1995,"-130,196"
+Georgia,1990,"-108,964"
+Georgia,1985,"-15,060"
+Georgia,1980,"-12,594"
+Georgia,1975,"-9,606"
+Georgia,1970,"-1,310"
+Georgia,1965,"18,975"
+Georgia,1960,"16,740"
+Georgia,1955,"11,302"
+Mongolia,2024,-850
+Mongolia,2023,-850
+Mongolia,2022,-850
+Mongolia,2020,0
+Mongolia,2015,"3,932"
+Mongolia,2010,"-8,592"
+Mongolia,2005,"-8,663"
+Mongolia,2000,"-10,833"
+Mongolia,1995,"-8,617"
+Mongolia,1990,"-11,026"
+Mongolia,1985,-793
+Mongolia,1980,"-1,493"
+Mongolia,1975,"5,435"
+Mongolia,1970,"2,151"
+Mongolia,1965,"4,822"
+Mongolia,1960,"13,410"
+Mongolia,1955,0
+the Republic of Moldova,2024,"-94,253"
+the Republic of Moldova,2023,"-125,204"
+the Republic of Moldova,2022,"462,866"
+the Republic of Moldova,2020,"-14,278"
+the Republic of Moldova,2015,"-59,404"
+the Republic of Moldova,2010,"-86,459"
+the Republic of Moldova,2005,"-51,269"
+the Republic of Moldova,2000,"-44,421"
+the Republic of Moldova,1995,"-25,033"
+the Republic of Moldova,1990,"-14,931"
+the Republic of Moldova,1985,"-6,410"
+the Republic of Moldova,1980,"-3,830"
+the Republic of Moldova,1975,"2,779"
+the Republic of Moldova,1970,"6,404"
+the Republic of Moldova,1965,"15,211"
+the Republic of Moldova,1960,"28,097"
+the Republic of Moldova,1955,"33,160"
+Uruguay,2024,"-1,500"
+Uruguay,2023,"-1,500"
+Uruguay,2022,"-1,500"
+Uruguay,2020,"-1,486"
+Uruguay,2015,"-4,156"
+Uruguay,2010,"-7,696"
+Uruguay,2005,"-16,092"
+Uruguay,2000,"-11,074"
+Uruguay,1995,"-8,333"
+Uruguay,1990,"-7,498"
+Uruguay,1985,"-8,838"
+Uruguay,1980,"-14,254"
+Uruguay,1975,"-14,348"
+Uruguay,1970,"-12,730"
+Uruguay,1965,"-3,544"
+Uruguay,1960,"2,060"
+Uruguay,1955,"3,693"
+Puerto Rico,2024,"18,610"
+Puerto Rico,2023,"19,835"
+Puerto Rico,2022,"16,702"
+Puerto Rico,2020,"-7,408"
+Puerto Rico,2015,"-64,764"
+Puerto Rico,2010,"-33,742"
+Puerto Rico,2005,"-33,430"
+Puerto Rico,2000,"-22,489"
+Puerto Rico,1995,"-8,680"
+Puerto Rico,1990,"-8,238"
+Puerto Rico,1985,"-13,613"
+Puerto Rico,1980,"-8,196"
+Puerto Rico,1975,-383
+Puerto Rico,1970,"-7,771"
+Puerto Rico,1965,"-24,941"
+Puerto Rico,1960,"-28,261"
+Puerto Rico,1955,"-56,453"
+Bosnia and Herzegovina,2024,-500
+Bosnia and Herzegovina,2023,-500
+Bosnia and Herzegovina,2022,-500
+Bosnia and Herzegovina,2020,"-26,857"
+Bosnia and Herzegovina,2015,"-33,976"
+Bosnia and Herzegovina,2010,"-67,267"
+Bosnia and Herzegovina,2005,"-37,107"
+Bosnia and Herzegovina,2000,"8,141"
+Bosnia and Herzegovina,1995,"126,915"
+Bosnia and Herzegovina,1990,"-22,827"
+Bosnia and Herzegovina,1985,"-11,430"
+Bosnia and Herzegovina,1980,"-9,952"
+Bosnia and Herzegovina,1975,"-12,973"
+Bosnia and Herzegovina,1970,"-12,781"
+Bosnia and Herzegovina,1965,"-11,656"
+Bosnia and Herzegovina,1960,"-11,702"
+Bosnia and Herzegovina,1955,"-10,886"
+Albania,2024,"-8,000"
+Albania,2023,"-8,000"
+Albania,2022,"-8,000"
+Albania,2020,"-9,117"
+Albania,2015,"-12,240"
+Albania,2010,"-29,330"
+Albania,2005,"-50,855"
+Albania,2000,"-63,610"
+Albania,1995,"-65,106"
+Albania,1990,"-52,723"
+Albania,1985,"-27,468"
+Albania,1980,"-9,135"
+Albania,1975,"3,922"
+Albania,1970,"11,102"
+Albania,1965,"14,209"
+Albania,1960,"15,540"
+Albania,1955,"16,316"
+Jamaica,2024,"-10,999"
+Jamaica,2023,"-10,999"
+Jamaica,2022,"-10,999"
+Jamaica,2020,0
+Jamaica,2015,"-11,329"
+Jamaica,2010,"-14,244"
+Jamaica,2005,"-18,072"
+Jamaica,2000,"-18,500"
+Jamaica,1995,"-20,084"
+Jamaica,1990,"-26,080"
+Jamaica,1985,"-22,369"
+Jamaica,1980,"-16,273"
+Jamaica,1975,"-18,344"
+Jamaica,1970,"-24,366"
+Jamaica,1965,"-29,615"
+Jamaica,1960,"-29,946"
+Jamaica,1955,"-23,081"
+Armenia,2024,"-5,000"
+Armenia,2023,"-5,000"
+Armenia,2022,"-5,000"
+Armenia,2020,"-12,825"
+Armenia,2015,"-27,283"
+Armenia,2010,"-31,991"
+Armenia,2005,"-31,023"
+Armenia,2000,"-51,873"
+Armenia,1995,"-50,217"
+Armenia,1990,"2,119"
+Armenia,1985,"-34,757"
+Armenia,1980,"-22,177"
+Armenia,1975,"20,630"
+Armenia,1970,"18,405"
+Armenia,1965,"18,587"
+Armenia,1960,"12,482"
+Armenia,1955,"11,058"
+Gambia,2024,"-3,000"
+Gambia,2023,"-3,000"
+Gambia,2022,"-3,000"
+Gambia,2020,"-1,960"
+Gambia,2015,"-3,224"
+Gambia,2010,"-2,464"
+Gambia,2005,"-3,204"
+Gambia,2000,"-3,676"
+Gambia,1995,"-2,800"
+Gambia,1990,"11,239"
+Gambia,1985,"8,373"
+Gambia,1980,"5,266"
+Gambia,1975,"2,980"
+Gambia,1970,"2,784"
+Gambia,1965,"2,282"
+Gambia,1960,"2,282"
+Gambia,1955,"2,282"
+Lithuania,2024,"-11,300"
+Lithuania,2023,"-13,128"
+Lithuania,2022,"-15,192"
+Lithuania,2020,"-12,625"
+Lithuania,2015,"-18,912"
+Lithuania,2010,"-28,864"
+Lithuania,2005,"-35,453"
+Lithuania,2000,"-31,240"
+Lithuania,1995,"-20,394"
+Lithuania,1990,"-7,205"
+Lithuania,1985,"7,892"
+Lithuania,1980,"11,762"
+Lithuania,1975,"9,117"
+Lithuania,1970,"4,818"
+Lithuania,1965,-206
+Lithuania,1960,-463
+Lithuania,1955,-512
+Qatar,2024,0
+Qatar,2023,0
+Qatar,2022,0
+Qatar,2020,"-163,999"
+Qatar,2015,"178,133"
+Qatar,2010,"64,531"
+Qatar,2005,"106,609"
+Qatar,2000,"22,039"
+Qatar,1995,"4,893"
+Qatar,1990,"5,021"
+Qatar,1985,"8,632"
+Qatar,1980,"9,672"
+Qatar,1975,"10,070"
+Qatar,1970,"10,398"
+Qatar,1965,"5,082"
+Qatar,1960,"1,586"
+Qatar,1955,38
+Botswana,2024,"3,000"
+Botswana,2023,"3,000"
+Botswana,2022,"3,000"
+Botswana,2020,"1,816"
+Botswana,2015,"2,145"
+Botswana,2010,"3,562"
+Botswana,2005,"4,771"
+Botswana,2000,"7,970"
+Botswana,1995,"7,808"
+Botswana,1990,"4,144"
+Botswana,1985,"3,298"
+Botswana,1980,"12,064"
+Botswana,1975,"11,741"
+Botswana,1970,"-12,728"
+Botswana,1965,"-14,195"
+Botswana,1960,"-4,329"
+Botswana,1955,"-3,594"
+Namibia,2024,"-3,773"
+Namibia,2023,"-3,916"
+Namibia,2022,"-4,061"
+Namibia,2020,"-4,301"
+Namibia,2015,"-8,596"
+Namibia,2010,"-8,518"
+Namibia,2005,"-8,195"
+Namibia,2000,"5,709"
+Namibia,1995,"5,712"
+Namibia,1990,"3,969"
+Namibia,1985,"2,090"
+Namibia,1980,"-15,041"
+Namibia,1975,-553
+Namibia,1970,-244
+Namibia,1965,"-1,327"
+Namibia,1960,"-3,227"
+Namibia,1955,"-4,527"
+Gabon,2024,"1,000"
+Gabon,2023,"1,000"
+Gabon,2022,"1,000"
+Gabon,2020,"1,514"
+Gabon,2015,"12,041"
+Gabon,2010,"17,266"
+Gabon,2005,"8,555"
+Gabon,2000,"3,086"
+Gabon,1995,"1,323"
+Gabon,1990,995
+Gabon,1985,995
+Gabon,1980,995
+Gabon,1975,802
+Gabon,1970,"1,883"
+Gabon,1965,0
+Gabon,1960,0
+Gabon,1955,0
+Lesotho,2024,"-4,000"
+Lesotho,2023,"-4,000"
+Lesotho,2022,"-4,000"
+Lesotho,2020,"-1,490"
+Lesotho,2015,"-4,129"
+Lesotho,2010,"-6,204"
+Lesotho,2005,"-22,692"
+Lesotho,2000,"-23,572"
+Lesotho,1995,"-16,279"
+Lesotho,1990,"-12,891"
+Lesotho,1985,398
+Lesotho,1980,950
+Lesotho,1975,"8,959"
+Lesotho,1970,"10,278"
+Lesotho,1965,"4,055"
+Lesotho,1960,"2,591"
+Lesotho,1955,"-1,386"
+Guinea-Bissau,2024,"-1,400"
+Guinea-Bissau,2023,"-1,400"
+Guinea-Bissau,2022,"-1,400"
+Guinea-Bissau,2020,"-1,394"
+Guinea-Bissau,2015,"-1,393"
+Guinea-Bissau,2010,"-2,257"
+Guinea-Bissau,2005,"-4,662"
+Guinea-Bissau,2000,"-6,971"
+Guinea-Bissau,1995,"-4,376"
+Guinea-Bissau,1990,"-8,150"
+Guinea-Bissau,1985,"-8,816"
+Guinea-Bissau,1980,"-8,080"
+Guinea-Bissau,1975,"26,186"
+Guinea-Bissau,1970,"1,134"
+Guinea-Bissau,1965,"-19,961"
+Guinea-Bissau,1960,"-8,009"
+Guinea-Bissau,1955,"-7,151"
+Slovenia,2024,"2,000"
+Slovenia,2023,"2,000"
+Slovenia,2022,"2,000"
+Slovenia,2020,"7,681"
+Slovenia,2015,"7,934"
+Slovenia,2010,"7,640"
+Slovenia,2005,"8,289"
+Slovenia,2000,"-1,562"
+Slovenia,1995,-763
+Slovenia,1990,"1,718"
+Slovenia,1985,"1,375"
+Slovenia,1980,"4,266"
+Slovenia,1975,"3,680"
+Slovenia,1970,"2,869"
+Slovenia,1965,699
+Slovenia,1960,"3,108"
+Slovenia,1955,"2,589"
+the Republic of North Macedonia,2024,"-1,000"
+the Republic of North Macedonia,2023,"-1,000"
+the Republic of North Macedonia,2022,"-1,000"
+the Republic of North Macedonia,2020,-486
+the Republic of North Macedonia,2015,"-1,378"
+the Republic of North Macedonia,2010,"-1,578"
+the Republic of North Macedonia,2005,"-2,250"
+the Republic of North Macedonia,2000,"5,516"
+the Republic of North Macedonia,1995,"-3,605"
+the Republic of North Macedonia,1990,"-16,174"
+the Republic of North Macedonia,1985,"-13,489"
+the Republic of North Macedonia,1980,-1
+the Republic of North Macedonia,1975,1
+the Republic of North Macedonia,1970,69
+the Republic of North Macedonia,1965,"-5,380"
+the Republic of North Macedonia,1960,"-10,130"
+the Republic of North Macedonia,1955,"-11,274"
+Latvia,2024,"-6,793"
+Latvia,2023,"-7,630"
+Latvia,2022,"-8,466"
+Latvia,2020,"-7,381"
+Latvia,2015,"-11,163"
+Latvia,2010,"-14,321"
+Latvia,2005,"-17,620"
+Latvia,2000,"-20,514"
+Latvia,1995,"-20,017"
+Latvia,1990,"-10,252"
+Latvia,1985,"5,557"
+Latvia,1980,"11,846"
+Latvia,1975,"11,464"
+Latvia,1970,"12,583"
+Latvia,1965,"14,864"
+Latvia,1960,"13,775"
+Latvia,1955,"10,524"
+Equatorial Guinea,2024,"4,000"
+Equatorial Guinea,2023,"4,000"
+Equatorial Guinea,2022,"4,000"
+Equatorial Guinea,2020,0
+Equatorial Guinea,2015,"17,694"
+Equatorial Guinea,2010,"22,033"
+Equatorial Guinea,2005,"15,549"
+Equatorial Guinea,2000,"15,352"
+Equatorial Guinea,1995,"5,300"
+Equatorial Guinea,1990,"3,506"
+Equatorial Guinea,1985,"8,819"
+Equatorial Guinea,1980,"4,903"
+Equatorial Guinea,1975,"-11,398"
+Equatorial Guinea,1970,"-6,499"
+Equatorial Guinea,1965,850
+Equatorial Guinea,1960,222
+Equatorial Guinea,1955,0
+Trinidad and Tobago,2024,-800
+Trinidad and Tobago,2023,-800
+Trinidad and Tobago,2022,-800
+Trinidad and Tobago,2020,"2,370"
+Trinidad and Tobago,2015,-583
+Trinidad and Tobago,2010,"-2,230"
+Trinidad and Tobago,2005,"-3,595"
+Trinidad and Tobago,2000,"-5,185"
+Trinidad and Tobago,1995,"-6,723"
+Trinidad and Tobago,1990,"-7,878"
+Trinidad and Tobago,1985,"-8,051"
+Trinidad and Tobago,1980,"-10,709"
+Trinidad and Tobago,1975,"-7,768"
+Trinidad and Tobago,1970,"-8,751"
+Trinidad and Tobago,1965,"-8,077"
+Trinidad and Tobago,1960,"-5,671"
+Trinidad and Tobago,1955,-594
+Bahrain,2024,0
+Bahrain,2023,0
+Bahrain,2022,0
+Bahrain,2020,"-48,716"
+Bahrain,2015,"29,250"
+Bahrain,2010,"-17,076"
+Bahrain,2005,"53,401"
+Bahrain,2000,"6,264"
+Bahrain,1995,"7,706"
+Bahrain,1990,"4,605"
+Bahrain,1985,"4,256"
+Bahrain,1980,"6,613"
+Bahrain,1975,"6,833"
+Bahrain,1970,"-1,060"
+Bahrain,1965,-421
+Bahrain,1960,"1,268"
+Bahrain,1955,933
+Timor-Leste,2024,"-5,000"
+Timor-Leste,2023,"-5,000"
+Timor-Leste,2022,"-5,000"
+Timor-Leste,2020,"-3,506"
+Timor-Leste,2015,"-5,529"
+Timor-Leste,2010,"-1,607"
+Timor-Leste,2005,"-1,481"
+Timor-Leste,2000,"-12,665"
+Timor-Leste,1995,"-7,916"
+Timor-Leste,1990,399
+Timor-Leste,1985,"2,122"
+Timor-Leste,1980,"5,453"
+Timor-Leste,1975,"9,542"
+Timor-Leste,1970,0
+Timor-Leste,1965,0
+Timor-Leste,1960,0
+Timor-Leste,1955,0
+Estonia,2024,"-1,000"
+Estonia,2023,"-1,000"
+Estonia,2022,"-1,000"
+Estonia,2020,"2,995"
+Estonia,2015,"4,308"
+Estonia,2010,"-3,759"
+Estonia,2005,"-5,242"
+Estonia,2000,"-3,230"
+Estonia,1995,"-12,803"
+Estonia,1990,"-2,798"
+Estonia,1985,"5,033"
+Estonia,1980,"4,505"
+Estonia,1975,"6,670"
+Estonia,1970,"6,294"
+Estonia,1965,"8,941"
+Estonia,1960,"7,627"
+Estonia,1955,"4,362"
+Mauritius,2024,0
+Mauritius,2023,0
+Mauritius,2022,0
+Mauritius,2020,-478
+Mauritius,2015,"-2,747"
+Mauritius,2010,"-3,194"
+Mauritius,2005,"-3,221"
+Mauritius,2000,"-2,522"
+Mauritius,1995,"-1,305"
+Mauritius,1990,"-1,646"
+Mauritius,1985,807
+Mauritius,1980,"-1,601"
+Mauritius,1975,"-3,210"
+Mauritius,1970,"-2,191"
+Mauritius,1965,"-2,829"
+Mauritius,1960,"-2,494"
+Mauritius,1955,"-1,489"
+Republic of Cyprus,2024,"5,000"
+Republic of Cyprus,2023,"5,000"
+Republic of Cyprus,2022,"5,000"
+Republic of Cyprus,2020,"2,999"
+Republic of Cyprus,2015,"4,655"
+Republic of Cyprus,2010,"12,456"
+Republic of Cyprus,2005,"13,237"
+Republic of Cyprus,2000,"11,577"
+Republic of Cyprus,1995,"11,179"
+Republic of Cyprus,1990,"2,551"
+Republic of Cyprus,1985,"3,567"
+Republic of Cyprus,1980,301
+Republic of Cyprus,1975,"-4,819"
+Republic of Cyprus,1970,"-5,021"
+Republic of Cyprus,1965,"-4,748"
+Republic of Cyprus,1960,"2,674"
+Republic of Cyprus,1955,"1,170"
+the Kingdom of Eswatini,2024,"-4,869"
+the Kingdom of Eswatini,2023,"-5,268"
+the Kingdom of Eswatini,2022,"-5,733"
+the Kingdom of Eswatini,2020,"-4,897"
+the Kingdom of Eswatini,2015,"-10,464"
+the Kingdom of Eswatini,2010,"-10,467"
+the Kingdom of Eswatini,2005,"-8,000"
+the Kingdom of Eswatini,2000,"-6,689"
+the Kingdom of Eswatini,1995,"-2,501"
+the Kingdom of Eswatini,1990,"7,169"
+the Kingdom of Eswatini,1985,"1,790"
+the Kingdom of Eswatini,1980,"-2,808"
+the Kingdom of Eswatini,1975,"-3,224"
+the Kingdom of Eswatini,1970,"-3,059"
+the Kingdom of Eswatini,1965,"-1,582"
+the Kingdom of Eswatini,1960,"-2,082"
+the Kingdom of Eswatini,1955,"-1,340"
+Djibouti,2024,900
+Djibouti,2023,900
+Djibouti,2022,900
+Djibouti,2020,744
+Djibouti,2015,"1,723"
+Djibouti,2010,"2,129"
+Djibouti,2005,"-3,779"
+Djibouti,2000,"5,627"
+Djibouti,1995,"-3,163"
+Djibouti,1990,"49,970"
+Djibouti,1985,"9,997"
+Djibouti,1980,"10,121"
+Djibouti,1975,"13,029"
+Djibouti,1970,"5,004"
+Djibouti,1965,"3,023"
+Djibouti,1960,886
+Djibouti,1955,487
+Réunion,2024,-630
+Réunion,2023,-630
+Réunion,2022,-630
+Réunion,2020,-423
+Réunion,2015,"-6,150"
+Réunion,2010,"-4,790"
+Réunion,2005,"-2,528"
+Réunion,2000,"-1,519"
+Réunion,1995,"2,246"
+Réunion,1990,"1,517"
+Réunion,1985,689
+Réunion,1980,"-2,505"
+Réunion,1975,"-2,547"
+Réunion,1970,-827
+Réunion,1965,"-3,264"
+Réunion,1960,"2,556"
+Réunion,1955,"2,438"
+Fiji,2024,"-2,905"
+Fiji,2023,"-3,289"
+Fiji,2022,"-3,557"
+Fiji,2020,"-6,003"
+Fiji,2015,"-11,047"
+Fiji,2010,"-10,666"
+Fiji,2005,"-6,729"
+Fiji,2000,"-6,081"
+Fiji,1995,"-14,575"
+Fiji,1990,"-10,612"
+Fiji,1985,"-2,003"
+Fiji,1980,"-1,440"
+Fiji,1975,"-4,367"
+Fiji,1970,"-3,603"
+Fiji,1965,-809
+Fiji,1960,-830
+Fiji,1955,-692
+Comoros,2024,"-2,000"
+Comoros,2023,"-2,000"
+Comoros,2022,"-2,000"
+Comoros,2020,"-1,772"
+Comoros,2015,"-1,349"
+Comoros,2010,"-2,294"
+Comoros,2005,"-2,717"
+Comoros,2000,"-2,971"
+Comoros,1995,"-2,831"
+Comoros,1990,"-1,194"
+Comoros,1985,-987
+Comoros,1980,566
+Comoros,1975,"1,058"
+Comoros,1970,430
+Comoros,1965,-676
+Comoros,1960,-741
+Comoros,1955,-715
+Guyana,2024,"-3,900"
+Guyana,2023,"-3,900"
+Guyana,2022,"-3,900"
+Guyana,2020,802
+Guyana,2015,"-6,524"
+Guyana,2010,"-14,327"
+Guyana,2005,"-13,000"
+Guyana,2000,"-13,176"
+Guyana,1995,"-13,242"
+Guyana,1990,"-21,639"
+Guyana,1985,"-21,225"
+Guyana,1980,"-15,059"
+Guyana,1975,"-10,226"
+Guyana,1970,"-10,098"
+Guyana,1965,"-5,611"
+Guyana,1960,"-1,349"
+Guyana,1955,951
+Bhutan,2024,300
+Bhutan,2023,300
+Bhutan,2022,300
+Bhutan,2020,291
+Bhutan,2015,"-1,171"
+Bhutan,2010,"-1,190"
+Bhutan,2005,"1,779"
+Bhutan,2000,"6,069"
+Bhutan,1995,"-1,497"
+Bhutan,1990,-996
+Bhutan,1985,"1,696"
+Bhutan,1980,"2,303"
+Bhutan,1975,"2,700"
+Bhutan,1970,"2,700"
+Bhutan,1965,"2,303"
+Bhutan,1960,"1,489"
+Bhutan,1955,"1,294"
+the Solomon Islands,2024,"-1,600"
+the Solomon Islands,2023,"-1,600"
+the Solomon Islands,2022,"-1,600"
+the Solomon Islands,2020,-808
+the Solomon Islands,2015,"-1,603"
+the Solomon Islands,2010,"-2,225"
+the Solomon Islands,2005,"-2,800"
+the Solomon Islands,2000,"-2,137"
+the Solomon Islands,1995,-859
+the Solomon Islands,1990,-529
+the Solomon Islands,1985,397
+the Solomon Islands,1980,333
+the Solomon Islands,1975,-406
+the Solomon Islands,1970,-901
+the Solomon Islands,1965,-423
+the Solomon Islands,1960,-385
+the Solomon Islands,1955,260
+the Macao Special Administrative Region of the People's Republic of China (also referred as Macau),2024,"5,000"
+the Macao Special Administrative Region of the People's Republic of China (also referred as Macau),2023,"5,000"
+the Macao Special Administrative Region of the People's Republic of China (also referred as Macau),2022,"5,000"
+the Macao Special Administrative Region of the People's Republic of China (also referred as Macau),2020,"8,441"
+the Macao Special Administrative Region of the People's Republic of China (also referred as Macau),2015,"6,465"
+the Macao Special Administrative Region of the People's Republic of China (also referred as Macau),2010,"11,168"
+the Macao Special Administrative Region of the People's Republic of China (also referred as Macau),2005,"11,407"
+the Macao Special Administrative Region of the People's Republic of China (also referred as Macau),2000,"4,134"
+the Macao Special Administrative Region of the People's Republic of China (also referred as Macau),1995,"3,740"
+the Macao Special Administrative Region of the People's Republic of China (also referred as Macau),1990,"7,443"
+the Macao Special Administrative Region of the People's Republic of China (also referred as Macau),1985,"6,397"
+the Macao Special Administrative Region of the People's Republic of China (also referred as Macau),1980,"-2,496"
+the Macao Special Administrative Region of the People's Republic of China (also referred as Macau),1975,"-1,513"
+the Macao Special Administrative Region of the People's Republic of China (also referred as Macau),1970,"5,236"
+the Macao Special Administrative Region of the People's Republic of China (also referred as Macau),1965,"5,118"
+the Macao Special Administrative Region of the People's Republic of China (also referred as Macau),1960,"-8,044"
+the Macao Special Administrative Region of the People's Republic of China (also referred as Macau),1955,"-8,602"
+Luxembourg,2024,"4,622"
+Luxembourg,2023,"4,883"
+Luxembourg,2022,"5,222"
+Luxembourg,2020,"6,952"
+Luxembourg,2015,"11,373"
+Luxembourg,2010,"7,793"
+Luxembourg,2005,"6,190"
+Luxembourg,2000,"4,407"
+Luxembourg,1995,"4,225"
+Luxembourg,1990,"3,925"
+Luxembourg,1985,961
+Luxembourg,1980,784
+Luxembourg,1975,"2,830"
+Luxembourg,1970,835
+Luxembourg,1965,"2,182"
+Luxembourg,1960,29
+Luxembourg,1955,438
+Montenegro,2024,-480
+Montenegro,2023,-480
+Montenegro,2022,-480
+Montenegro,2020,"-1,326"
+Montenegro,2015,"-1,943"
+Montenegro,2010,"-2,017"
+Montenegro,2005,"-1,986"
+Montenegro,2000,"-4,423"
+Montenegro,1995,"-3,124"
+Montenegro,1990,"-1,762"
+Montenegro,1985,"-3,155"
+Montenegro,1980,-111
+Montenegro,1975,-784
+Montenegro,1970,"-2,063"
+Montenegro,1965,"-2,738"
+Montenegro,1960,"-2,477"
+Montenegro,1955,"-2,720"
+Suriname,2024,"-1,000"
+Suriname,2023,"-1,000"
+Suriname,2022,"-1,000"
+Suriname,2020,-313
+Suriname,2015,-976
+Suriname,2010,"-1,145"
+Suriname,2005,"-1,542"
+Suriname,2000,613
+Suriname,1995,607
+Suriname,1990,"-6,471"
+Suriname,1985,"-3,763"
+Suriname,1980,"-7,390"
+Suriname,1975,"-11,802"
+Suriname,1970,"2,873"
+Suriname,1965,"1,455"
+Suriname,1960,545
+Suriname,1955,223
+Cabo Verde,2024,"-1,174"
+Cabo Verde,2023,"-1,227"
+Cabo Verde,2022,"-1,256"
+Cabo Verde,2020,"-1,274"
+Cabo Verde,2015,"-1,474"
+Cabo Verde,2010,"-1,914"
+Cabo Verde,2005,"-3,673"
+Cabo Verde,2000,"-2,722"
+Cabo Verde,1995,"-1,068"
+Cabo Verde,1990,"-3,499"
+Cabo Verde,1985,"-6,193"
+Cabo Verde,1980,"-5,983"
+Cabo Verde,1975,"-6,509"
+Cabo Verde,1970,173
+Cabo Verde,1965,"1,094"
+Cabo Verde,1960,"-2,269"
+Cabo Verde,1955,"-3,216"
+Western Sahara,2024,"5,600"
+Western Sahara,2023,"5,600"
+Western Sahara,2022,"5,600"
+Western Sahara,2020,"3,498"
+Western Sahara,2015,"7,226"
+Western Sahara,2010,"9,085"
+Western Sahara,2005,"8,389"
+Western Sahara,2000,"8,440"
+Western Sahara,1995,"6,442"
+Western Sahara,1990,"1,198"
+Western Sahara,1985,"1,198"
+Western Sahara,1980,"7,340"
+Western Sahara,1975,"-18,665"
+Western Sahara,1970,"3,648"
+Western Sahara,1965,"3,049"
+Western Sahara,1960,"2,078"
+Western Sahara,1955,"1,347"
+Micronesia,Micronesia,
+Micronesia,Guam,
+Micronesia,Kiribati,
+Micronesia,Northern Mariana Islands,
+Micronesia,Marshall Islands,
+Micronesia,Palau,
+Micronesia,Nauru,
+Malta,2024,850
+Malta,2023,850
+Malta,2022,850
+Malta,2020,"10,854"
+Malta,2015,"9,443"
+Malta,2010,"3,049"
+Malta,2005,456
+Malta,2000,"1,799"
+Malta,1995,"1,530"
+Malta,1990,606
+Malta,1985,381
+Malta,1980,268
+Malta,1975,"-1,037"
+Malta,1970,"-3,104"
+Malta,1965,"-6,443"
+Malta,1960,"-6,168"
+Malta,1955,-252
+Maldives,2024,"-8,086"
+Maldives,2023,"-8,652"
+Maldives,2022,"-8,011"
+Maldives,2020,"1,134"
+Maldives,2015,"12,526"
+Maldives,2010,"6,244"
+Maldives,2005,195
+Maldives,2000,133
+Maldives,1995,-518
+Maldives,1990,-243
+Maldives,1985,-472
+Maldives,1980,-914
+Maldives,1975,-140
+Maldives,1970,280
+Maldives,1965,"1,396"
+Maldives,1960,-41
+Maldives,1955,0
+Negara Brunei Darussalam,2024,0
+Negara Brunei Darussalam,2023,0
+Negara Brunei Darussalam,2022,0
+Negara Brunei Darussalam,2020,-395
+Negara Brunei Darussalam,2015,-485
+Negara Brunei Darussalam,2010,468
+Negara Brunei Darussalam,2005,"1,163"
+Negara Brunei Darussalam,2000,"1,660"
+Negara Brunei Darussalam,1995,"1,356"
+Negara Brunei Darussalam,1990,"1,670"
+Negara Brunei Darussalam,1985,"1,816"
+Negara Brunei Darussalam,1980,993
+Negara Brunei Darussalam,1975,744
+Negara Brunei Darussalam,1970,"1,484"
+Negara Brunei Darussalam,1965,"1,656"
+Negara Brunei Darussalam,1960,"1,484"
+Negara Brunei Darussalam,1955,"1,840"
+Bahamas,2024,"1,000"
+Bahamas,2023,"1,000"
+Bahamas,2022,"1,000"
+Bahamas,2020,0
+Bahamas,2015,"1,001"
+Bahamas,2010,"1,899"
+Bahamas,2005,800
+Bahamas,2000,843
+Bahamas,1995,463
+Bahamas,1990,241
+Bahamas,1985,470
+Bahamas,1980,369
+Bahamas,1975,323
+Bahamas,1970,"1,518"
+Bahamas,1965,"2,493"
+Bahamas,1960,"2,287"
+Bahamas,1955,789
+Belize,2024,600
+Belize,2023,600
+Belize,2022,600
+Belize,2020,0
+Belize,2015,"1,363"
+Belize,2010,"1,644"
+Belize,2005,"2,397"
+Belize,2000,"1,678"
+Belize,1995,273
+Belize,1990,"-1,793"
+Belize,1985,"-1,476"
+Belize,1980,"-1,350"
+Belize,1975,"-1,625"
+Belize,1970,"-1,294"
+Belize,1965,40
+Belize,1960,-625
+Belize,1955,-477
+Guadeloupe,2024,-800
+Guadeloupe,2023,-800
+Guadeloupe,2022,-800
+Guadeloupe,2020,0
+Guadeloupe,2015,"-3,527"
+Guadeloupe,2010,"-2,604"
+Guadeloupe,2005,"-9,348"
+Guadeloupe,2000,"-7,468"
+Guadeloupe,1995,-973
+Guadeloupe,1990,422
+Guadeloupe,1985,"2,189"
+Guadeloupe,1980,"-3,358"
+Guadeloupe,1975,"-3,166"
+Guadeloupe,1970,"-5,273"
+Guadeloupe,1965,"-3,483"
+Guadeloupe,1960,-29
+Guadeloupe,1955,-12
+Iceland,2024,380
+Iceland,2023,380
+Iceland,2022,380
+Iceland,2020,"2,573"
+Iceland,2015,"1,477"
+Iceland,2010,"-2,077"
+Iceland,2005,"3,918"
+Iceland,2000,"1,874"
+Iceland,1995,"-1,413"
+Iceland,1990,-969
+Iceland,1985,-628
+Iceland,1980,-601
+Iceland,1975,-367
+Iceland,1970,"-1,701"
+Iceland,1965,-273
+Iceland,1960,-248
+Iceland,1955,10
+Martinique,2024,-650
+Martinique,2023,-650
+Martinique,2022,-650
+Martinique,2020,"-1,452"
+Martinique,2015,"-4,395"
+Martinique,2010,"-4,624"
+Martinique,2005,"-13,061"
+Martinique,2000,"-6,859"
+Martinique,1995,"2,779"
+Martinique,1990,"1,368"
+Martinique,1985,429
+Martinique,1980,"-2,782"
+Martinique,1975,"-3,184"
+Martinique,1970,"-5,828"
+Martinique,1965,"-3,431"
+Martinique,1960,"-1,830"
+Martinique,1955,"-1,963"
+Mayotte,2024,0
+Mayotte,2023,0
+Mayotte,2022,0
+Mayotte,2020,746
+Mayotte,2015,"1,607"
+Mayotte,2010,"-1,283"
+Mayotte,2005,"-2,557"
+Mayotte,2000,"1,155"
+Mayotte,1995,"2,329"
+Mayotte,1990,"1,739"
+Mayotte,1985,"1,007"
+Mayotte,1980,516
+Mayotte,1975,-171
+Mayotte,1970,-223
+Mayotte,1965,-109
+Mayotte,1960,-120
+Mayotte,1955,-120
+Vanuatu,2024,0
+Vanuatu,2023,0
+Vanuatu,2022,0
+Vanuatu,2020,-197
+Vanuatu,2015,-756
+Vanuatu,2010,-882
+Vanuatu,2005,-448
+Vanuatu,2000,-458
+Vanuatu,1995,-939
+Vanuatu,1990,-939
+Vanuatu,1985,-883
+Vanuatu,1980,-834
+Vanuatu,1975,86
+Vanuatu,1970,30
+Vanuatu,1965,0
+Vanuatu,1960,0
+Vanuatu,1955,-171
+French Guiana,2024,"1,200"
+French Guiana,2023,"1,200"
+French Guiana,2022,"1,200"
+French Guiana,2020,0
+French Guiana,2015,0
+French Guiana,2010,-372
+French Guiana,2005,"2,720"
+French Guiana,2000,"2,756"
+French Guiana,1995,"1,472"
+French Guiana,1990,"1,879"
+French Guiana,1985,"3,088"
+French Guiana,1980,"1,272"
+French Guiana,1975,"1,075"
+French Guiana,1970,277
+French Guiana,1965,"1,021"
+French Guiana,1960,758
+French Guiana,1955,604
+French Polynesia,2024,-100
+French Polynesia,2023,-100
+French Polynesia,2022,-100
+French Polynesia,2020,-378
+French Polynesia,2015,"-1,676"
+French Polynesia,2010,"-2,613"
+French Polynesia,2005,-93
+French Polynesia,2000,-460
+French Polynesia,1995,-919
+French Polynesia,1990,-904
+French Polynesia,1985,-520
+French Polynesia,1980,"1,198"
+French Polynesia,1975,832
+French Polynesia,1970,556
+French Polynesia,1965,369
+French Polynesia,1960,-725
+French Polynesia,1955,0
+New Caledonia,2024,500
+New Caledonia,2023,500
+New Caledonia,2022,500
+New Caledonia,2020,"-1,182"
+New Caledonia,2015,"-2,230"
+New Caledonia,2010,"1,709"
+New Caledonia,2005,83
+New Caledonia,2000,969
+New Caledonia,1995,"1,072"
+New Caledonia,1990,953
+New Caledonia,1985,48
+New Caledonia,1980,"-1,379"
+New Caledonia,1975,"1,579"
+New Caledonia,1970,"1,708"
+New Caledonia,1965,291
+New Caledonia,1960,815
+New Caledonia,1955,0
+Barbados,2024,-80
+Barbados,2023,-80
+Barbados,2022,-80
+Barbados,2020,0
+Barbados,2015,-65
+Barbados,2010,-36
+Barbados,2005,-172
+Barbados,2000,-833
+Barbados,1995,-752
+Barbados,1990,"-1,295"
+Barbados,1985,"-1,548"
+Barbados,1980,"-1,410"
+Barbados,1975,"-1,256"
+Barbados,1970,"-1,995"
+Barbados,1965,"-3,243"
+Barbados,1960,"-3,850"
+Barbados,1955,"-2,943"
+Sao Tome and Principe,2024,-600
+Sao Tome and Principe,2023,-600
+Sao Tome and Principe,2022,-600
+Sao Tome and Principe,2020,0
+Sao Tome and Principe,2015,"-1,800"
+Sao Tome and Principe,2010,"-1,527"
+Sao Tome and Principe,2005,"-1,023"
+Sao Tome and Principe,2000,"-2,512"
+Sao Tome and Principe,1995,"-1,494"
+Sao Tome and Principe,1990,-724
+Sao Tome and Principe,1985,-821
+Sao Tome and Principe,1980,-775
+Sao Tome and Principe,1975,-396
+Sao Tome and Principe,1970,-283
+Sao Tome and Principe,1965,-784
+Sao Tome and Principe,1960,"-1,158"
+Sao Tome and Principe,1955,-502
+Samoa,2024,"-1,500"
+Samoa,2023,"-1,500"
+Samoa,2022,"-1,500"
+Samoa,2020,"-1,060"
+Samoa,2015,"-3,137"
+Samoa,2010,"-3,274"
+Samoa,2005,"-4,040"
+Samoa,2000,"-3,020"
+Samoa,1995,"-3,004"
+Samoa,1990,"-4,286"
+Samoa,1985,"-5,010"
+Samoa,1980,"-3,270"
+Samoa,1975,"-1,654"
+Samoa,1970,"-2,307"
+Samoa,1965,"-1,037"
+Samoa,1960,-477
+Samoa,1955,"-1,453"
+Curaçao,2024,515
+Curaçao,2023,515
+Curaçao,2022,515
+Curaçao,2020,997
+Curaçao,2015,844
+Curaçao,2010,"1,499"
+Curaçao,2005,"1,460"
+Curaçao,2000,"-2,632"
+Curaçao,1995,"-3,075"
+Curaçao,1990,"-2,447"
+Curaçao,1985,"-2,427"
+Curaçao,1980,"-1,997"
+Curaçao,1975,"-1,889"
+Curaçao,1970,"-1,044"
+Curaçao,1965,"-1,031"
+Curaçao,1960,"-1,530"
+Curaçao,1955,-22
+Saint Lucia,2024,0
+Saint Lucia,2023,0
+Saint Lucia,2022,0
+Saint Lucia,2020,0
+Saint Lucia,2015,0
+Saint Lucia,2010,438
+Saint Lucia,2005,-88
+Saint Lucia,2000,-773
+Saint Lucia,1995,"-1,071"
+Saint Lucia,1990,"-1,211"
+Saint Lucia,1985,"-1,381"
+Saint Lucia,1980,"-1,316"
+Saint Lucia,1975,"-1,464"
+Saint Lucia,1970,"-1,390"
+Saint Lucia,1965,"-2,065"
+Saint Lucia,1960,"-1,912"
+Saint Lucia,1955,"-2,524"
+Guam,2024,-500
+Guam,2023,-500
+Guam,2022,-500
+Guam,2020,-244
+Guam,2015,"-1,852"
+Guam,2010,"-1,850"
+Guam,2005,"-2,333"
+Guam,2000,"-1,566"
+Guam,1995,-829
+Guam,1990,-570
+Guam,1985,-114
+Guam,1980,135
+Guam,1975,-592
+Guam,1970,-304
+Guam,1965,-429
+Guam,1960,-469
+Guam,1955,-539
+Kiribati,2024,-400
+Kiribati,2023,-400
+Kiribati,2022,-400
+Kiribati,2020,-296
+Kiribati,2015,-853
+Kiribati,2010,-619
+Kiribati,2005,-226
+Kiribati,2000,-513
+Kiribati,1995,-847
+Kiribati,1990,-445
+Kiribati,1985,-365
+Kiribati,1980,-494
+Kiribati,1975,"-1,727"
+Kiribati,1970,-210
+Kiribati,1965,0
+Kiribati,1960,0
+Kiribati,1955,0
+Grenada,2024,-200
+Grenada,2023,-200
+Grenada,2022,-200
+Grenada,2020,0
+Grenada,2015,-190
+Grenada,2010,-453
+Grenada,2005,-369
+Grenada,2000,-586
+Grenada,1995,-809
+Grenada,1990,"-1,998"
+Grenada,1985,"-1,597"
+Grenada,1980,"-2,125"
+Grenada,1975,"-2,461"
+Grenada,1970,"-2,225"
+Grenada,1965,"-2,037"
+Grenada,1960,"-1,583"
+Grenada,1955,-841
+Tonga,2024,-800
+Tonga,2023,-800
+Tonga,2022,-800
+Tonga,2020,-948
+Tonga,2015,"-2,495"
+Tonga,2010,"-1,948"
+Tonga,2005,"-1,812"
+Tonga,2000,"-1,617"
+Tonga,1995,"-2,109"
+Tonga,1990,"-2,068"
+Tonga,1985,"-2,553"
+Tonga,1980,"-2,629"
+Tonga,1975,"-1,026"
+Tonga,1970,"-1,084"
+Tonga,1965,-416
+Tonga,1960,-342
+Tonga,1955,0
+Seychelles,2024,-200
+Seychelles,2023,-200
+Seychelles,2022,-200
+Seychelles,2020,146
+Seychelles,2015,245
+Seychelles,2010,376
+Seychelles,2005,251
+Seychelles,2000,376
+Seychelles,1995,-48
+Seychelles,1990,-320
+Seychelles,1985,-601
+Seychelles,1980,-599
+Seychelles,1975,93
+Seychelles,1970,167
+Seychelles,1965,56
+Seychelles,1960,21
+Seychelles,1955,51
+Aruba,2024,150
+Aruba,2023,157
+Aruba,2022,164
+Aruba,2020,0
+Aruba,2015,177
+Aruba,2010,498
+Aruba,2005,579
+Aruba,2000,"1,235"
+Aruba,1995,"1,598"
+Aruba,1990,879
+Aruba,1985,-746
+Aruba,1980,-737
+Aruba,1975,-281
+Aruba,1970,"-1,280"
+Aruba,1965,-726
+Aruba,1960,0
+Aruba,1955,142
+Saint Vincent and the Grenadines,2024,-200
+Saint Vincent and the Grenadines,2023,-200
+Saint Vincent and the Grenadines,2022,-200
+Saint Vincent and the Grenadines,2020,-379
+Saint Vincent and the Grenadines,2015,"-1,295"
+Saint Vincent and the Grenadines,2010,"-1,660"
+Saint Vincent and the Grenadines,2005,"-1,757"
+Saint Vincent and the Grenadines,2000,"-1,618"
+Saint Vincent and the Grenadines,1995,"-1,640"
+Saint Vincent and the Grenadines,1990,"-1,915"
+Saint Vincent and the Grenadines,1985,"-1,785"
+Saint Vincent and the Grenadines,1980,"-1,935"
+Saint Vincent and the Grenadines,1975,"-1,812"
+Saint Vincent and the Grenadines,1970,"-1,633"
+Saint Vincent and the Grenadines,1965,"-1,515"
+Saint Vincent and the Grenadines,1960,"-1,428"
+Saint Vincent and the Grenadines,1955,0
+the United States Virgin Islands,2024,-450
+the United States Virgin Islands,2023,-450
+the United States Virgin Islands,2022,-450
+the United States Virgin Islands,2020,0
+the United States Virgin Islands,2015,-630
+the United States Virgin Islands,2010,"-1,090"
+the United States Virgin Islands,2005,-429
+the United States Virgin Islands,2000,-921
+the United States Virgin Islands,1995,144
+the United States Virgin Islands,1990,"-1,583"
+the United States Virgin Islands,1985,"-1,529"
+the United States Virgin Islands,1980,-105
+the United States Virgin Islands,1975,"1,517"
+the United States Virgin Islands,1970,"1,225"
+the United States Virgin Islands,1965,"2,116"
+the United States Virgin Islands,1960,"1,043"
+the United States Virgin Islands,1955,-148
+Antigua and Barbuda,2024,0
+Antigua and Barbuda,2023,0
+Antigua and Barbuda,2022,0
+Antigua and Barbuda,2020,0
+Antigua and Barbuda,2015,60
+Antigua and Barbuda,2010,295
+Antigua and Barbuda,2005,202
+Antigua and Barbuda,2000,271
+Antigua and Barbuda,1995,528
+Antigua and Barbuda,1990,"-1,145"
+Antigua and Barbuda,1985,"-1,302"
+Antigua and Barbuda,1980,-828
+Antigua and Barbuda,1975,"-1,203"
+Antigua and Barbuda,1970,-862
+Antigua and Barbuda,1965,-553
+Antigua and Barbuda,1960,-361
+Antigua and Barbuda,1955,-261
+Isle of Man,2023,149
+Isle of Man,2022,148
+Isle of Man,2021,148
+Isle of Man,2020,147
+Isle of Man,2019,147
+Isle of Man,2018,147
+Isle of Man,2017,147
+Isle of Man,2016,146
+Isle of Man,2015,147
+Isle of Man,2010,147
+Isle of Man,2005,139
+Isle of Man,2000,133
+Isle of Man,1995,125
+Isle of Man,1990,121
+Isle of Man,1985,113
+Isle of Man,1980,112
+Isle of Man,1975,105
+Isle of Man,1970,97
+Isle of Man,1965,88
+Isle of Man,1960,86
+Isle of Man,1955,92
+Andorra,2023,170
+Andorra,2022,170
+Andorra,2021,168
+Andorra,2020,165
+Andorra,2019,162
+Andorra,2018,160
+Andorra,2017,157
+Andorra,2016,154
+Andorra,2015,153
+Andorra,2010,152
+Andorra,2005,170
+Andorra,2000,141
+Andorra,1995,134
+Andorra,1990,114
+Andorra,1985,93
+Andorra,1980,76
+Andorra,1975,59
+Andorra,1970,42
+Andorra,1965,29
+Andorra,1960,20
+Andorra,1955,13
+Dominica,2023,97
+Dominica,2022,97
+Dominica,2021,97
+Dominica,2020,96
+Dominica,2019,95
+Dominica,2018,94
+Dominica,2017,94
+Dominica,2016,93
+Dominica,2015,93
+Dominica,2010,92
+Dominica,2005,92
+Dominica,2000,91
+Dominica,1995,92
+Dominica,1990,93
+Dominica,1985,95
+Dominica,1980,97
+Dominica,1975,95
+Dominica,1970,92
+Dominica,1965,85
+Dominica,1960,79
+Dominica,1955,69
+the Cayman Islands,2023,289
+the Cayman Islands,2022,286
+the Cayman Islands,2021,284
+the Cayman Islands,2020,280
+the Cayman Islands,2019,276
+the Cayman Islands,2018,270
+the Cayman Islands,2017,265
+the Cayman Islands,2016,259
+the Cayman Islands,2015,254
+the Cayman Islands,2010,225
+the Cayman Islands,2005,195
+the Cayman Islands,2000,165
+the Cayman Islands,1995,137
+the Cayman Islands,1990,108
+the Cayman Islands,1985,89
+the Cayman Islands,1980,71
+the Cayman Islands,1975,57
+the Cayman Islands,1970,44
+the Cayman Islands,1965,39
+the Cayman Islands,1960,35
+the Cayman Islands,1955,34
+Bermuda,2023,"1,281"
+Bermuda,2022,"1,284"
+Bermuda,2021,"1,284"
+Bermuda,2020,"1,281"
+Bermuda,2019,"1,276"
+Bermuda,2018,"1,271"
+Bermuda,2017,"1,266"
+Bermuda,2016,"1,261"
+Bermuda,2015,"1,263"
+Bermuda,2010,"1,269"
+Bermuda,2005,"1,259"
+Bermuda,2000,"1,227"
+Bermuda,1995,"1,189"
+Bermuda,1990,"1,149"
+Bermuda,1985,"1,112"
+Bermuda,1980,"1,071"
+Bermuda,1975,"1,065"
+Bermuda,1970,"1,040"
+Bermuda,1965,941
+Bermuda,1960,841
+Bermuda,1955,783
+Greenland,2023,0
+Greenland,2022,0
+Greenland,2021,0
+Greenland,2020,0
+Greenland,2019,0
+Greenland,2018,0
+Greenland,2017,0
+Greenland,2016,0
+Greenland,2015,0
+Greenland,2010,0
+Greenland,2005,0
+Greenland,2000,0
+Greenland,1995,0
+Greenland,1990,0
+Greenland,1985,0
+Greenland,1980,0
+Greenland,1975,0
+Greenland,1970,0
+Greenland,1965,0
+Greenland,1960,0
+Greenland,1955,0
+Faeroe Islands,2023,38
+Faeroe Islands,2022,38
+Faeroe Islands,2021,38
+Faeroe Islands,2020,38
+Faeroe Islands,2019,37
+Faeroe Islands,2018,37
+Faeroe Islands,2017,36
+Faeroe Islands,2016,35
+Faeroe Islands,2015,35
+Faeroe Islands,2010,35
+Faeroe Islands,2005,35
+Faeroe Islands,2000,33
+Faeroe Islands,1995,31
+Faeroe Islands,1990,34
+Faeroe Islands,1985,33
+Faeroe Islands,1980,31
+Faeroe Islands,1975,29
+Faeroe Islands,1970,28
+Faeroe Islands,1965,26
+Faeroe Islands,1960,24
+Faeroe Islands,1955,23
+the Commonwealth of the Northern Mariana Islands,2023,108
+the Commonwealth of the Northern Mariana Islands,2022,108
+the Commonwealth of the Northern Mariana Islands,2021,108
+the Commonwealth of the Northern Mariana Islands,2020,108
+the Commonwealth of the Northern Mariana Islands,2019,108
+the Commonwealth of the Northern Mariana Islands,2018,109
+the Commonwealth of the Northern Mariana Islands,2017,110
+the Commonwealth of the Northern Mariana Islands,2016,111
+the Commonwealth of the Northern Mariana Islands,2015,112
+the Commonwealth of the Northern Mariana Islands,2010,118
+the Commonwealth of the Northern Mariana Islands,2005,150
+the Commonwealth of the Northern Mariana Islands,2000,175
+the Commonwealth of the Northern Mariana Islands,1995,106
+the Commonwealth of the Northern Mariana Islands,1990,104
+the Commonwealth of the Northern Mariana Islands,1985,70
+the Commonwealth of the Northern Mariana Islands,1980,38
+the Commonwealth of the Northern Mariana Islands,1975,33
+the Commonwealth of the Northern Mariana Islands,1970,22
+the Commonwealth of the Northern Mariana Islands,1965,22
+the Commonwealth of the Northern Mariana Islands,1960,19
+the Commonwealth of the Northern Mariana Islands,1955,17
+Saint Kitts and Nevis,2023,184
+Saint Kitts and Nevis,2022,183
+Saint Kitts and Nevis,2021,183
+Saint Kitts and Nevis,2020,183
+Saint Kitts and Nevis,2019,184
+Saint Kitts and Nevis,2018,184
+Saint Kitts and Nevis,2017,184
+Saint Kitts and Nevis,2016,184
+Saint Kitts and Nevis,2015,184
+Saint Kitts and Nevis,2010,182
+Saint Kitts and Nevis,2005,180
+Saint Kitts and Nevis,2000,175
+Saint Kitts and Nevis,1995,164
+Saint Kitts and Nevis,1990,156
+Saint Kitts and Nevis,1985,162
+Saint Kitts and Nevis,1980,166
+Saint Kitts and Nevis,1975,169
+Saint Kitts and Nevis,1970,173
+Saint Kitts and Nevis,1965,200
+Saint Kitts and Nevis,1960,218
+Saint Kitts and Nevis,1955,201
+the Turks and Caicos Islands,2023,48
+the Turks and Caicos Islands,2022,48
+the Turks and Caicos Islands,2021,47
+the Turks and Caicos Islands,2020,47
+the Turks and Caicos Islands,2019,45
+the Turks and Caicos Islands,2018,44
+the Turks and Caicos Islands,2017,42
+the Turks and Caicos Islands,2016,40
+the Turks and Caicos Islands,2015,38
+the Turks and Caicos Islands,2010,31
+the Turks and Caicos Islands,2005,25
+the Turks and Caicos Islands,2000,20
+the Turks and Caicos Islands,1995,16
+the Turks and Caicos Islands,1990,12
+the Turks and Caicos Islands,1985,10
+the Turks and Caicos Islands,1980,8
+the Turks and Caicos Islands,1975,7
+the Turks and Caicos Islands,1970,6
+the Turks and Caicos Islands,1965,6
+the Turks and Caicos Islands,1960,6
+the Turks and Caicos Islands,1955,5
+Sint Maarten,2023,"1,301"
+Sint Maarten,2022,"1,299"
+Sint Maarten,2021,"1,295"
+Sint Maarten,2020,"1,283"
+Sint Maarten,2019,"1,264"
+Sint Maarten,2018,"1,243"
+Sint Maarten,2017,"1,232"
+Sint Maarten,2016,"1,216"
+Sint Maarten,2015,"1,183"
+Sint Maarten,2010,972
+Sint Maarten,2005,926
+Sint Maarten,2000,897
+Sint Maarten,1995,929
+Sint Maarten,1990,819
+Sint Maarten,1985,561
+Sint Maarten,1980,360
+Sint Maarten,1975,262
+Sint Maarten,1970,184
+Sint Maarten,1965,122
+Sint Maarten,1960,78
+Sint Maarten,1955,58
+American Samoa,2023,220
+American Samoa,2022,221
+American Samoa,2021,225
+American Samoa,2020,231
+American Samoa,2019,237
+American Samoa,2018,242
+American Samoa,2017,247
+American Samoa,2016,252
+American Samoa,2015,257
+American Samoa,2010,274
+American Samoa,2005,286
+American Samoa,2000,291
+American Samoa,1995,267
+American Samoa,1990,239
+American Samoa,1985,198
+American Samoa,1980,164
+American Samoa,1975,148
+American Samoa,1970,135
+American Samoa,1965,117
+American Samoa,1960,100
+American Samoa,1955,99
+the Marshall Islands,2023,233
+the Marshall Islands,2022,231
+the Marshall Islands,2021,234
+the Marshall Islands,2020,241
+the Marshall Islands,2019,248
+the Marshall Islands,2018,255
+the Marshall Islands,2017,262
+the Marshall Islands,2016,268
+the Marshall Islands,2015,275
+the Marshall Islands,2010,297
+the Marshall Islands,2005,302
+the Marshall Islands,2000,301
+the Marshall Islands,1995,282
+the Marshall Islands,1990,256
+the Marshall Islands,1985,216
+the Marshall Islands,1980,178
+the Marshall Islands,1975,150
+the Marshall Islands,1970,133
+the Marshall Islands,1965,101
+the Marshall Islands,1960,85
+the Marshall Islands,1955,78
+Liechtenstein,2023,247
+Liechtenstein,2022,246
+Liechtenstein,2021,244
+Liechtenstein,2020,242
+Liechtenstein,2019,241
+Liechtenstein,2018,239
+Liechtenstein,2017,237
+Liechtenstein,2016,235
+Liechtenstein,2015,233
+Liechtenstein,2010,225
+Liechtenstein,2005,216
+Liechtenstein,2000,206
+Liechtenstein,1995,193
+Liechtenstein,1990,180
+Liechtenstein,1985,167
+Liechtenstein,1980,156
+Liechtenstein,1975,144
+Liechtenstein,1970,132
+Liechtenstein,1965,116
+Liechtenstein,1960,103
+Liechtenstein,1955,93
+Monaco,2023,"24,360"
+Monaco,2022,"24,476"
+Monaco,2021,"24,621"
+Monaco,2020,"24,780"
+Monaco,2019,"24,855"
+Monaco,2018,"24,852"
+Monaco,2017,"24,862"
+Monaco,2016,"24,880"
+Monaco,2015,"24,671"
+Monaco,2010,"22,267"
+Monaco,2005,"21,571"
+Monaco,2000,"21,789"
+Monaco,1995,"21,129"
+Monaco,1990,"20,355"
+Monaco,1985,"19,334"
+Monaco,1980,"18,172"
+Monaco,1975,"17,130"
+Monaco,1970,"16,289"
+Monaco,1965,"15,451"
+Monaco,1960,"14,629"
+Monaco,1955,"13,711"
+San Marino,2023,561
+San Marino,2022,561
+San Marino,2021,562
+San Marino,2020,567
+San Marino,2019,570
+San Marino,2018,569
+San Marino,2017,568
+San Marino,2016,564
+San Marino,2015,560
+San Marino,2010,527
+San Marino,2005,492
+San Marino,2000,447
+San Marino,1995,415
+San Marino,1990,386
+San Marino,1985,371
+San Marino,1980,356
+San Marino,1975,330
+San Marino,1970,303
+San Marino,1965,288
+San Marino,1960,259
+San Marino,1955,233
+Gibraltar,2023,"3,269"
+Gibraltar,2022,"3,265"
+Gibraltar,2021,"3,267"
+Gibraltar,2020,"3,271"
+Gibraltar,2019,"3,269"
+Gibraltar,2018,"3,265"
+Gibraltar,2017,"3,260"
+Gibraltar,2016,"3,257"
+Gibraltar,2015,"3,252"
+Gibraltar,2010,"3,126"
+Gibraltar,2005,"2,916"
+Gibraltar,2000,"2,774"
+Gibraltar,1995,"2,741"
+Gibraltar,1990,"2,732"
+Gibraltar,1985,"2,867"
+Gibraltar,1980,"2,873"
+Gibraltar,1975,"2,797"
+Gibraltar,1970,"2,669"
+Gibraltar,1965,"2,391"
+Gibraltar,1960,"2,182"
+Gibraltar,1955,"2,154"
+Saint Martin,2023,605
+Saint Martin,2022,600
+Saint Martin,2021,603
+Saint Martin,2020,614
+Saint Martin,2019,625
+Saint Martin,2018,639
+Saint Martin,2017,651
+Saint Martin,2016,657
+Saint Martin,2015,661
+Saint Martin,2010,688
+Saint Martin,2005,631
+Saint Martin,2000,559
+Saint Martin,1995,555
+Saint Martin,1990,531
+Saint Martin,1985,296
+Saint Martin,1980,147
+Saint Martin,1975,126
+Saint Martin,1970,109
+Saint Martin,1965,91
+Saint Martin,1960,78
+Saint Martin,1955,67
+the British Virgin Islands,2023,210
+the British Virgin Islands,2022,209
+the British Virgin Islands,2021,207
+the British Virgin Islands,2020,206
+the British Virgin Islands,2019,204
+the British Virgin Islands,2018,202
+the British Virgin Islands,2017,200
+the British Virgin Islands,2016,198
+the British Virgin Islands,2015,196
+the British Virgin Islands,2010,184
+the British Virgin Islands,2005,157
+the British Virgin Islands,2000,134
+the British Virgin Islands,1995,118
+the British Virgin Islands,1990,104
+the British Virgin Islands,1985,88
+the British Virgin Islands,1980,74
+the British Virgin Islands,1975,69
+the British Virgin Islands,1970,64
+the British Virgin Islands,1965,53
+the British Virgin Islands,1960,52
+the British Virgin Islands,1955,50
+the Caribbean Netherlands,2023,83
+the Caribbean Netherlands,2022,82
+the Caribbean Netherlands,2021,81
+the Caribbean Netherlands,2020,80
+the Caribbean Netherlands,2019,78
+the Caribbean Netherlands,2018,76
+the Caribbean Netherlands,2017,74
+the Caribbean Netherlands,2016,72
+the Caribbean Netherlands,2015,71
+the Caribbean Netherlands,2010,62
+the Caribbean Netherlands,2005,51
+the Caribbean Netherlands,2000,43
+the Caribbean Netherlands,1995,40
+the Caribbean Netherlands,1990,38
+the Caribbean Netherlands,1985,37
+the Caribbean Netherlands,1980,35
+the Caribbean Netherlands,1975,32
+the Caribbean Netherlands,1970,30
+the Caribbean Netherlands,1965,26
+the Caribbean Netherlands,1960,23
+the Caribbean Netherlands,1955,23
+Palau,2023,39
+Palau,2022,39
+Palau,2021,39
+Palau,2020,39
+Palau,2019,39
+Palau,2018,39
+Palau,2017,39
+Palau,2016,39
+Palau,2015,39
+Palau,2010,40
+Palau,2005,43
+Palau,2000,43
+Palau,1995,37
+Palau,1990,33
+Palau,1985,30
+Palau,1980,27
+Palau,1975,27
+Palau,1970,25
+Palau,1965,23
+Palau,1960,21
+Palau,1955,18
+the Cook Islands,2023,71
+the Cook Islands,2022,71
+the Cook Islands,2021,71
+the Cook Islands,2020,71
+the Cook Islands,2019,71
+the Cook Islands,2018,72
+the Cook Islands,2017,72
+the Cook Islands,2016,73
+the Cook Islands,2015,74
+the Cook Islands,2010,72
+the Cook Islands,2005,63
+the Cook Islands,2000,66
+the Cook Islands,1995,74
+the Cook Islands,1990,71
+the Cook Islands,1985,69
+the Cook Islands,1980,74
+the Cook Islands,1975,79
+the Cook Islands,1970,85
+the Cook Islands,1965,78
+the Cook Islands,1960,73
+the Cook Islands,1955,67
+Anguilla,2023,177
+Anguilla,2022,176
+Anguilla,2021,175
+Anguilla,2020,173
+Anguilla,2019,171
+Anguilla,2018,169
+Anguilla,2017,167
+Anguilla,2016,165
+Anguilla,2015,161
+Anguilla,2010,146
+Anguilla,2005,135
+Anguilla,2000,123
+Anguilla,1995,107
+Anguilla,1990,92
+Anguilla,1985,77
+Anguilla,1980,73
+Anguilla,1975,72
+Anguilla,1970,70
+Anguilla,1965,67
+Anguilla,1960,64
+Anguilla,1955,64
+Nauru,2023,639
+Nauru,2022,633
+Nauru,2021,626
+Nauru,2020,616
+Nauru,2019,607
+Nauru,2018,596
+Nauru,2017,584
+Nauru,2016,572
+Nauru,2015,559
+Nauru,2010,512
+Nauru,2005,516
+Nauru,2000,519
+Nauru,1995,516
+Nauru,1990,480
+Nauru,1985,416
+Nauru,1980,382
+Nauru,1975,360
+Nauru,1970,333
+Nauru,1965,290
+Nauru,1960,229
+Nauru,1955,191
+the Territory of the Wallis and Futuna Islands,2023,82
+the Territory of the Wallis and Futuna Islands,2022,83
+the Territory of the Wallis and Futuna Islands,2021,83
+the Territory of the Wallis and Futuna Islands,2020,83
+the Territory of the Wallis and Futuna Islands,2019,84
+the Territory of the Wallis and Futuna Islands,2018,84
+the Territory of the Wallis and Futuna Islands,2017,85
+the Territory of the Wallis and Futuna Islands,2016,86
+the Territory of the Wallis and Futuna Islands,2015,87
+the Territory of the Wallis and Futuna Islands,2010,94
+the Territory of the Wallis and Futuna Islands,2005,104
+the Territory of the Wallis and Futuna Islands,2000,105
+the Territory of the Wallis and Futuna Islands,1995,101
+the Territory of the Wallis and Futuna Islands,1990,96
+the Territory of the Wallis and Futuna Islands,1985,91
+the Territory of the Wallis and Futuna Islands,1980,81
+the Territory of the Wallis and Futuna Islands,1975,69
+the Territory of the Wallis and Futuna Islands,1970,67
+the Territory of the Wallis and Futuna Islands,1965,63
+the Territory of the Wallis and Futuna Islands,1960,63
+the Territory of the Wallis and Futuna Islands,1955,69
+Tuvalu,2023,380
+Tuvalu,2022,377
+Tuvalu,2021,373
+Tuvalu,2020,369
+Tuvalu,2019,365
+Tuvalu,2018,362
+Tuvalu,2017,361
+Tuvalu,2016,362
+Tuvalu,2015,363
+Tuvalu,2010,352
+Tuvalu,2005,330
+Tuvalu,2000,321
+Tuvalu,1995,320
+Tuvalu,1990,306
+Tuvalu,1985,278
+Tuvalu,1980,258
+Tuvalu,1975,213
+Tuvalu,1970,194
+Tuvalu,1965,185
+Tuvalu,1960,180
+Tuvalu,1955,173
+Saint Barthélemy,2023,524
+Saint Barthélemy,2022,522
+Saint Barthélemy,2021,517
+Saint Barthélemy,2020,509
+Saint Barthélemy,2019,499
+Saint Barthélemy,2018,488
+Saint Barthélemy,2017,478
+Saint Barthélemy,2016,469
+Saint Barthélemy,2015,459
+Saint Barthélemy,2010,428
+Saint Barthélemy,2005,383
+Saint Barthélemy,2000,337
+Saint Barthélemy,1995,293
+Saint Barthélemy,1990,246
+Saint Barthélemy,1985,191
+Saint Barthélemy,1980,142
+Saint Barthélemy,1975,123
+Saint Barthélemy,1970,115
+Saint Barthélemy,1965,112
+Saint Barthélemy,1960,104
+Saint Barthélemy,1955,101
+Saint Pierre and Miquelon,2023,25
+Saint Pierre and Miquelon,2022,25
+Saint Pierre and Miquelon,2021,26
+Saint Pierre and Miquelon,2020,26
+Saint Pierre and Miquelon,2019,26
+Saint Pierre and Miquelon,2018,26
+Saint Pierre and Miquelon,2017,26
+Saint Pierre and Miquelon,2016,26
+Saint Pierre and Miquelon,2015,26
+Saint Pierre and Miquelon,2010,26
+Saint Pierre and Miquelon,2005,27
+Saint Pierre and Miquelon,2000,27
+Saint Pierre and Miquelon,1995,28
+Saint Pierre and Miquelon,1990,27
+Saint Pierre and Miquelon,1985,27
+Saint Pierre and Miquelon,1980,27
+Saint Pierre and Miquelon,1975,26
+Saint Pierre and Miquelon,1970,24
+Saint Pierre and Miquelon,1965,22
+Saint Pierre and Miquelon,1960,21
+Saint Pierre and Miquelon,1955,21
+Saint Helena,2023,14
+Saint Helena,2022,14
+Saint Helena,2021,14
+Saint Helena,2020,14
+Saint Helena,2019,14
+Saint Helena,2018,14
+Saint Helena,2017,14
+Saint Helena,2016,14
+Saint Helena,2015,14
+Saint Helena,2010,14
+Saint Helena,2005,14
+Saint Helena,2000,15
+Saint Helena,1995,16
+Saint Helena,1990,17
+Saint Helena,1985,17
+Saint Helena,1980,16
+Saint Helena,1975,16
+Saint Helena,1970,15
+Saint Helena,1965,14
+Saint Helena,1960,14
+Saint Helena,1955,14
+Montserrat,2023,44
+Montserrat,2022,44
+Montserrat,2021,44
+Montserrat,2020,45
+Montserrat,2019,45
+Montserrat,2018,44
+Montserrat,2017,47
+Montserrat,2016,51
+Montserrat,2015,51
+Montserrat,2010,49
+Montserrat,2005,47
+Montserrat,2000,51
+Montserrat,1995,83
+Montserrat,1990,108
+Montserrat,1985,111
+Montserrat,1980,115
+Montserrat,1975,115
+Montserrat,1970,114
+Montserrat,1965,117
+Montserrat,1960,121
+Montserrat,1955,134
+the Falkland Islands (Islas Malvinas),2023,0
+the Falkland Islands (Islas Malvinas),2022,0
+the Falkland Islands (Islas Malvinas),2021,0
+the Falkland Islands (Islas Malvinas),2020,0
+the Falkland Islands (Islas Malvinas),2019,0
+the Falkland Islands (Islas Malvinas),2018,0
+the Falkland Islands (Islas Malvinas),2017,0
+the Falkland Islands (Islas Malvinas),2016,0
+the Falkland Islands (Islas Malvinas),2015,0
+the Falkland Islands (Islas Malvinas),2010,0
+the Falkland Islands (Islas Malvinas),2005,0
+the Falkland Islands (Islas Malvinas),2000,0
+the Falkland Islands (Islas Malvinas),1995,0
+the Falkland Islands (Islas Malvinas),1990,0
+the Falkland Islands (Islas Malvinas),1985,0
+the Falkland Islands (Islas Malvinas),1980,0
+the Falkland Islands (Islas Malvinas),1975,0
+the Falkland Islands (Islas Malvinas),1970,0
+the Falkland Islands (Islas Malvinas),1965,0
+the Falkland Islands (Islas Malvinas),1960,0
+the Falkland Islands (Islas Malvinas),1955,0
+Niue,2023,7
+Niue,2022,7
+Niue,2021,7
+Niue,2020,7
+Niue,2019,7
+Niue,2018,7
+Niue,2017,7
+Niue,2016,7
+Niue,2015,7
+Niue,2010,7
+Niue,2005,7
+Niue,2000,8
+Niue,1995,9
+Niue,1990,10
+Niue,1985,11
+Niue,1980,14
+Niue,1975,16
+Niue,1970,20
+Niue,1965,20
+Niue,1960,19
+Niue,1955,18
+Tokelau,2023,189
+Tokelau,2022,187
+Tokelau,2021,185
+Tokelau,2020,183
+Tokelau,2019,175
+Tokelau,2018,162
+Tokelau,2017,149
+Tokelau,2016,143
+Tokelau,2015,145
+Tokelau,2010,137
+Tokelau,2005,143
+Tokelau,2000,167
+Tokelau,1995,163
+Tokelau,1990,167
+Tokelau,1985,174
+Tokelau,1980,165
+Tokelau,1975,162
+Tokelau,1970,171
+Tokelau,1965,190
+Tokelau,1960,180
+Tokelau,1955,163
+the Holy See,2023,"1,295"
+the Holy See,2022,"1,275"
+the Holy See,2021,"1,278"
+the Holy See,2020,"1,300"
+the Holy See,2019,"1,320"
+the Holy See,2018,"1,343"
+the Holy See,2017,"1,368"
+the Holy See,2016,"1,390"
+the Holy See,2015,"1,410"
+the Holy See,2010,"1,490"
+the Holy See,2005,"1,570"
+the Holy See,2000,"1,628"
+the Holy See,1995,"1,690"
+the Holy See,1990,"1,750"
+the Holy See,1985,"1,798"
+the Holy See,1980,"1,833"
+the Holy See,1975,"1,850"
+the Holy See,1970,"1,880"
+the Holy See,1965,"2,270"
+the Holy See,1960,"2,295"
+the Holy See,1955,"2,278"
