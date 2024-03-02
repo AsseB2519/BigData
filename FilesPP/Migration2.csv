@@ -850,29 +850,29 @@ Canada,2022,248586
 Canada,2023,249746
 Canada,2024,249100
 Canada,2025,249808
-Caribbean small states,2000,-38012
-Caribbean small states,2001,-36347
-Caribbean small states,2002,-34708
-Caribbean small states,2003,-33189
-Caribbean small states,2004,-35485
-Caribbean small states,2008,-33690
-Caribbean small states,2009,-31939
-Caribbean small states,2010,-30222
-Caribbean small states,2011,-28184
-Caribbean small states,2012,-19619
-Caribbean small states,2013,-19814
-Caribbean small states,2014,-17545
-Caribbean small states,2015,-19122
-Caribbean small states,2016,-17915
-Caribbean small states,2017,-15824
-Caribbean small states,2018,54518
-Caribbean small states,2019,-53765
-Caribbean small states,2020,2389
-Caribbean small states,2021,-7303
-Caribbean small states,2022,-15599
-Caribbean small states,2023,-15599
-Caribbean small states,2024,-15599
-Caribbean small states,2025,-15599
+Caribbean,2000,-38012
+Caribbean,2001,-36347
+Caribbean,2002,-34708
+Caribbean,2003,-33189
+Caribbean,2004,-35485
+Caribbean,2008,-33690
+Caribbean,2009,-31939
+Caribbean,2010,-30222
+Caribbean,2011,-28184
+Caribbean,2012,-19619
+Caribbean,2013,-19814
+Caribbean,2014,-17545
+Caribbean,2015,-19122
+Caribbean,2016,-17915
+Caribbean,2017,-15824
+Caribbean,2018,54518
+Caribbean,2019,-53765
+Caribbean,2020,2389
+Caribbean,2021,-7303
+Caribbean,2022,-15599
+Caribbean,2023,-15599
+Caribbean,2024,-15599
+Caribbean,2025,-15599
 Cayman Islands,2000,1020
 Cayman Islands,2001,1038
 Cayman Islands,2002,1075
@@ -1678,29 +1678,29 @@ Gabon,2022,1000
 Gabon,2023,1000
 Gabon,2024,1000
 Gabon,2025,1000
-"Gambia, The",2000,-3676
-"Gambia, The",2001,-3876
-"Gambia, The",2002,-4068
-"Gambia, The",2003,-3717
-"Gambia, The",2004,-3632
-"Gambia, The",2008,-2203
-"Gambia, The",2009,-2267
-"Gambia, The",2010,-2464
-"Gambia, The",2011,-2363
-"Gambia, The",2012,-2342
-"Gambia, The",2013,-2486
-"Gambia, The",2014,-2797
-"Gambia, The",2015,-3224
-"Gambia, The",2016,-3477
-"Gambia, The",2017,-3694
-"Gambia, The",2018,-3936
-"Gambia, The",2019,-4186
-"Gambia, The",2020,-1960
-"Gambia, The",2021,-1960
-"Gambia, The",2022,-3000
-"Gambia, The",2023,-3000
-"Gambia, The",2024,-3000
-"Gambia, The",2025,-3000
+Gambia,2000,-3676
+Gambia,2001,-3876
+Gambia,2002,-4068
+Gambia,2003,-3717
+Gambia,2004,-3632
+Gambia,2008,-2203
+Gambia,2009,-2267
+Gambia,2010,-2464
+Gambia,2011,-2363
+Gambia,2012,-2342
+Gambia,2013,-2486
+Gambia,2014,-2797
+Gambia,2015,-3224
+Gambia,2016,-3477
+Gambia,2017,-3694
+Gambia,2018,-3936
+Gambia,2019,-4186
+Gambia,2020,-1960
+Gambia,2021,-1960
+Gambia,2022,-3000
+Gambia,2023,-3000
+Gambia,2024,-3000
+Gambia,2025,-3000
 Georgia,2000,-135044
 Georgia,2001,-110972
 Georgia,2002,-58530
@@ -2023,29 +2023,29 @@ Honduras,2022,-5374
 Honduras,2023,-5034
 Honduras,2024,-4675
 Honduras,2025,-4310
-"Hong Kong SAR, China",2000,60719
-"Hong Kong SAR, China",2001,32287
-"Hong Kong SAR, China",2002,21654
-"Hong Kong SAR, China",2003,18790
-"Hong Kong SAR, China",2004,10103
-"Hong Kong SAR, China",2008,26820
-"Hong Kong SAR, China",2009,20910
-"Hong Kong SAR, China",2010,10584
-"Hong Kong SAR, China",2011,25348
-"Hong Kong SAR, China",2012,36188
-"Hong Kong SAR, China",2013,24760
-"Hong Kong SAR, China",2014,22372
-"Hong Kong SAR, China",2015,13061
-"Hong Kong SAR, China",2016,0
-"Hong Kong SAR, China",2017,0
-"Hong Kong SAR, China",2018,0
-"Hong Kong SAR, China",2019,0
-"Hong Kong SAR, China",2020,0
-"Hong Kong SAR, China",2021,0
-"Hong Kong SAR, China",2022,19999
-"Hong Kong SAR, China",2023,19999
-"Hong Kong SAR, China",2024,19999
-"Hong Kong SAR, China",2025,19999
+Hong Kong,2000,60719
+Hong Kong,2001,32287
+Hong Kong,2002,21654
+Hong Kong,2003,18790
+Hong Kong,2004,10103
+Hong Kong,2008,26820
+Hong Kong,2009,20910
+Hong Kong,2010,10584
+Hong Kong,2011,25348
+Hong Kong,2012,36188
+Hong Kong,2013,24760
+Hong Kong,2014,22372
+Hong Kong,2015,13061
+Hong Kong,2016,0
+Hong Kong,2017,0
+Hong Kong,2018,0
+Hong Kong,2019,0
+Hong Kong,2020,0
+Hong Kong,2021,0
+Hong Kong,2022,19999
+Hong Kong,2023,19999
+Hong Kong,2024,19999
+Hong Kong,2025,19999
 Hungary,2000,15478
 Hungary,2001,9927
 Hungary,2002,2412
@@ -2138,29 +2138,29 @@ Indonesia,2022,-49997
 Indonesia,2023,-49997
 Indonesia,2024,-49997
 Indonesia,2025,-49997
-"Iran, Islamic Rep.",2000,394594
-"Iran, Islamic Rep.",2001,393336
-"Iran, Islamic Rep.",2002,-568950
-"Iran, Islamic Rep.",2003,370945
-"Iran, Islamic Rep.",2004,369535
-"Iran, Islamic Rep.",2008,90815
-"Iran, Islamic Rep.",2009,99224
-"Iran, Islamic Rep.",2010,127703
-"Iran, Islamic Rep.",2011,-150029
-"Iran, Islamic Rep.",2012,19635
-"Iran, Islamic Rep.",2013,23351
-"Iran, Islamic Rep.",2014,653255
-"Iran, Islamic Rep.",2015,628310
-"Iran, Islamic Rep.",2016,23759
-"Iran, Islamic Rep.",2017,7709
-"Iran, Islamic Rep.",2018,-29981
-"Iran, Islamic Rep.",2019,-34571
-"Iran, Islamic Rep.",2020,-156669
-"Iran, Islamic Rep.",2021,28080
-"Iran, Islamic Rep.",2022,-39998
-"Iran, Islamic Rep.",2023,-39998
-"Iran, Islamic Rep.",2024,-39998
-"Iran, Islamic Rep.",2025,-39998
+Iran,2000,394594
+Iran,2001,393336
+Iran,2002,-568950
+Iran,2003,370945
+Iran,2004,369535
+Iran,2008,90815
+Iran,2009,99224
+Iran,2010,127703
+Iran,2011,-150029
+Iran,2012,19635
+Iran,2013,23351
+Iran,2014,653255
+Iran,2015,628310
+Iran,2016,23759
+Iran,2017,7709
+Iran,2018,-29981
+Iran,2019,-34571
+Iran,2020,-156669
+Iran,2021,28080
+Iran,2022,-39998
+Iran,2023,-39998
+Iran,2024,-39998
+Iran,2025,-39998
 Iraq,2000,87624
 Iraq,2001,14451
 Iraq,2002,133839
@@ -2782,29 +2782,29 @@ Luxembourg,2022,5222
 Luxembourg,2023,4883
 Luxembourg,2024,4622
 Luxembourg,2025,4362
-"Macao SAR, China",2000,4134
-"Macao SAR, China",2001,6581
-"Macao SAR, China",2002,11276
-"Macao SAR, China",2003,11452
-"Macao SAR, China",2004,11508
-"Macao SAR, China",2008,11325
-"Macao SAR, China",2009,11257
-"Macao SAR, China",2010,11168
-"Macao SAR, China",2011,9169
-"Macao SAR, China",2012,6156
-"Macao SAR, China",2013,6050
-"Macao SAR, China",2014,6034
-"Macao SAR, China",2015,6465
-"Macao SAR, China",2016,6962
-"Macao SAR, China",2017,7727
-"Macao SAR, China",2018,8219
-"Macao SAR, China",2019,8578
-"Macao SAR, China",2020,8441
-"Macao SAR, China",2021,4004
-"Macao SAR, China",2022,5000
-"Macao SAR, China",2023,5000
-"Macao SAR, China",2024,5000
-"Macao SAR, China",2025,5000
+Macao SAR,2000,4134
+Macao SAR,2001,6581
+Macao SAR,2002,11276
+Macao SAR,2003,11452
+Macao SAR,2004,11508
+Macao SAR,2008,11325
+Macao SAR,2009,11257
+Macao SAR,2010,11168
+Macao SAR,2011,9169
+Macao SAR,2012,6156
+Macao SAR,2013,6050
+Macao SAR,2014,6034
+Macao SAR,2015,6465
+Macao SAR,2016,6962
+Macao SAR,2017,7727
+Macao SAR,2018,8219
+Macao SAR,2019,8578
+Macao SAR,2020,8441
+Macao SAR,2021,4004
+Macao SAR,2022,5000
+Macao SAR,2023,5000
+Macao SAR,2024,5000
+Macao SAR,2025,5000
 Madagascar,2000,485
 Madagascar,2001,485
 Madagascar,2002,485
@@ -5036,29 +5036,29 @@ Venezuela,2022,297713
 Venezuela,2023,321106
 Venezuela,2024,293294
 Venezuela,2025,248356
-Viet Nam,2000,-150955
-Viet Nam,2001,-162571
-Viet Nam,2002,-159577
-Viet Nam,2003,-153880
-Viet Nam,2004,-150349
-Viet Nam,2008,-101560
-Viet Nam,2009,-18546
-Viet Nam,2010,-4382
-Viet Nam,2011,-4378
-Viet Nam,2012,-4545
-Viet Nam,2013,-4786
-Viet Nam,2014,-4875
-Viet Nam,2015,-4761
-Viet Nam,2016,-4432
-Viet Nam,2017,-3847
-Viet Nam,2018,-3080
-Viet Nam,2019,-4028
-Viet Nam,2020,-2016
-Viet Nam,2021,-992
-Viet Nam,2022,-82700
-Viet Nam,2023,-82700
-Viet Nam,2024,-82700
-Viet Nam,2025,-82700
+Vietnam,2000,-150955
+Vietnam,2001,-162571
+Vietnam,2002,-159577
+Vietnam,2003,-153880
+Vietnam,2004,-150349
+Vietnam,2008,-101560
+Vietnam,2009,-18546
+Vietnam,2010,-4382
+Vietnam,2011,-4378
+Vietnam,2012,-4545
+Vietnam,2013,-4786
+Vietnam,2014,-4875
+Vietnam,2015,-4761
+Vietnam,2016,-4432
+Vietnam,2017,-3847
+Vietnam,2018,-3080
+Vietnam,2019,-4028
+Vietnam,2020,-2016
+Vietnam,2021,-992
+Vietnam,2022,-82700
+Vietnam,2023,-82700
+Vietnam,2024,-82700
+Vietnam,2025,-82700
 Virgin Islands (U.S.),2000,-921
 Virgin Islands (U.S.),2001,-988
 Virgin Islands (U.S.),2002,-1041
@@ -5105,29 +5105,29 @@ West Bank and Gaza,2022,-5000
 West Bank and Gaza,2023,-5000
 West Bank and Gaza,2024,-5000
 West Bank and Gaza,2025,-5000
-"Yemen, Rep.",2000,-87753
-"Yemen, Rep.",2001,-93742
-"Yemen, Rep.",2002,-99706
-"Yemen, Rep.",2003,-104794
-"Yemen, Rep.",2004,-102701
-"Yemen, Rep.",2008,-28242
-"Yemen, Rep.",2009,-27870
-"Yemen, Rep.",2010,-25573
-"Yemen, Rep.",2011,-21770
-"Yemen, Rep.",2012,-20983
-"Yemen, Rep.",2013,-23747
-"Yemen, Rep.",2014,-30048
-"Yemen, Rep.",2015,-38355
-"Yemen, Rep.",2016,-39688
-"Yemen, Rep.",2017,-39672
-"Yemen, Rep.",2018,-39699
-"Yemen, Rep.",2019,-39769
-"Yemen, Rep.",2020,-86100
-"Yemen, Rep.",2021,-101468
-"Yemen, Rep.",2022,-29998
-"Yemen, Rep.",2023,-29914
-"Yemen, Rep.",2024,-29350
-"Yemen, Rep.",2025,-28498
+Yemen,2000,-87753
+Yemen,2001,-93742
+Yemen,2002,-99706
+Yemen,2003,-104794
+Yemen,2004,-102701
+Yemen,2008,-28242
+Yemen,2009,-27870
+Yemen,2010,-25573
+Yemen,2011,-21770
+Yemen,2012,-20983
+Yemen,2013,-23747
+Yemen,2014,-30048
+Yemen,2015,-38355
+Yemen,2016,-39688
+Yemen,2017,-39672
+Yemen,2018,-39699
+Yemen,2019,-39769
+Yemen,2020,-86100
+Yemen,2021,-101468
+Yemen,2022,-29998
+Yemen,2023,-29914
+Yemen,2024,-29350
+Yemen,2025,-28498
 Zambia,2000,-5152
 Zambia,2001,23832
 Zambia,2002,3209
