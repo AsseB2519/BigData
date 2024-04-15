@@ -1,102 +1,4 @@
 country,year,GDP
-ASEAN-5,1980,805.418
-ASEAN-5,1981,866.53
-ASEAN-5,1982,885.289
-ASEAN-5,1983,845.602
-ASEAN-5,1984,862.837
-ASEAN-5,1985,817.233
-ASEAN-5,1986,780.527
-ASEAN-5,1987,806.567
-ASEAN-5,1988,912.212
-ASEAN-5,1989,1023.486
-ASEAN-5,1990,1141.981
-ASEAN-5,1991,1256.296
-ASEAN-5,1992,1399.414
-ASEAN-5,1993,1538.094
-ASEAN-5,1994,1726.297
-ASEAN-5,1995,1967.975
-ASEAN-5,1996,2143.223
-ASEAN-5,1997,1988.208
-ASEAN-5,1998,1282.55
-ASEAN-5,1999,1496.561
-ASEAN-5,2000,1572.177
-ASEAN-5,2001,1487.217
-ASEAN-5,2002,1644.355
-ASEAN-5,2003,1821.529
-ASEAN-5,2004,2011.471
-ASEAN-5,2005,2199.273
-ASEAN-5,2006,2607.165
-ASEAN-5,2007,3074.119
-ASEAN-5,2008,3492.116
-ASEAN-5,2009,3385.137
-ASEAN-5,2010,4177.487
-ASEAN-5,2011,4742.031
-ASEAN-5,2012,4934.317
-ASEAN-5,2013,5009.992
-ASEAN-5,2014,4941.123
-ASEAN-5,2015,4715.428
-ASEAN-5,2016,4889.034
-ASEAN-5,2017,5213.511
-ASEAN-5,2018,5513.448
-ASEAN-5,2019,5771.691
-ASEAN-5,2020,5361.577
-ASEAN-5,2021,5882.641
-ASEAN-5,2022,6249.703
-ASEAN-5,2023,6597.204
-ASEAN-5,2024,7046.335
-ASEAN-5,2025,7527.395
-ASEAN-5,2026,8017.131
-ASEAN-5,2027,8522.837
-ASEAN-5,2028,9048.701
-Advanced economies,1980,10308.953
-Advanced economies,1981,10393.803
-Advanced economies,1982,10251.829
-Advanced economies,1983,10602.027
-Advanced economies,1984,11026.14
-Advanced economies,1985,11544.87
-Advanced economies,1986,14017.159
-Advanced economies,1987,16206.809
-Advanced economies,1988,18193.896
-Advanced economies,1989,18845.65
-Advanced economies,1990,20980.023
-Advanced economies,1991,22206.975
-Advanced economies,1992,23452.532
-Advanced economies,1993,23286.091
-Advanced economies,1994,24838.835
-Advanced economies,1995,26932.729
-Advanced economies,1996,26950.784
-Advanced economies,1997,26263.189
-Advanced economies,1998,26205.0
-Advanced economies,1999,27433.364
-Advanced economies,2000,27733.465
-Advanced economies,2001,27274.175
-Advanced economies,2002,28276.648
-Advanced economies,2003,31528.421
-Advanced economies,2004,34770.004
-Advanced economies,2005,36354.823
-Advanced economies,2006,37985.876
-Advanced economies,2007,41221.389
-Advanced economies,2008,43258.493
-Advanced economies,2009,40570.265
-Advanced economies,2010,42154.363
-Advanced economies,2011,45011.518
-Advanced economies,2012,44632.763
-Advanced economies,2013,44832.244
-Advanced economies,2014,45647.709
-Advanced economies,2015,42967.254
-Advanced economies,2016,43894.075
-Advanced economies,2017,45602.87
-Advanced economies,2018,48077.036
-Advanced economies,2019,48349.97
-Advanced economies,2020,47219.637
-Advanced economies,2021,52474.214
-Advanced economies,2022,53128.701
-Advanced economies,2023,55920.76
-Advanced economies,2024,58171.865
-Advanced economies,2025,60674.347
-Advanced economies,2026,63127.205
-Advanced economies,2027,65438.953
-Advanced economies,2028,67903.329
 Afghanistan,1980,0.0
 Afghanistan,1981,0.0
 Afghanistan,1982,0.0
@@ -146,55 +48,6 @@ Afghanistan,2025,0.0
 Afghanistan,2026,0.0
 Afghanistan,2027,0.0
 Afghanistan,2028,0.0
-Africa (Region),1980,0.0
-Africa (Region),1981,0.0
-Africa (Region),1982,0.0
-Africa (Region),1983,0.0
-Africa (Region),1984,0.0
-Africa (Region),1985,0.0
-Africa (Region),1986,0.0
-Africa (Region),1987,0.0
-Africa (Region),1988,0.0
-Africa (Region),1989,0.0
-Africa (Region),1990,1084.162
-Africa (Region),1991,973.976
-Africa (Region),1992,946.207
-Africa (Region),1993,921.164
-Africa (Region),1994,880.737
-Africa (Region),1995,1022.934
-Africa (Region),1996,1114.199
-Africa (Region),1997,1127.96
-Africa (Region),1998,1113.825
-Africa (Region),1999,900.054
-Africa (Region),2000,900.146
-Africa (Region),2001,851.157
-Africa (Region),2002,848.238
-Africa (Region),2003,998.822
-Africa (Region),2004,1167.057
-Africa (Region),2005,1339.252
-Africa (Region),2006,1506.701
-Africa (Region),2007,1706.668
-Africa (Region),2008,1944.551
-Africa (Region),2009,1800.418
-Africa (Region),2010,2050.024
-Africa (Region),2011,2231.787
-Africa (Region),2012,2320.378
-Africa (Region),2013,2345.351
-Africa (Region),2014,2369.607
-Africa (Region),2015,2110.298
-Africa (Region),2016,1956.895
-Africa (Region),2017,1915.312
-Africa (Region),2018,2001.195
-Africa (Region),2019,2001.224
-Africa (Region),2020,1886.892
-Africa (Region),2021,2058.283
-Africa (Region),2022,2157.398
-Africa (Region),2023,2044.409
-Africa (Region),2024,2079.88
-Africa (Region),2025,2209.349
-Africa (Region),2026,2330.819
-Africa (Region),2027,2454.721
-Africa (Region),2028,2592.564
 Albania,1980,728.359
 Albania,1981,817.734
 Albania,1982,824.542
@@ -587,55 +440,6 @@ Aruba,2025,38197.67
 Aruba,2026,39449.907
 Aruba,2027,40754.664
 Aruba,2028,42117.086
-Asia and Pacific,1980,967.898
-Asia and Pacific,1981,1016.459
-Asia and Pacific,1982,970.507
-Asia and Pacific,1983,1012.764
-Asia and Pacific,1984,1055.624
-Asia and Pacific,1985,1056.643
-Asia and Pacific,1986,1318.506
-Asia and Pacific,1987,1536.566
-Asia and Pacific,1988,1800.837
-Asia and Pacific,1989,1838.401
-Asia and Pacific,1990,1882.879
-Asia and Pacific,1991,2040.822
-Asia and Pacific,1992,2154.125
-Asia and Pacific,1993,2388.1
-Asia and Pacific,1994,2545.435
-Asia and Pacific,1995,2849.244
-Asia and Pacific,1996,2739.857
-Asia and Pacific,1997,2598.534
-Asia and Pacific,1998,2288.778
-Asia and Pacific,1999,2509.151
-Asia and Pacific,2000,2652.886
-Asia and Pacific,2001,2444.831
-Asia and Pacific,2002,2467.594
-Asia and Pacific,2003,2720.962
-Asia and Pacific,2004,3035.255
-Asia and Pacific,2005,3245.298
-Asia and Pacific,2006,3435.52
-Asia and Pacific,2007,3887.563
-Asia and Pacific,2008,4348.609
-Asia and Pacific,2009,4422.773
-Asia and Pacific,2010,5112.83
-Asia and Pacific,2011,5816.497
-Asia and Pacific,2012,6114.244
-Asia and Pacific,2013,6145.286
-Asia and Pacific,2014,6304.746
-Asia and Pacific,2015,6193.753
-Asia and Pacific,2016,6384.362
-Asia and Pacific,2017,6777.094
-Asia and Pacific,2018,7208.036
-Asia and Pacific,2019,7328.313
-Asia and Pacific,2020,7296.251
-Asia and Pacific,2021,8271.693
-Asia and Pacific,2022,8279.717
-Asia and Pacific,2023,8388.461
-Asia and Pacific,2024,8783.015
-Asia and Pacific,2025,9324.478
-Asia and Pacific,2026,9870.042
-Asia and Pacific,2027,10413.045
-Asia and Pacific,2028,11013.391
 Australia,1980,11009.179
 Australia,1981,12530.324
 Australia,1982,12236.639
@@ -685,55 +489,6 @@ Australia,2025,65317.386
 Australia,2026,67798.39
 Australia,2027,70227.696
 Australia,2028,72668.724
-Australia and New Zealand,1980,10356.048
-Australia and New Zealand,1981,11665.312
-Australia and New Zealand,1982,11405.366
-Australia and New Zealand,1983,10821.992
-Australia and New Zealand,1984,11622.009
-Australia and New Zealand,1985,10287.225
-Australia and New Zealand,1986,10762.386
-Australia and New Zealand,1987,12696.785
-Australia and New Zealand,1988,15814.651
-Australia and New Zealand,1989,17360.179
-Australia and New Zealand,1990,17975.573
-Australia and New Zealand,1991,17624.511
-Australia and New Zealand,1992,17051.633
-Australia and New Zealand,1993,16630.309
-Australia and New Zealand,1994,18883.249
-Australia and New Zealand,1995,20248.845
-Australia and New Zealand,1996,22379.566
-Australia and New Zealand,1997,22217.48
-Australia and New Zealand,1998,19456.94
-Australia and New Zealand,1999,20680.54
-Australia and New Zealand,2000,19741.776
-Australia and New Zealand,2001,18515.144
-Australia and New Zealand,2002,20688.276
-Australia and New Zealand,2003,26136.036
-Australia and New Zealand,2004,31496.903
-Australia and New Zealand,2005,34735.567
-Australia and New Zealand,2006,35970.586
-Australia and New Zealand,2007,42959.889
-Australia and New Zealand,2008,46307.676
-Australia and New Zealand,2009,42891.724
-Australia and New Zealand,2010,52773.236
-Australia and New Zealand,2011,62508.584
-Australia and New Zealand,2012,63808.773
-Australia and New Zealand,2013,61495.513
-Australia and New Zealand,2014,58834.557
-Australia and New Zealand,2015,49281.194
-Australia and New Zealand,2016,49805.529
-Australia and New Zealand,2017,53601.584
-Australia and New Zealand,2018,54135.687
-Australia and New Zealand,2019,52327.689
-Australia and New Zealand,2020,51142.812
-Australia and New Zealand,2021,61351.091
-Australia and New Zealand,2022,61942.727
-Australia and New Zealand,2023,60969.72
-Australia and New Zealand,2024,60091.319
-Australia and New Zealand,2025,62567.106
-Australia and New Zealand,2026,64966.356
-Australia and New Zealand,2027,67329.479
-Australia and New Zealand,2028,69699.966
 Austria,1980,10731.955
 Austria,1981,9280.728
 Austria,1982,9267.664
@@ -832,55 +587,55 @@ Azerbaijan,2025,8007.676
 Azerbaijan,2026,8253.791
 Azerbaijan,2027,8511.642
 Azerbaijan,2028,8803.544
-"Bahamas, The",1980,12291.741
-"Bahamas, The",1981,12496.221
-"Bahamas, The",1982,13749.496
-"Bahamas, The",1983,14961.6
-"Bahamas, The",1984,15630.102
-"Bahamas, The",1985,16801.08
-"Bahamas, The",1986,17854.136
-"Bahamas, The",1987,19329.928
-"Bahamas, The",1988,19687.5
-"Bahamas, The",1989,21818.62
-"Bahamas, The",1990,20460.303
-"Bahamas, The",1991,19767.715
-"Bahamas, The",1992,19417.216
-"Bahamas, The",1993,18979.006
-"Bahamas, The",1994,19660.918
-"Bahamas, The",1995,20271.249
-"Bahamas, The",1996,20974.532
-"Bahamas, The",1997,21951.756
-"Bahamas, The",1998,23300.816
-"Bahamas, The",1999,25780.485
-"Bahamas, The",2000,26601.368
-"Bahamas, The",2001,26971.273
-"Bahamas, The",2002,28357.927
-"Bahamas, The",2003,27896.338
-"Bahamas, The",2004,28056.572
-"Bahamas, The",2005,30030.89
-"Bahamas, The",2006,30594.671
-"Bahamas, The",2007,31498.523
-"Bahamas, The",2008,30787.585
-"Bahamas, The",2009,28793.341
-"Bahamas, The",2010,28725.135
-"Bahamas, The",2011,28365.859
-"Bahamas, The",2012,29895.418
-"Bahamas, The",2013,28695.885
-"Bahamas, The",2014,30055.888
-"Bahamas, The",2015,31576.619
-"Bahamas, The",2016,31463.129
-"Bahamas, The",2017,32471.737
-"Bahamas, The",2018,33183.686
-"Bahamas, The",2019,33888.774
-"Bahamas, The",2020,25049.586
-"Bahamas, The",2021,29230.943
-"Bahamas, The",2022,32298.948
-"Bahamas, The",2023,34370.86
-"Bahamas, The",2024,35541.818
-"Bahamas, The",2025,36499.714
-"Bahamas, The",2026,37426.067
-"Bahamas, The",2027,38324.312
-"Bahamas, The",2028,39266.795
+Bahamas,1980,12291.741
+Bahamas,1981,12496.221
+Bahamas,1982,13749.496
+Bahamas,1983,14961.6
+Bahamas,1984,15630.102
+Bahamas,1985,16801.08
+Bahamas,1986,17854.136
+Bahamas,1987,19329.928
+Bahamas,1988,19687.5
+Bahamas,1989,21818.62
+Bahamas,1990,20460.303
+Bahamas,1991,19767.715
+Bahamas,1992,19417.216
+Bahamas,1993,18979.006
+Bahamas,1994,19660.918
+Bahamas,1995,20271.249
+Bahamas,1996,20974.532
+Bahamas,1997,21951.756
+Bahamas,1998,23300.816
+Bahamas,1999,25780.485
+Bahamas,2000,26601.368
+Bahamas,2001,26971.273
+Bahamas,2002,28357.927
+Bahamas,2003,27896.338
+Bahamas,2004,28056.572
+Bahamas,2005,30030.89
+Bahamas,2006,30594.671
+Bahamas,2007,31498.523
+Bahamas,2008,30787.585
+Bahamas,2009,28793.341
+Bahamas,2010,28725.135
+Bahamas,2011,28365.859
+Bahamas,2012,29895.418
+Bahamas,2013,28695.885
+Bahamas,2014,30055.888
+Bahamas,2015,31576.619
+Bahamas,2016,31463.129
+Bahamas,2017,32471.737
+Bahamas,2018,33183.686
+Bahamas,2019,33888.774
+Bahamas,2020,25049.586
+Bahamas,2021,29230.943
+Bahamas,2022,32298.948
+Bahamas,2023,34370.86
+Bahamas,2024,35541.818
+Bahamas,2025,36499.714
+Bahamas,2026,37426.067
+Bahamas,2027,38324.312
+Bahamas,2028,39266.795
 Bahrain,1980,10189.612
 Bahrain,1981,11061.394
 Bahrain,1982,11221.699
@@ -1959,104 +1714,6 @@ Central African Republic,2025,600.386
 Central African Republic,2026,626.694
 Central African Republic,2027,648.491
 Central African Republic,2028,672.103
-Central America,1980,1300.384
-Central America,1981,1258.892
-Central America,1982,1238.955
-Central America,1983,1262.488
-Central America,1984,1452.967
-Central America,1985,1218.009
-Central America,1986,1105.112
-Central America,1987,1147.912
-Central America,1988,1127.291
-Central America,1989,1233.059
-Central America,1990,1144.891
-Central America,1991,1295.33
-Central America,1992,1440.6
-Central America,1993,1554.384
-Central America,1994,1583.814
-Central America,1995,1727.107
-Central America,1996,1809.606
-Central America,1997,1934.184
-Central America,1998,2053.86
-Central America,1999,2041.856
-Central America,2000,2128.538
-Central America,2001,2202.399
-Central America,2002,2280.452
-Central America,2003,2195.599
-Central America,2004,2308.001
-Central America,2005,2719.5
-Central America,2006,2934.293
-Central America,2007,3287.848
-Central America,2008,3644.773
-Central America,2009,3585.592
-Central America,2010,3928.372
-Central America,2011,4344.354
-Central America,2012,4607.539
-Central America,2013,4816.7
-Central America,2014,5064.175
-Central America,2015,5346.849
-Central America,2016,5564.853
-Central America,2017,5810.774
-Central America,2018,5956.654
-Central America,2019,6099.981
-Central America,2020,5576.331
-Central America,2021,6270.728
-Central America,2022,6976.441
-Central America,2023,7591.082
-Central America,2024,7993.51
-Central America,2025,8396.546
-Central America,2026,8819.96
-Central America,2027,9263.109
-Central America,2028,9725.968
-Central Asia and the Caucasus,1980,2133.685
-Central Asia and the Caucasus,1981,2113.068
-Central Asia and the Caucasus,1982,1876.637
-Central Asia and the Caucasus,1983,1753.332
-Central Asia and the Caucasus,1984,1668.464
-Central Asia and the Caucasus,1985,1835.181
-Central Asia and the Caucasus,1986,1983.05
-Central Asia and the Caucasus,1987,2260.66
-Central Asia and the Caucasus,1988,2333.225
-Central Asia and the Caucasus,1989,2707.896
-Central Asia and the Caucasus,1990,3738.161
-Central Asia and the Caucasus,1991,0.0
-Central Asia and the Caucasus,1992,1911.941
-Central Asia and the Caucasus,1993,2238.904
-Central Asia and the Caucasus,1994,1670.342
-Central Asia and the Caucasus,1995,2182.672
-Central Asia and the Caucasus,1996,2340.272
-Central Asia and the Caucasus,1997,2433.392
-Central Asia and the Caucasus,1998,2524.398
-Central Asia and the Caucasus,1999,2336.649
-Central Asia and the Caucasus,2000,2452.981
-Central Asia and the Caucasus,2001,0.0
-Central Asia and the Caucasus,2002,1988.413
-Central Asia and the Caucasus,2003,2521.082
-Central Asia and the Caucasus,2004,3221.958
-Central Asia and the Caucasus,2005,3958.458
-Central Asia and the Caucasus,2006,4481.019
-Central Asia and the Caucasus,2007,5509.872
-Central Asia and the Caucasus,2008,6272.52
-Central Asia and the Caucasus,2009,5338.628
-Central Asia and the Caucasus,2010,6290.767
-Central Asia and the Caucasus,2011,6989.747
-Central Asia and the Caucasus,2012,7316.286
-Central Asia and the Caucasus,2013,7841.508
-Central Asia and the Caucasus,2014,7609.399
-Central Asia and the Caucasus,2015,6708.144
-Central Asia and the Caucasus,2016,6293.224
-Central Asia and the Caucasus,2017,6247.351
-Central Asia and the Caucasus,2018,5794.311
-Central Asia and the Caucasus,2019,5698.703
-Central Asia and the Caucasus,2020,5344.56
-Central Asia and the Caucasus,2021,5998.018
-Central Asia and the Caucasus,2022,0.0
-Central Asia and the Caucasus,2023,9549.576
-Central Asia and the Caucasus,2024,10752.205
-Central Asia and the Caucasus,2025,11217.543
-Central Asia and the Caucasus,2026,11616.251
-Central Asia and the Caucasus,2027,12084.045
-Central Asia and the Caucasus,2028,12578.902
 Chad,1980,163.554
 Chad,1981,189.349
 Chad,1982,178.888
@@ -2155,55 +1812,55 @@ Chile,2025,18433.623
 Chile,2026,19210.04
 Chile,2027,19960.757
 Chile,2028,20773.528
-"China, People's Republic of",1980,306.98
-"China, People's Republic of",1981,288.491
-"China, People's Republic of",1982,279.971
-"China, People's Republic of",1983,296.509
-"China, People's Republic of",1984,301.111
-"China, People's Republic of",1985,292.99
-"China, People's Republic of",1986,279.908
-"China, People's Republic of",1987,299.842
-"China, People's Republic of",1988,368.079
-"China, People's Republic of",1989,406.534
-"China, People's Republic of",1990,346.873
-"China, People's Republic of",1991,356.759
-"China, People's Republic of",1992,420.025
-"China, People's Republic of",1993,520.966
-"China, People's Republic of",1994,468.658
-"China, People's Republic of",1995,603.526
-"China, People's Republic of",1996,703.06
-"China, People's Republic of",1997,774.91
-"China, People's Republic of",1998,820.903
-"China, People's Republic of",1999,865.236
-"China, People's Republic of",2000,951.163
-"China, People's Republic of",2001,1044.958
-"China, People's Republic of",2002,1141.14
-"China, People's Republic of",2003,1282.21
-"China, People's Republic of",2004,1499.712
-"China, People's Republic of",2005,1751.368
-"China, People's Republic of",2006,2095.239
-"China, People's Republic of",2007,2691.048
-"China, People's Republic of",2008,3446.695
-"China, People's Republic of",2009,3813.408
-"China, People's Republic of",2010,4499.803
-"China, People's Republic of",2011,5553.242
-"China, People's Republic of",2012,6282.709
-"China, People's Republic of",2013,7039.574
-"China, People's Republic of",2014,7645.875
-"China, People's Republic of",2015,8034.287
-"China, People's Republic of",2016,8063.446
-"China, People's Republic of",2017,8760.259
-"China, People's Republic of",2018,9848.949
-"China, People's Republic of",2019,10170.061
-"China, People's Republic of",2020,10525.001
-"China, People's Republic of",2021,12572.071
-"China, People's Republic of",2022,12669.617
-"China, People's Republic of",2023,12541.403
-"China, People's Republic of",2024,13155.889
-"China, People's Republic of",2025,14031.401
-"China, People's Republic of",2026,14951.6
-"China, People's Republic of",2027,15843.618
-"China, People's Republic of",2028,16802.947
+China,1980,306.98
+China,1981,288.491
+China,1982,279.971
+China,1983,296.509
+China,1984,301.111
+China,1985,292.99
+China,1986,279.908
+China,1987,299.842
+China,1988,368.079
+China,1989,406.534
+China,1990,346.873
+China,1991,356.759
+China,1992,420.025
+China,1993,520.966
+China,1994,468.658
+China,1995,603.526
+China,1996,703.06
+China,1997,774.91
+China,1998,820.903
+China,1999,865.236
+China,2000,951.163
+China,2001,1044.958
+China,2002,1141.14
+China,2003,1282.21
+China,2004,1499.712
+China,2005,1751.368
+China,2006,2095.239
+China,2007,2691.048
+China,2008,3446.695
+China,2009,3813.408
+China,2010,4499.803
+China,2011,5553.242
+China,2012,6282.709
+China,2013,7039.574
+China,2014,7645.875
+China,2015,8034.287
+China,2016,8063.446
+China,2017,8760.259
+China,2018,9848.949
+China,2019,10170.061
+China,2020,10525.001
+China,2021,12572.071
+China,2022,12669.617
+China,2023,12541.403
+China,2024,13155.889
+China,2025,14031.401
+China,2026,14951.6
+China,2027,15843.618
+China,2028,16802.947
 Colombia,1980,1682.427
 Colombia,1981,1792.984
 Colombia,1982,1878.86
@@ -2302,104 +1959,104 @@ Comoros,2025,1440.587
 Comoros,2026,1480.295
 Comoros,2027,1512.776
 Comoros,2028,1542.586
-"Congo, Dem. Rep. of the",1980,2730.694
-"Congo, Dem. Rep. of the",1981,2301.277
-"Congo, Dem. Rep. of the",1982,2422.242
-"Congo, Dem. Rep. of the",1983,1891.283
-"Congo, Dem. Rep. of the",1984,1221.72
-"Congo, Dem. Rep. of the",1985,1080.898
-"Congo, Dem. Rep. of the",1986,1174.016
-"Congo, Dem. Rep. of the",1987,1075.998
-"Congo, Dem. Rep. of the",1988,1206.847
-"Congo, Dem. Rep. of the",1989,1188.851
-"Congo, Dem. Rep. of the",1990,1192.38
-"Congo, Dem. Rep. of the",1991,1120.914
-"Congo, Dem. Rep. of the",1992,973.197
-"Congo, Dem. Rep. of the",1993,1222.443
-"Congo, Dem. Rep. of the",1994,639.608
-"Congo, Dem. Rep. of the",1995,601.803
-"Congo, Dem. Rep. of the",1996,750.736
-"Congo, Dem. Rep. of the",1997,642.729
-"Congo, Dem. Rep. of the",1998,461.123
-"Congo, Dem. Rep. of the",1999,410.453
-"Congo, Dem. Rep. of the",2000,397.025
-"Congo, Dem. Rep. of the",2001,146.542
-"Congo, Dem. Rep. of the",2002,171.076
-"Congo, Dem. Rep. of the",2003,171.505
-"Congo, Dem. Rep. of the",2004,189.173
-"Congo, Dem. Rep. of the",2005,226.776
-"Congo, Dem. Rep. of the",2006,265.901
-"Congo, Dem. Rep. of the",2007,310.819
-"Congo, Dem. Rep. of the",2008,366.699
-"Congo, Dem. Rep. of the",2009,291.745
-"Congo, Dem. Rep. of the",2010,338.802
-"Congo, Dem. Rep. of the",2011,387.825
-"Congo, Dem. Rep. of the",2012,427.848
-"Congo, Dem. Rep. of the",2013,481.137
-"Congo, Dem. Rep. of the",2014,512.244
-"Congo, Dem. Rep. of the",2015,519.68
-"Congo, Dem. Rep. of the",2016,477.259
-"Congo, Dem. Rep. of the",2017,478.789
-"Congo, Dem. Rep. of the",2018,564.342
-"Congo, Dem. Rep. of the",2019,578.891
-"Congo, Dem. Rep. of the",2020,536.45
-"Congo, Dem. Rep. of the",2021,611.493
-"Congo, Dem. Rep. of the",2022,679.579
-"Congo, Dem. Rep. of the",2023,675.477
-"Congo, Dem. Rep. of the",2024,710.163
-"Congo, Dem. Rep. of the",2025,761.963
-"Congo, Dem. Rep. of the",2026,814.032
-"Congo, Dem. Rep. of the",2027,871.311
-"Congo, Dem. Rep. of the",2028,927.4
-"Congo, Republic of ",1980,1362.75
-"Congo, Republic of ",1981,1083.721
-"Congo, Republic of ",1982,916.547
-"Congo, Republic of ",1983,808.393
-"Congo, Republic of ",1984,721.033
-"Congo, Republic of ",1985,717.264
-"Congo, Republic of ",1986,951.697
-"Congo, Republic of ",1987,1121.613
-"Congo, Republic of ",1988,1157.519
-"Congo, Republic of ",1989,1150.77
-"Congo, Republic of ",1990,1310.373
-"Congo, Republic of ",1991,1326.741
-"Congo, Republic of ",1992,1398.92
-"Congo, Republic of ",1993,1249.625
-"Congo, Republic of ",1994,839.501
-"Congo, Republic of ",1995,973.005
-"Congo, Republic of ",1996,1097.225
-"Congo, Republic of ",1997,967.806
-"Congo, Republic of ",1998,823.561
-"Congo, Republic of ",1999,949.351
-"Congo, Republic of ",2000,1268.422
-"Congo, Republic of ",2001,1037.327
-"Congo, Republic of ",2002,1109.284
-"Congo, Republic of ",2003,1255.568
-"Congo, Republic of ",2004,1617.326
-"Congo, Republic of ",2005,2058.304
-"Congo, Republic of ",2006,2436.377
-"Congo, Republic of ",2007,2586.304
-"Congo, Republic of ",2008,3346.18
-"Congo, Republic of ",2009,2722.039
-"Congo, Republic of ",2010,3597.956
-"Congo, Republic of ",2011,4175.34
-"Congo, Republic of ",2012,4607.39
-"Congo, Republic of ",2013,4559.725
-"Congo, Republic of ",2014,4438.243
-"Congo, Republic of ",2015,2873.72
-"Congo, Republic of ",2016,2576.549
-"Congo, Republic of ",2017,2721.179
-"Congo, Republic of ",2018,3316.879
-"Congo, Republic of ",2019,3060.094
-"Congo, Republic of ",2020,2453.191
-"Congo, Republic of ",2021,2789.702
-"Congo, Republic of ",2022,2838.369
-"Congo, Republic of ",2023,2857.614
-"Congo, Republic of ",2024,2984.025
-"Congo, Republic of ",2025,3061.461
-"Congo, Republic of ",2026,3160.048
-"Congo, Republic of ",2027,3254.925
-"Congo, Republic of ",2028,3358.965
+Democratic Republic of the Congo,1980,2730.694
+Democratic Republic of the Congo,1981,2301.277
+Democratic Republic of the Congo,1982,2422.242
+Democratic Republic of the Congo,1983,1891.283
+Democratic Republic of the Congo,1984,1221.72
+Democratic Republic of the Congo,1985,1080.898
+Democratic Republic of the Congo,1986,1174.016
+Democratic Republic of the Congo,1987,1075.998
+Democratic Republic of the Congo,1988,1206.847
+Democratic Republic of the Congo,1989,1188.851
+Democratic Republic of the Congo,1990,1192.38
+Democratic Republic of the Congo,1991,1120.914
+Democratic Republic of the Congo,1992,973.197
+Democratic Republic of the Congo,1993,1222.443
+Democratic Republic of the Congo,1994,639.608
+Democratic Republic of the Congo,1995,601.803
+Democratic Republic of the Congo,1996,750.736
+Democratic Republic of the Congo,1997,642.729
+Democratic Republic of the Congo,1998,461.123
+Democratic Republic of the Congo,1999,410.453
+Democratic Republic of the Congo,2000,397.025
+Democratic Republic of the Congo,2001,146.542
+Democratic Republic of the Congo,2002,171.076
+Democratic Republic of the Congo,2003,171.505
+Democratic Republic of the Congo,2004,189.173
+Democratic Republic of the Congo,2005,226.776
+Democratic Republic of the Congo,2006,265.901
+Democratic Republic of the Congo,2007,310.819
+Democratic Republic of the Congo,2008,366.699
+Democratic Republic of the Congo,2009,291.745
+Democratic Republic of the Congo,2010,338.802
+Democratic Republic of the Congo,2011,387.825
+Democratic Republic of the Congo,2012,427.848
+Democratic Republic of the Congo,2013,481.137
+Democratic Republic of the Congo,2014,512.244
+Democratic Republic of the Congo,2015,519.68
+Democratic Republic of the Congo,2016,477.259
+Democratic Republic of the Congo,2017,478.789
+Democratic Republic of the Congo,2018,564.342
+Democratic Republic of the Congo,2019,578.891
+Democratic Republic of the Congo,2020,536.45
+Democratic Republic of the Congo,2021,611.493
+Democratic Republic of the Congo,2022,679.579
+Democratic Republic of the Congo,2023,675.477
+Democratic Republic of the Congo,2024,710.163
+Democratic Republic of the Congo,2025,761.963
+Democratic Republic of the Congo,2026,814.032
+Democratic Republic of the Congo,2027,871.311
+Democratic Republic of the Congo,2028,927.4
+Republic of the Congo,1980,1362.75
+Republic of the Congo,1981,1083.721
+Republic of the Congo,1982,916.547
+Republic of the Congo,1983,808.393
+Republic of the Congo,1984,721.033
+Republic of the Congo,1985,717.264
+Republic of the Congo,1986,951.697
+Republic of the Congo,1987,1121.613
+Republic of the Congo,1988,1157.519
+Republic of the Congo,1989,1150.77
+Republic of the Congo,1990,1310.373
+Republic of the Congo,1991,1326.741
+Republic of the Congo,1992,1398.92
+Republic of the Congo,1993,1249.625
+Republic of the Congo,1994,839.501
+Republic of the Congo,1995,973.005
+Republic of the Congo,1996,1097.225
+Republic of the Congo,1997,967.806
+Republic of the Congo,1998,823.561
+Republic of the Congo,1999,949.351
+Republic of the Congo,2000,1268.422
+Republic of the Congo,2001,1037.327
+Republic of the Congo,2002,1109.284
+Republic of the Congo,2003,1255.568
+Republic of the Congo,2004,1617.326
+Republic of the Congo,2005,2058.304
+Republic of the Congo,2006,2436.377
+Republic of the Congo,2007,2586.304
+Republic of the Congo,2008,3346.18
+Republic of the Congo,2009,2722.039
+Republic of the Congo,2010,3597.956
+Republic of the Congo,2011,4175.34
+Republic of the Congo,2012,4607.39
+Republic of the Congo,2013,4559.725
+Republic of the Congo,2014,4438.243
+Republic of the Congo,2015,2873.72
+Republic of the Congo,2016,2576.549
+Republic of the Congo,2017,2721.179
+Republic of the Congo,2018,3316.879
+Republic of the Congo,2019,3060.094
+Republic of the Congo,2020,2453.191
+Republic of the Congo,2021,2789.702
+Republic of the Congo,2022,2838.369
+Republic of the Congo,2023,2857.614
+Republic of the Congo,2024,2984.025
+Republic of the Congo,2025,3061.461
+Republic of the Congo,2026,3160.048
+Republic of the Congo,2027,3254.925
+Republic of the Congo,2028,3358.965
 Costa Rica,1980,2108.75
 Costa Rica,1981,1111.35
 Costa Rica,1982,1071.935
@@ -2547,104 +2204,104 @@ Cyprus,2025,38870.112
 Cyprus,2026,40759.645
 Cyprus,2027,42489.557
 Cyprus,2028,44213.156
-Czech Republic,1980,0.0
-Czech Republic,1981,0.0
-Czech Republic,1982,0.0
-Czech Republic,1983,0.0
-Czech Republic,1984,0.0
-Czech Republic,1985,0.0
-Czech Republic,1986,0.0
-Czech Republic,1987,0.0
-Czech Republic,1988,0.0
-Czech Republic,1989,0.0
-Czech Republic,1990,0.0
-Czech Republic,1991,0.0
-Czech Republic,1992,0.0
-Czech Republic,1993,0.0
-Czech Republic,1994,0.0
-Czech Republic,1995,5820.043
-Czech Republic,1996,6529.042
-Czech Republic,1997,6030.633
-Czech Republic,1998,6484.201
-Czech Republic,1999,6333.862
-Czech Republic,2000,6015.067
-Czech Republic,2001,6627.103
-Czech Republic,2002,8056.318
-Czech Republic,2003,9823.287
-Czech Republic,2004,11751.897
-Czech Republic,2005,13446.938
-Czech Republic,2006,15284.674
-Czech Republic,2007,18527.743
-Czech Republic,2008,22925.748
-Czech Republic,2009,19908.146
-Czech Republic,2010,19983.577
-Czech Republic,2011,21890.781
-Czech Republic,2012,19880.902
-Czech Republic,2013,20129.622
-Czech Republic,2014,19915.381
-Czech Republic,2015,17842.868
-Czech Republic,2016,18553.304
-Czech Republic,2017,20605.825
-Czech Republic,2018,23380.772
-Czech Republic,2019,23616.011
-Czech Republic,2020,22984.459
-Czech Republic,2021,26794.625
-Czech Republic,2022,26832.304
-Czech Republic,2023,30474.529
-Czech Republic,2024,32391.384
-Czech Republic,2025,34467.238
-Czech Republic,2026,36529.63
-Czech Republic,2027,38296.918
-Czech Republic,2028,40041.801
-Côte d'Ivoire,1980,1736.234
-Côte d'Ivoire,1981,1406.882
-Côte d'Ivoire,1982,1215.258
-Côte d'Ivoire,1983,1043.55
-Côte d'Ivoire,1984,1012.124
-Côte d'Ivoire,1985,993.897
-Côte d'Ivoire,1986,1280.038
-Côte d'Ivoire,1987,1355.598
-Côte d'Ivoire,1988,1357.337
-Côte d'Ivoire,1989,1248.342
-Côte d'Ivoire,1990,1327.017
-Côte d'Ivoire,1991,1240.012
-Côte d'Ivoire,1992,1268.092
-Côte d'Ivoire,1993,1142.993
-Côte d'Ivoire,1994,835.243
-Côte d'Ivoire,1995,1073.957
-Côte d'Ivoire,1996,1152.492
-Côte d'Ivoire,1997,1084.699
-Côte d'Ivoire,1998,1137.47
-Côte d'Ivoire,1999,1088.352
-Côte d'Ivoire,2000,920.48
-Côte d'Ivoire,2001,935.453
-Côte d'Ivoire,2002,1009.647
-Côte d'Ivoire,2003,1216.947
-Côte d'Ivoire,2004,1282.225
-Côte d'Ivoire,2005,1287.98
-Côte d'Ivoire,2006,1308.59
-Côte d'Ivoire,2007,1458.248
-Côte d'Ivoire,2008,1697.062
-Côte d'Ivoire,2009,1657.61
-Côte d'Ivoire,2010,1650.97
-Côte d'Ivoire,2011,1660.464
-Côte d'Ivoire,2012,1686.744
-Côte d'Ivoire,2013,1919.177
-Côte d'Ivoire,2014,2115.206
-Côte d'Ivoire,2015,1932.237
-Côte d'Ivoire,2016,1989.85
-Côte d'Ivoire,2017,2103.872
-Côte d'Ivoire,2018,2285.248
-Côte d'Ivoire,2019,2279.707
-Côte d'Ivoire,2020,2339.728
-Côte d'Ivoire,2021,2597.695
-Côte d'Ivoire,2022,2473.051
-Côte d'Ivoire,2023,2728.079
-Côte d'Ivoire,2024,2908.749
-Côte d'Ivoire,2025,3082.331
-Côte d'Ivoire,2026,3253.451
-Côte d'Ivoire,2027,3403.597
-Côte d'Ivoire,2028,3572.545
+Czechia,1980,0.0
+Czechia,1981,0.0
+Czechia,1982,0.0
+Czechia,1983,0.0
+Czechia,1984,0.0
+Czechia,1985,0.0
+Czechia,1986,0.0
+Czechia,1987,0.0
+Czechia,1988,0.0
+Czechia,1989,0.0
+Czechia,1990,0.0
+Czechia,1991,0.0
+Czechia,1992,0.0
+Czechia,1993,0.0
+Czechia,1994,0.0
+Czechia,1995,5820.043
+Czechia,1996,6529.042
+Czechia,1997,6030.633
+Czechia,1998,6484.201
+Czechia,1999,6333.862
+Czechia,2000,6015.067
+Czechia,2001,6627.103
+Czechia,2002,8056.318
+Czechia,2003,9823.287
+Czechia,2004,11751.897
+Czechia,2005,13446.938
+Czechia,2006,15284.674
+Czechia,2007,18527.743
+Czechia,2008,22925.748
+Czechia,2009,19908.146
+Czechia,2010,19983.577
+Czechia,2011,21890.781
+Czechia,2012,19880.902
+Czechia,2013,20129.622
+Czechia,2014,19915.381
+Czechia,2015,17842.868
+Czechia,2016,18553.304
+Czechia,2017,20605.825
+Czechia,2018,23380.772
+Czechia,2019,23616.011
+Czechia,2020,22984.459
+Czechia,2021,26794.625
+Czechia,2022,26832.304
+Czechia,2023,30474.529
+Czechia,2024,32391.384
+Czechia,2025,34467.238
+Czechia,2026,36529.63
+Czechia,2027,38296.918
+Czechia,2028,40041.801
+Cote d'Ivoire,1980,1736.234
+Cote d'Ivoire,1981,1406.882
+Cote d'Ivoire,1982,1215.258
+Cote d'Ivoire,1983,1043.55
+Cote d'Ivoire,1984,1012.124
+Cote d'Ivoire,1985,993.897
+Cote d'Ivoire,1986,1280.038
+Cote d'Ivoire,1987,1355.598
+Cote d'Ivoire,1988,1357.337
+Cote d'Ivoire,1989,1248.342
+Cote d'Ivoire,1990,1327.017
+Cote d'Ivoire,1991,1240.012
+Cote d'Ivoire,1992,1268.092
+Cote d'Ivoire,1993,1142.993
+Cote d'Ivoire,1994,835.243
+Cote d'Ivoire,1995,1073.957
+Cote d'Ivoire,1996,1152.492
+Cote d'Ivoire,1997,1084.699
+Cote d'Ivoire,1998,1137.47
+Cote d'Ivoire,1999,1088.352
+Cote d'Ivoire,2000,920.48
+Cote d'Ivoire,2001,935.453
+Cote d'Ivoire,2002,1009.647
+Cote d'Ivoire,2003,1216.947
+Cote d'Ivoire,2004,1282.225
+Cote d'Ivoire,2005,1287.98
+Cote d'Ivoire,2006,1308.59
+Cote d'Ivoire,2007,1458.248
+Cote d'Ivoire,2008,1697.062
+Cote d'Ivoire,2009,1657.61
+Cote d'Ivoire,2010,1650.97
+Cote d'Ivoire,2011,1660.464
+Cote d'Ivoire,2012,1686.744
+Cote d'Ivoire,2013,1919.177
+Cote d'Ivoire,2014,2115.206
+Cote d'Ivoire,2015,1932.237
+Cote d'Ivoire,2016,1989.85
+Cote d'Ivoire,2017,2103.872
+Cote d'Ivoire,2018,2285.248
+Cote d'Ivoire,2019,2279.707
+Cote d'Ivoire,2020,2339.728
+Cote d'Ivoire,2021,2597.695
+Cote d'Ivoire,2022,2473.051
+Cote d'Ivoire,2023,2728.079
+Cote d'Ivoire,2024,2908.749
+Cote d'Ivoire,2025,3082.331
+Cote d'Ivoire,2026,3253.451
+Cote d'Ivoire,2027,3403.597
+Cote d'Ivoire,2028,3572.545
 Denmark,1980,13886.37
 Denmark,1981,12076.174
 Denmark,1982,11801.273
@@ -2841,104 +2498,6 @@ Dominican Republic,2025,12587.301
 Dominican Republic,2026,13405.066
 Dominican Republic,2027,14248.56
 Dominican Republic,2028,15145.686
-East Asia,1980,1345.555
-East Asia,1981,1427.812
-East Asia,1982,1337.44
-East Asia,1983,1438.817
-East Asia,1984,1507.113
-East Asia,1985,1556.794
-East Asia,1986,2105.059
-East Asia,1987,2508.344
-East Asia,1988,3020.931
-East Asia,1989,3067.105
-East Asia,1990,3081.572
-East Asia,1991,3456.514
-East Asia,1992,3773.513
-East Asia,1993,4274.071
-East Asia,1994,4590.83
-East Asia,1995,5148.959
-East Asia,1996,4803.995
-East Asia,1997,4519.661
-East Asia,1998,4104.02
-East Asia,1999,4576.908
-East Asia,2000,4925.666
-East Asia,2001,4537.436
-East Asia,2002,4526.851
-East Asia,2003,4907.489
-East Asia,2004,5407.63
-East Asia,2005,5683.568
-East Asia,2006,5903.895
-East Asia,2007,6489.532
-East Asia,2008,7397.996
-East Asia,2009,7726.821
-East Asia,2010,8779.033
-East Asia,2011,10077.523
-East Asia,2012,10736.947
-East Asia,2013,10775.243
-East Asia,2014,11174.207
-East Asia,2015,11209.243
-East Asia,2016,11595.274
-East Asia,2017,12256.851
-East Asia,2018,13346.599
-East Asia,2019,13620.267
-East Asia,2020,13908.413
-East Asia,2021,15855.255
-East Asia,2022,15365.98
-East Asia,2023,15289.191
-East Asia,2024,15951.242
-East Asia,2025,16965.443
-East Asia,2026,17984.838
-East Asia,2027,18966.173
-East Asia,2028,20077.761
-Eastern Europe ,1980,2063.921
-Eastern Europe ,1981,2175.798
-Eastern Europe ,1982,2332.853
-Eastern Europe ,1983,2341.23
-Eastern Europe ,1984,2241.265
-Eastern Europe ,1985,2207.106
-Eastern Europe ,1986,2267.738
-Eastern Europe ,1987,2309.591
-Eastern Europe ,1988,2727.925
-Eastern Europe ,1989,0.0
-Eastern Europe ,1990,0.0
-Eastern Europe ,1991,0.0
-Eastern Europe ,1992,944.571
-Eastern Europe ,1993,1439.892
-Eastern Europe ,1994,1907.161
-Eastern Europe ,1995,2359.62
-Eastern Europe ,1996,2695.297
-Eastern Europe ,1997,2763.67
-Eastern Europe ,1998,2416.891
-Eastern Europe ,1999,2105.377
-Eastern Europe ,2000,2298.592
-Eastern Europe ,2001,2615.675
-Eastern Europe ,2002,2973.747
-Eastern Europe ,2003,3647.038
-Eastern Europe ,2004,4663.873
-Eastern Europe ,2005,5729.575
-Eastern Europe ,2006,6969.475
-Eastern Europe ,2007,9033.306
-Eastern Europe ,2008,11319.53
-Eastern Europe ,2009,8864.446
-Eastern Europe ,2010,10044.335
-Eastern Europe ,2011,11911.984
-Eastern Europe ,2012,12095.623
-Eastern Europe ,2013,12663.891
-Eastern Europe ,2014,11925.6
-Eastern Europe ,2015,8993.178
-Eastern Europe ,2016,8825.928
-Eastern Europe ,2017,10319.623
-Eastern Europe ,2018,11290.986
-Eastern Europe ,2019,11614.676
-Eastern Europe ,2020,10974.726
-Eastern Europe ,2021,13135.439
-Eastern Europe ,2022,14880.514
-Eastern Europe ,2023,14934.079
-Eastern Europe ,2024,15669.02
-Eastern Europe ,2025,16300.228
-Eastern Europe ,2026,17024.562
-Eastern Europe ,2027,17593.168
-Eastern Europe ,2028,18167.724
 Ecuador,1980,2097.141
 Ecuador,1981,2087.382
 Ecuador,1982,2026.375
@@ -3086,153 +2645,6 @@ El Salvador,2025,6060.758
 El Salvador,2026,6307.052
 El Salvador,2027,6568.34
 El Salvador,2028,6832.223
-Emerging and Developing Asia,1980,361.729
-Emerging and Developing Asia,1981,352.719
-Emerging and Developing Asia,1982,353.144
-Emerging and Developing Asia,1983,366.48
-Emerging and Developing Asia,1984,378.127
-Emerging and Developing Asia,1985,360.857
-Emerging and Developing Asia,1986,362.74
-Emerging and Developing Asia,1987,389.352
-Emerging and Developing Asia,1988,426.568
-Emerging and Developing Asia,1989,446.229
-Emerging and Developing Asia,1990,441.239
-Emerging and Developing Asia,1991,437.116
-Emerging and Developing Asia,1992,486.681
-Emerging and Developing Asia,1993,541.64
-Emerging and Developing Asia,1994,556.7
-Emerging and Developing Asia,1995,655.547
-Emerging and Developing Asia,1996,731.074
-Emerging and Developing Asia,1997,748.254
-Emerging and Developing Asia,1998,672.799
-Emerging and Developing Asia,1999,728.606
-Emerging and Developing Asia,2000,772.375
-Emerging and Developing Asia,2001,804.948
-Emerging and Developing Asia,2002,870.907
-Emerging and Developing Asia,2003,981.329
-Emerging and Developing Asia,2004,1125.277
-Emerging and Developing Asia,2005,1285.626
-Emerging and Developing Asia,2006,1508.12
-Emerging and Developing Asia,2007,1891.666
-Emerging and Developing Asia,2008,2253.046
-Emerging and Developing Asia,2009,2424.405
-Emerging and Developing Asia,2010,2893.486
-Emerging and Developing Asia,2011,3420.24
-Emerging and Developing Asia,2012,3730.868
-Emerging and Developing Asia,2013,4043.685
-Emerging and Developing Asia,2014,4325.911
-Emerging and Developing Asia,2015,4460.275
-Emerging and Developing Asia,2016,4542.842
-Emerging and Developing Asia,2017,4950.534
-Emerging and Developing Asia,2018,5414.995
-Emerging and Developing Asia,2019,5602.592
-Emerging and Developing Asia,2020,5633.576
-Emerging and Developing Asia,2021,6578.375
-Emerging and Developing Asia,2022,6712.339
-Emerging and Developing Asia,2023,6772.065
-Emerging and Developing Asia,2024,7136.806
-Emerging and Developing Asia,2025,7623.278
-Emerging and Developing Asia,2026,8134.44
-Emerging and Developing Asia,2027,8646.699
-Emerging and Developing Asia,2028,9195.908
-Emerging and Developing Europe,1980,2089.093
-Emerging and Developing Europe,1981,2152.929
-Emerging and Developing Europe,1982,2164.789
-Emerging and Developing Europe,1983,2122.689
-Emerging and Developing Europe,1984,2026.148
-Emerging and Developing Europe,1985,2066.026
-Emerging and Developing Europe,1986,2158.702
-Emerging and Developing Europe,1987,2290.672
-Emerging and Developing Europe,1988,2573.753
-Emerging and Developing Europe,1989,0.0
-Emerging and Developing Europe,1990,0.0
-Emerging and Developing Europe,1991,0.0
-Emerging and Developing Europe,1992,1371.633
-Emerging and Developing Europe,1993,1847.157
-Emerging and Developing Europe,1994,2020.149
-Emerging and Developing Europe,1995,2425.306
-Emerging and Developing Europe,1996,2734.116
-Emerging and Developing Europe,1997,2827.318
-Emerging and Developing Europe,1998,2512.048
-Emerging and Developing Europe,1999,2180.52
-Emerging and Developing Europe,2000,2410.683
-Emerging and Developing Europe,2001,2467.931
-Emerging and Developing Europe,2002,2807.419
-Emerging and Developing Europe,2003,3466.323
-Emerging and Developing Europe,2004,4485.037
-Emerging and Developing Europe,2005,5583.153
-Emerging and Developing Europe,2006,6670.665
-Emerging and Developing Europe,2007,8554.518
-Emerging and Developing Europe,2008,10518.797
-Emerging and Developing Europe,2009,8205.945
-Emerging and Developing Europe,2010,9567.682
-Emerging and Developing Europe,2011,11198.787
-Emerging and Developing Europe,2012,11538.691
-Emerging and Developing Europe,2013,12155.969
-Emerging and Developing Europe,2014,11416.048
-Emerging and Developing Europe,2015,8831.275
-Emerging and Developing Europe,2016,8633.085
-Emerging and Developing Europe,2017,9737.883
-Emerging and Developing Europe,2018,10149.625
-Emerging and Developing Europe,2019,10327.738
-Emerging and Developing Europe,2020,9680.913
-Emerging and Developing Europe,2021,11493.996
-Emerging and Developing Europe,2022,13114.538
-Emerging and Developing Europe,2023,13534.058
-Emerging and Developing Europe,2024,14458.286
-Emerging and Developing Europe,2025,14970.428
-Emerging and Developing Europe,2026,15536.88
-Emerging and Developing Europe,2027,16019.163
-Emerging and Developing Europe,2028,16497.771
-Emerging market and developing economies,1980,885.7
-Emerging market and developing economies,1981,909.671
-Emerging market and developing economies,1982,843.608
-Emerging market and developing economies,1983,812.812
-Emerging market and developing economies,1984,798.028
-Emerging market and developing economies,1985,792.001
-Emerging market and developing economies,1986,794.766
-Emerging market and developing economies,1987,858.57
-Emerging market and developing economies,1988,928.752
-Emerging market and developing economies,1989,994.67
-Emerging market and developing economies,1990,1069.222
-Emerging market and developing economies,1991,994.319
-Emerging market and developing economies,1992,955.32
-Emerging market and developing economies,1993,1068.869
-Emerging market and developing economies,1994,1132.996
-Emerging market and developing economies,1995,1278.8
-Emerging market and developing economies,1996,1404.593
-Emerging market and developing economies,1997,1466.987
-Emerging market and developing economies,1998,1380.91
-Emerging market and developing economies,1999,1318.618
-Emerging market and developing economies,2000,1424.051
-Emerging market and developing economies,2001,1411.125
-Emerging market and developing economies,2002,1378.761
-Emerging market and developing economies,2003,1528.02
-Emerging market and developing economies,2004,1790.44
-Emerging market and developing economies,2005,2111.493
-Emerging market and developing economies,2006,2463.893
-Emerging market and developing economies,2007,2995.563
-Emerging market and developing economies,2008,3544.956
-Emerging market and developing economies,2009,3341.4
-Emerging market and developing economies,2010,3963.806
-Emerging market and developing economies,2011,4619.364
-Emerging market and developing economies,2012,4818.41
-Emerging market and developing economies,2013,5043.458
-Emerging market and developing economies,2014,5136.287
-Emerging market and developing economies,2015,4765.292
-Emerging market and developing economies,2016,4708.569
-Emerging market and developing economies,2017,5088.411
-Emerging market and developing economies,2018,5363.933
-Emerging market and developing economies,2019,5414.923
-Emerging market and developing economies,2020,5151.745
-Emerging market and developing economies,2021,5971.517
-Emerging market and developing economies,2022,6357.249
-Emerging market and developing economies,2023,6454.751
-Emerging market and developing economies,2024,6771.79
-Emerging market and developing economies,2025,7130.2
-Emerging market and developing economies,2026,7505.24
-Emerging market and developing economies,2027,7883.202
-Emerging market and developing economies,2028,8280.393
 Equatorial Guinea,1980,123.403
 Equatorial Guinea,1981,109.806
 Equatorial Guinea,1982,121.292
@@ -3478,153 +2890,6 @@ Ethiopia,2025,2047.666
 Ethiopia,2026,2244.608
 Ethiopia,2027,2415.007
 Ethiopia,2028,2602.748
-Euro area,1980,0.0
-Euro area,1981,0.0
-Euro area,1982,0.0
-Euro area,1983,0.0
-Euro area,1984,0.0
-Euro area,1985,0.0
-Euro area,1986,0.0
-Euro area,1987,0.0
-Euro area,1988,0.0
-Euro area,1989,0.0
-Euro area,1990,0.0
-Euro area,1991,19403.709
-Euro area,1992,21320.845
-Euro area,1993,19289.703
-Euro area,1994,20305.942
-Euro area,1995,23907.717
-Euro area,1996,24220.822
-Euro area,1997,21702.671
-Euro area,1998,22061.824
-Euro area,1999,22046.82
-Euro area,2000,20041.027
-Euro area,2001,20285.207
-Euro area,2002,22037.927
-Euro area,2003,26997.512
-Euro area,2004,30789.296
-Euro area,2005,31756.198
-Euro area,2006,33586.553
-Euro area,2007,38527.676
-Euro area,2008,42140.674
-Euro area,2009,38320.873
-Euro area,2010,37429.211
-Euro area,2011,40426.457
-Euro area,2012,37412.152
-Euro area,2013,38951.153
-Euro area,2014,39684.618
-Euro area,2015,34212.154
-Euro area,2016,34950.556
-Euro area,2017,36938.566
-Euro area,2018,39865.205
-Euro area,2019,39000.77
-Euro area,2020,37915.127
-Euro area,2021,42404.398
-Euro area,2022,40819.144
-Euro area,2023,44566.391
-Euro area,2024,46925.525
-Euro area,2025,49066.739
-Euro area,2026,50981.078
-Euro area,2027,52480.132
-Euro area,2028,53943.373
-Europe,1980,9004.511
-Europe,1981,8073.345
-Europe,1982,7795.615
-Europe,1983,7575.602
-Europe,1984,7264.144
-Europe,1985,7501.073
-Europe,1986,10066.525
-Europe,1987,12336.215
-Europe,1988,13769.203
-Europe,1989,0.0
-Europe,1990,0.0
-Europe,1991,0.0
-Europe,1992,13244.566
-Europe,1993,12165.338
-Europe,1994,13071.52
-Europe,1995,14823.11
-Europe,1996,15166.835
-Europe,1997,14210.979
-Europe,1998,14455.498
-Europe,1999,14368.205
-Europe,2000,13504.16
-Europe,2001,13734.739
-Europe,2002,15013.907
-Europe,2003,18213.434
-Europe,2004,21135.344
-Europe,2005,22350.78
-Europe,2006,24116.116
-Europe,2007,28057.526
-Europe,2008,30788.126
-Europe,2009,26982.243
-Europe,2010,27386.208
-Europe,2011,30088.235
-Europe,2012,28752.429
-Europe,2013,29909.246
-Europe,2014,30332.677
-Europe,2015,25993.32
-Europe,2016,25943.764
-Europe,2017,27561.834
-Europe,2018,29701.873
-Europe,2019,29285.531
-Europe,2020,28330.916
-Europe,2021,32355.134
-Europe,2022,32504.17
-Europe,2023,34705.974
-Europe,2024,36589.117
-Europe,2025,38270.453
-Europe,2026,39932.652
-Europe,2027,41316.436
-Europe,2028,42719.774
-European Union,1980,8551.64
-European Union,1981,7525.547
-European Union,1982,7271.924
-European Union,1983,7090.118
-European Union,1984,6811.605
-European Union,1985,7000.014
-European Union,1986,9572.726
-European Union,1987,11705.068
-European Union,1988,12891.149
-European Union,1989,13071.482
-European Union,1990,15991.456
-European Union,1991,16961.557
-European Union,1992,18204.889
-European Union,1993,16315.755
-European Union,1994,17285.463
-European Union,1995,19552.684
-European Union,1996,19842.223
-European Union,1997,18201.041
-European Union,1998,18744.739
-European Union,1999,18628.008
-European Union,2000,17066.182
-European Union,2001,17303.545
-European Union,2002,18868.09
-European Union,2003,23119.124
-European Union,2004,26484.175
-European Union,2005,27544.487
-European Union,2006,29295.782
-European Union,2007,33836.256
-European Union,2008,37343.114
-European Union,2009,33722.254
-European Union,2010,33260.463
-European Union,2011,35927.873
-European Union,2012,33338.579
-European Union,2013,34762.658
-European Union,2014,35535.47
-European Union,2015,30697.965
-European Union,2016,31380.778
-European Union,2017,33313.276
-European Union,2018,36019.757
-European Union,2019,35289.773
-European Union,2020,34513.79
-European Union,2021,38842.426
-European Union,2022,37529.182
-European Union,2023,41114.208
-European Union,2024,43300.47
-European Union,2025,45374.572
-European Union,2026,47289.855
-European Union,2027,48846.217
-European Union,2028,50338.948
 Fiji,1980,2056.073
 Fiji,1981,2062.163
 Fiji,1982,1941.771
@@ -3821,55 +3086,55 @@ Gabon,2025,9116.054
 Gabon,2026,9338.729
 Gabon,2027,9488.858
 Gabon,2028,9737.749
-"Gambia, The",1980,1007.791
-"Gambia, The",1981,907.551
-"Gambia, The",1982,827.984
-"Gambia, The",1983,800.7
-"Gambia, The",1984,552.842
-"Gambia, The",1985,645.904
-"Gambia, The",1986,484.263
-"Gambia, The",1987,623.605
-"Gambia, The",1988,695.347
-"Gambia, The",1989,701.786
-"Gambia, The",1990,790.827
-"Gambia, The",1991,801.579
-"Gambia, The",1992,830.589
-"Gambia, The",1993,840.415
-"Gambia, The",1994,804.334
-"Gambia, The",1995,815.289
-"Gambia, The",1996,826.192
-"Gambia, The",1997,818.814
-"Gambia, The",1998,815.332
-"Gambia, The",1999,811.257
-"Gambia, The",2000,766.199
-"Gambia, The",2001,737.063
-"Gambia, The",2002,631.566
-"Gambia, The",2003,581.319
-"Gambia, The",2004,642.755
-"Gambia, The",2005,665.721
-"Gambia, The",2006,662.362
-"Gambia, The",2007,780.379
-"Gambia, The",2008,924.514
-"Gambia, The",2009,833.282
-"Gambia, The",2010,860.639
-"Gambia, The",2011,762.761
-"Gambia, The",2012,742.78
-"Gambia, The",2013,700.515
-"Gambia, The",2014,607.429
-"Gambia, The",2015,649.511
-"Gambia, The",2016,683.998
-"Gambia, The",2017,676.656
-"Gambia, The",2018,729.035
-"Gambia, The",2019,768.921
-"Gambia, The",2020,747.886
-"Gambia, The",2021,820.584
-"Gambia, The",2022,841.947
-"Gambia, The",2023,903.293
-"Gambia, The",2024,985.409
-"Gambia, The",2025,1034.863
-"Gambia, The",2026,1069.289
-"Gambia, The",2027,1102.232
-"Gambia, The",2028,1135.385
+Gambia,1980,1007.791
+Gambia,1981,907.551
+Gambia,1982,827.984
+Gambia,1983,800.7
+Gambia,1984,552.842
+Gambia,1985,645.904
+Gambia,1986,484.263
+Gambia,1987,623.605
+Gambia,1988,695.347
+Gambia,1989,701.786
+Gambia,1990,790.827
+Gambia,1991,801.579
+Gambia,1992,830.589
+Gambia,1993,840.415
+Gambia,1994,804.334
+Gambia,1995,815.289
+Gambia,1996,826.192
+Gambia,1997,818.814
+Gambia,1998,815.332
+Gambia,1999,811.257
+Gambia,2000,766.199
+Gambia,2001,737.063
+Gambia,2002,631.566
+Gambia,2003,581.319
+Gambia,2004,642.755
+Gambia,2005,665.721
+Gambia,2006,662.362
+Gambia,2007,780.379
+Gambia,2008,924.514
+Gambia,2009,833.282
+Gambia,2010,860.639
+Gambia,2011,762.761
+Gambia,2012,742.78
+Gambia,2013,700.515
+Gambia,2014,607.429
+Gambia,2015,649.511
+Gambia,2016,683.998
+Gambia,2017,676.656
+Gambia,2018,729.035
+Gambia,2019,768.921
+Gambia,2020,747.886
+Gambia,2021,820.584
+Gambia,2022,841.947
+Gambia,2023,903.293
+Gambia,2024,985.409
+Gambia,2025,1034.863
+Gambia,2026,1069.289
+Gambia,2027,1102.232
+Gambia,2028,1135.385
 Georgia,1980,0.0
 Georgia,1981,0.0
 Georgia,1982,0.0
@@ -4409,55 +3674,55 @@ Honduras,2025,3484.62
 Honduras,2026,3622.488
 Honduras,2027,3769.577
 Honduras,2028,3921.422
-Hong Kong SAR,1980,5703.963
-Hong Kong SAR,1981,5995.182
-Hong Kong SAR,1982,6139.013
-Hong Kong SAR,1983,5590.161
-Hong Kong SAR,1984,6170.503
-Hong Kong SAR,1985,6490.372
-Hong Kong SAR,1986,7380.118
-Hong Kong SAR,1987,9015.195
-Hong Kong SAR,1988,10527.458
-Hong Kong SAR,1989,12012.634
-Hong Kong SAR,1990,13374.312
-Hong Kong SAR,1991,15297.577
-Hong Kong SAR,1992,17710.506
-Hong Kong SAR,1993,20065.68
-Hong Kong SAR,1994,22194.005
-Hong Kong SAR,1995,23070.541
-Hong Kong SAR,1996,24698.956
-Hong Kong SAR,1997,27214.595
-Hong Kong SAR,1998,25649.085
-Hong Kong SAR,1999,24969.005
-Hong Kong SAR,2000,25574.491
-Hong Kong SAR,2001,25166.902
-Hong Kong SAR,2002,24731.081
-Hong Kong SAR,2003,23856.482
-Hong Kong SAR,2004,24873.898
-Hong Kong SAR,2005,26551.769
-Hong Kong SAR,2006,28028.157
-Hong Kong SAR,2007,30494.551
-Hong Kong SAR,2008,31487.94
-Hong Kong SAR,2009,30593.991
-Hong Kong SAR,2010,32421.361
-Hong Kong SAR,2011,34955.147
-Hong Kong SAR,2012,36623.745
-Hong Kong SAR,2013,38233.352
-Hong Kong SAR,2014,40185.303
-Hong Kong SAR,2015,42325.352
-Hong Kong SAR,2016,43488.204
-Hong Kong SAR,2017,46025.665
-Hong Kong SAR,2018,48310.038
-Hong Kong SAR,2019,48277.982
-Hong Kong SAR,2020,46446.056
-Hong Kong SAR,2021,49842.466
-Hong Kong SAR,2022,48154.404
-Hong Kong SAR,2023,51168.046
-Hong Kong SAR,2024,54078.372
-Hong Kong SAR,2025,56563.98
-Hong Kong SAR,2026,59101.729
-Hong Kong SAR,2027,61664.333
-Hong Kong SAR,2028,64231.675
+Hong Kong,1980,5703.963
+Hong Kong,1981,5995.182
+Hong Kong,1982,6139.013
+Hong Kong,1983,5590.161
+Hong Kong,1984,6170.503
+Hong Kong,1985,6490.372
+Hong Kong,1986,7380.118
+Hong Kong,1987,9015.195
+Hong Kong,1988,10527.458
+Hong Kong,1989,12012.634
+Hong Kong,1990,13374.312
+Hong Kong,1991,15297.577
+Hong Kong,1992,17710.506
+Hong Kong,1993,20065.68
+Hong Kong,1994,22194.005
+Hong Kong,1995,23070.541
+Hong Kong,1996,24698.956
+Hong Kong,1997,27214.595
+Hong Kong,1998,25649.085
+Hong Kong,1999,24969.005
+Hong Kong,2000,25574.491
+Hong Kong,2001,25166.902
+Hong Kong,2002,24731.081
+Hong Kong,2003,23856.482
+Hong Kong,2004,24873.898
+Hong Kong,2005,26551.769
+Hong Kong,2006,28028.157
+Hong Kong,2007,30494.551
+Hong Kong,2008,31487.94
+Hong Kong,2009,30593.991
+Hong Kong,2010,32421.361
+Hong Kong,2011,34955.147
+Hong Kong,2012,36623.745
+Hong Kong,2013,38233.352
+Hong Kong,2014,40185.303
+Hong Kong,2015,42325.352
+Hong Kong,2016,43488.204
+Hong Kong,2017,46025.665
+Hong Kong,2018,48310.038
+Hong Kong,2019,48277.982
+Hong Kong,2020,46446.056
+Hong Kong,2021,49842.466
+Hong Kong,2022,48154.404
+Hong Kong,2023,51168.046
+Hong Kong,2024,54078.372
+Hong Kong,2025,56563.98
+Hong Kong,2026,59101.729
+Hong Kong,2027,61664.333
+Hong Kong,2028,64231.675
 Hungary,1980,2151.468
 Hungary,1981,2207.127
 Hungary,1982,2249.984
@@ -5193,55 +4458,55 @@ Kiribati,2025,2115.151
 Kiribati,2026,2170.773
 Kiribati,2027,2227.398
 Kiribati,2028,2283.546
-"Korea, Republic of",1980,1714.62
-"Korea, Republic of",1981,1883.456
-"Korea, Republic of",1982,1992.29
-"Korea, Republic of",1983,2198.939
-"Korea, Republic of",1984,2413.291
-"Korea, Republic of",1985,2482.4
-"Korea, Republic of",1986,2834.888
-"Korea, Republic of",1987,3554.62
-"Korea, Republic of",1988,4748.676
-"Korea, Republic of",1989,5817.065
-"Korea, Republic of",1990,6609.985
-"Korea, Republic of",1991,7637.199
-"Korea, Republic of",1992,8126.451
-"Korea, Republic of",1993,8886.386
-"Korea, Republic of",1994,10381.18
-"Korea, Republic of",1995,12565.033
-"Korea, Republic of",1996,13402.925
-"Korea, Republic of",1997,12416.754
-"Korea, Republic of",1998,8271.412
-"Korea, Republic of",1999,10666.862
-"Korea, Republic of",2000,12263.471
-"Korea, Republic of",2001,11563.04
-"Korea, Republic of",2002,13159.675
-"Korea, Republic of",2003,14672.418
-"Korea, Republic of",2004,16482.75
-"Korea, Republic of",2005,19398.494
-"Korea, Republic of",2006,21730.952
-"Korea, Republic of",2007,24083.338
-"Korea, Republic of",2008,21387.709
-"Korea, Republic of",2009,19139.732
-"Korea, Republic of",2010,23077.161
-"Korea, Republic of",2011,25100.188
-"Korea, Republic of",2012,25459.168
-"Korea, Republic of",2013,27179.519
-"Korea, Republic of",2014,29252.933
-"Korea, Republic of",2015,28737.439
-"Korea, Republic of",2016,29274.232
-"Korea, Republic of",2017,31600.735
-"Korea, Republic of",2018,33447.155
-"Korea, Republic of",2019,31902.415
-"Korea, Republic of",2020,31728.306
-"Korea, Republic of",2021,35142.265
-"Korea, Republic of",2022,32418.338
-"Korea, Republic of",2023,33147.226
-"Korea, Republic of",2024,34653.137
-"Korea, Republic of",2025,36407.489
-"Korea, Republic of",2026,38077.231
-"Korea, Republic of",2027,39776.205
-"Korea, Republic of",2028,41505.377
+South Korea,1980,1714.62
+South Korea,1981,1883.456
+South Korea,1982,1992.29
+South Korea,1983,2198.939
+South Korea,1984,2413.291
+South Korea,1985,2482.4
+South Korea,1986,2834.888
+South Korea,1987,3554.62
+South Korea,1988,4748.676
+South Korea,1989,5817.065
+South Korea,1990,6609.985
+South Korea,1991,7637.199
+South Korea,1992,8126.451
+South Korea,1993,8886.386
+South Korea,1994,10381.18
+South Korea,1995,12565.033
+South Korea,1996,13402.925
+South Korea,1997,12416.754
+South Korea,1998,8271.412
+South Korea,1999,10666.862
+South Korea,2000,12263.471
+South Korea,2001,11563.04
+South Korea,2002,13159.675
+South Korea,2003,14672.418
+South Korea,2004,16482.75
+South Korea,2005,19398.494
+South Korea,2006,21730.952
+South Korea,2007,24083.338
+South Korea,2008,21387.709
+South Korea,2009,19139.732
+South Korea,2010,23077.161
+South Korea,2011,25100.188
+South Korea,2012,25459.168
+South Korea,2013,27179.519
+South Korea,2014,29252.933
+South Korea,2015,28737.439
+South Korea,2016,29274.232
+South Korea,2017,31600.735
+South Korea,2018,33447.155
+South Korea,2019,31902.415
+South Korea,2020,31728.306
+South Korea,2021,35142.265
+South Korea,2022,32418.338
+South Korea,2023,33147.226
+South Korea,2024,34653.137
+South Korea,2025,36407.489
+South Korea,2026,38077.231
+South Korea,2027,39776.205
+South Korea,2028,41505.377
 Kosovo,1980,0.0
 Kosovo,1981,0.0
 Kosovo,1982,0.0
@@ -5389,104 +4654,55 @@ Kyrgyz Republic,2025,2033.145
 Kyrgyz Republic,2026,2122.916
 Kyrgyz Republic,2027,2199.102
 Kyrgyz Republic,2028,2261.033
-Lao P.D.R.,1980,584.594
-Lao P.D.R.,1981,335.22
-Lao P.D.R.,1982,327.897
-Lao P.D.R.,1983,584.805
-Lao P.D.R.,1984,815.211
-Lao P.D.R.,1985,997.615
-Lao P.D.R.,1986,678.461
-Lao P.D.R.,1987,464.657
-Lao P.D.R.,1988,294.242
-Lao P.D.R.,1989,353.313
-Lao P.D.R.,1990,406.199
-Lao P.D.R.,1991,464.923
-Lao P.D.R.,1992,517.905
-Lao P.D.R.,1993,567.21
-Lao P.D.R.,1994,641.635
-Lao P.D.R.,1995,727.106
-Lao P.D.R.,1996,739.317
-Lao P.D.R.,1997,682.509
-Lao P.D.R.,1998,254.24
-Lao P.D.R.,1999,264.926
-Lao P.D.R.,2000,316.667
-Lao P.D.R.,2001,318.271
-Lao P.D.R.,2002,328.928
-Lao P.D.R.,2003,397.312
-Lao P.D.R.,2004,459.603
-Lao P.D.R.,2005,525.985
-Lao P.D.R.,2006,661.572
-Lao P.D.R.,2007,787.382
-Lao P.D.R.,2008,969.073
-Lao P.D.R.,2009,1032.328
-Lao P.D.R.,2010,1187.022
-Lao P.D.R.,2011,1397.003
-Lao P.D.R.,2012,1566.197
-Lao P.D.R.,2013,1813.802
-Lao P.D.R.,2014,1982.523
-Lao P.D.R.,2015,2124.256
-Lao P.D.R.,2016,2307.937
-Lao P.D.R.,2017,2437.127
-Lao P.D.R.,2018,2551.83
-Lao P.D.R.,2019,2602.623
-Lao P.D.R.,2020,2528.997
-Lao P.D.R.,2021,2495.962
-Lao P.D.R.,2022,2046.856
-Lao P.D.R.,2023,1878.708
-Lao P.D.R.,2024,1833.936
-Lao P.D.R.,2025,1908.868
-Lao P.D.R.,2026,2005.252
-Lao P.D.R.,2027,2107.103
-Lao P.D.R.,2028,2217.66
-Latin America and the Caribbean,1980,2543.768
-Latin America and the Caribbean,1981,2691.945
-Latin America and the Caribbean,1982,2153.383
-Latin America and the Caribbean,1983,1913.325
-Latin America and the Caribbean,1984,1952.746
-Latin America and the Caribbean,1985,2057.34
-Latin America and the Caribbean,1986,1991.042
-Latin America and the Caribbean,1987,2079.511
-Latin America and the Caribbean,1988,2305.511
-Latin America and the Caribbean,1989,2542.509
-Latin America and the Caribbean,1990,2806.165
-Latin America and the Caribbean,1991,2975.498
-Latin America and the Caribbean,1992,3205.204
-Latin America and the Caribbean,1993,3556.132
-Latin America and the Caribbean,1994,3945.391
-Latin America and the Caribbean,1995,4155.064
-Latin America and the Caribbean,1996,4419.167
-Latin America and the Caribbean,1997,4764.836
-Latin America and the Caribbean,1998,4738.599
-Latin America and the Caribbean,1999,4197.905
-Latin America and the Caribbean,2000,4528.593
-Latin America and the Caribbean,2001,4361.712
-Latin America and the Caribbean,2002,3818.743
-Latin America and the Caribbean,2003,3829.212
-Latin America and the Caribbean,2004,4329.285
-Latin America and the Caribbean,2005,5186.002
-Latin America and the Caribbean,2006,6007.415
-Latin America and the Caribbean,2007,7032.891
-Latin America and the Caribbean,2008,8080.499
-Latin America and the Caribbean,2009,7372.988
-Latin America and the Caribbean,2010,9065.326
-Latin America and the Caribbean,2011,10354.076
-Latin America and the Caribbean,2012,10410.162
-Latin America and the Caribbean,2013,10423.657
-Latin America and the Caribbean,2014,10220.07
-Latin America and the Caribbean,2015,8573.237
-Latin America and the Caribbean,2016,8179.021
-Latin America and the Caribbean,2017,9015.708
-Latin America and the Caribbean,2018,8730.299
-Latin America and the Caribbean,2019,8472.508
-Latin America and the Caribbean,2020,7048.44
-Latin America and the Caribbean,2021,8094.673
-Latin America and the Caribbean,2022,9173.718
-Latin America and the Caribbean,2023,10189.657
-Latin America and the Caribbean,2024,10770.643
-Latin America and the Caribbean,2025,11135.346
-Latin America and the Caribbean,2026,11567.876
-Latin America and the Caribbean,2027,12070.56
-Latin America and the Caribbean,2028,12560.789
+Lao PDR,1980,584.594
+Lao PDR,1981,335.22
+Lao PDR,1982,327.897
+Lao PDR,1983,584.805
+Lao PDR,1984,815.211
+Lao PDR,1985,997.615
+Lao PDR,1986,678.461
+Lao PDR,1987,464.657
+Lao PDR,1988,294.242
+Lao PDR,1989,353.313
+Lao PDR,1990,406.199
+Lao PDR,1991,464.923
+Lao PDR,1992,517.905
+Lao PDR,1993,567.21
+Lao PDR,1994,641.635
+Lao PDR,1995,727.106
+Lao PDR,1996,739.317
+Lao PDR,1997,682.509
+Lao PDR,1998,254.24
+Lao PDR,1999,264.926
+Lao PDR,2000,316.667
+Lao PDR,2001,318.271
+Lao PDR,2002,328.928
+Lao PDR,2003,397.312
+Lao PDR,2004,459.603
+Lao PDR,2005,525.985
+Lao PDR,2006,661.572
+Lao PDR,2007,787.382
+Lao PDR,2008,969.073
+Lao PDR,2009,1032.328
+Lao PDR,2010,1187.022
+Lao PDR,2011,1397.003
+Lao PDR,2012,1566.197
+Lao PDR,2013,1813.802
+Lao PDR,2014,1982.523
+Lao PDR,2015,2124.256
+Lao PDR,2016,2307.937
+Lao PDR,2017,2437.127
+Lao PDR,2018,2551.83
+Lao PDR,2019,2602.623
+Lao PDR,2020,2528.997
+Lao PDR,2021,2495.962
+Lao PDR,2022,2046.856
+Lao PDR,2023,1878.708
+Lao PDR,2024,1833.936
+Lao PDR,2025,1908.868
+Lao PDR,2026,2005.252
+Lao PDR,2027,2107.103
+Lao PDR,2028,2217.66
 Latvia,1980,0.0
 Latvia,1981,0.0
 Latvia,1982,0.0
@@ -5830,55 +5046,6 @@ Luxembourg,2025,144960.312
 Luxembourg,2026,148829.206
 Luxembourg,2027,151657.777
 Luxembourg,2028,154419.811
-Macao SAR,1980,0.0
-Macao SAR,1981,0.0
-Macao SAR,1982,0.0
-Macao SAR,1983,0.0
-Macao SAR,1984,0.0
-Macao SAR,1985,0.0
-Macao SAR,1986,0.0
-Macao SAR,1987,0.0
-Macao SAR,1988,0.0
-Macao SAR,1989,0.0
-Macao SAR,1990,0.0
-Macao SAR,1991,0.0
-Macao SAR,1992,0.0
-Macao SAR,1993,0.0
-Macao SAR,1994,0.0
-Macao SAR,1995,0.0
-Macao SAR,1996,0.0
-Macao SAR,1997,0.0
-Macao SAR,1998,0.0
-Macao SAR,1999,0.0
-Macao SAR,2000,0.0
-Macao SAR,2001,15723.751
-Macao SAR,2002,16733.977
-Macao SAR,2003,18461.835
-Macao SAR,2004,23005.586
-Macao SAR,2005,25109.973
-Macao SAR,2006,28970.428
-Macao SAR,2007,34268.703
-Macao SAR,2008,38286.226
-Macao SAR,2009,39822.349
-Macao SAR,2010,51135.159
-Macao SAR,2011,66111.715
-Macao SAR,2012,74209.139
-Macao SAR,2013,84833.692
-Macao SAR,2014,86298.091
-Macao SAR,2015,69647.776
-Macao SAR,2016,69887.828
-Macao SAR,2017,77233.097
-Macao SAR,2018,82835.778
-Macao SAR,2019,81231.549
-Macao SAR,2020,37270.798
-Macao SAR,2021,44091.804
-Macao SAR,2022,31539.494
-Macao SAR,2023,54295.661
-Macao SAR,2024,70130.301
-Macao SAR,2025,82126.172
-Macao SAR,2026,88195.833
-Macao SAR,2027,92431.58
-Macao SAR,2028,96880.739
 Madagascar,1980,599.371
 Madagascar,1981,534.073
 Madagascar,1982,522.936
@@ -5928,55 +5095,6 @@ Madagascar,2025,582.894
 Madagascar,2026,611.443
 Madagascar,2027,642.736
 Madagascar,2028,685.073
-Major advanced economies (G7),1980,11273.594
-Major advanced economies (G7),1981,11552.34
-Major advanced economies (G7),1982,11434.485
-Major advanced economies (G7),1983,12001.58
-Major advanced economies (G7),1984,12567.249
-Major advanced economies (G7),1985,13253.532
-Major advanced economies (G7),1986,15948.954
-Major advanced economies (G7),1987,18233.281
-Major advanced economies (G7),1988,20381.253
-Major advanced economies (G7),1989,21006.93
-Major advanced economies (G7),1990,23036.938
-Major advanced economies (G7),1991,24462.629
-Major advanced economies (G7),1992,26061.068
-Major advanced economies (G7),1993,26384.886
-Major advanced economies (G7),1994,28020.339
-Major advanced economies (G7),1995,30371.055
-Major advanced economies (G7),1996,30130.959
-Major advanced economies (G7),1997,29552.47
-Major advanced economies (G7),1998,29768.442
-Major advanced economies (G7),1999,31201.302
-Major advanced economies (G7),2000,31750.999
-Major advanced economies (G7),2001,31186.652
-Major advanced economies (G7),2002,31964.131
-Major advanced economies (G7),2003,35080.227
-Major advanced economies (G7),2004,38310.838
-Major advanced economies (G7),2005,39755.216
-Major advanced economies (G7),2006,41220.322
-Major advanced economies (G7),2007,44015.947
-Major advanced economies (G7),2008,45898.17
-Major advanced economies (G7),2009,43475.438
-Major advanced economies (G7),2010,44933.933
-Major advanced economies (G7),2011,47527.571
-Major advanced economies (G7),2012,47533.25
-Major advanced economies (G7),2013,47333.164
-Major advanced economies (G7),2014,48236.343
-Major advanced economies (G7),2015,46063.98
-Major advanced economies (G7),2016,47115.45
-Major advanced economies (G7),2017,48545.525
-Major advanced economies (G7),2018,51059.568
-Major advanced economies (G7),2019,51793.937
-Major advanced economies (G7),2020,50492.169
-Major advanced economies (G7),2021,55508.112
-Major advanced economies (G7),2022,56600.092
-Major advanced economies (G7),2023,59643.254
-Major advanced economies (G7),2024,62009.699
-Major advanced economies (G7),2025,64642.72
-Major advanced economies (G7),2026,67248.814
-Major advanced economies (G7),2027,69713.823
-Major advanced economies (G7),2028,72374.02
 Malawi,1980,460.392
 Malawi,1981,447.79
 Malawi,1982,416.18
@@ -6418,153 +5536,55 @@ Mexico,2025,15606.63
 Mexico,2026,16159.931
 Mexico,2027,16699.129
 Mexico,2028,17287.868
-"Micronesia, Fed. States of",1980,0.0
-"Micronesia, Fed. States of",1981,0.0
-"Micronesia, Fed. States of",1982,0.0
-"Micronesia, Fed. States of",1983,0.0
-"Micronesia, Fed. States of",1984,0.0
-"Micronesia, Fed. States of",1985,0.0
-"Micronesia, Fed. States of",1986,0.0
-"Micronesia, Fed. States of",1987,0.0
-"Micronesia, Fed. States of",1988,0.0
-"Micronesia, Fed. States of",1989,0.0
-"Micronesia, Fed. States of",1990,0.0
-"Micronesia, Fed. States of",1991,0.0
-"Micronesia, Fed. States of",1992,0.0
-"Micronesia, Fed. States of",1993,0.0
-"Micronesia, Fed. States of",1994,0.0
-"Micronesia, Fed. States of",1995,2094.48
-"Micronesia, Fed. States of",1996,2060.874
-"Micronesia, Fed. States of",1997,1944.21
-"Micronesia, Fed. States of",1998,2054.62
-"Micronesia, Fed. States of",1999,2061.643
-"Micronesia, Fed. States of",2000,2179.424
-"Micronesia, Fed. States of",2001,2257.322
-"Micronesia, Fed. States of",2002,2277.946
-"Micronesia, Fed. States of",2003,2312.427
-"Micronesia, Fed. States of",2004,2269.675
-"Micronesia, Fed. States of",2005,2371.093
-"Micronesia, Fed. States of",2006,2414.385
-"Micronesia, Fed. States of",2007,2457.987
-"Micronesia, Fed. States of",2008,2531.994
-"Micronesia, Fed. States of",2009,2711.063
-"Micronesia, Fed. States of",2010,2887.354
-"Micronesia, Fed. States of",2011,3021.694
-"Micronesia, Fed. States of",2012,3170.962
-"Micronesia, Fed. States of",2013,3068.371
-"Micronesia, Fed. States of",2014,3082.895
-"Micronesia, Fed. States of",2015,3050.723
-"Micronesia, Fed. States of",2016,3197.214
-"Micronesia, Fed. States of",2017,3522.106
-"Micronesia, Fed. States of",2018,3854.141
-"Micronesia, Fed. States of",2019,3979.627
-"Micronesia, Fed. States of",2020,3898.433
-"Micronesia, Fed. States of",2021,3873.938
-"Micronesia, Fed. States of",2022,4038.768
-"Micronesia, Fed. States of",2023,4357.639
-"Micronesia, Fed. States of",2024,4669.742
-"Micronesia, Fed. States of",2025,4888.36
-"Micronesia, Fed. States of",2026,5057.525
-"Micronesia, Fed. States of",2027,5208.911
-"Micronesia, Fed. States of",2028,5336.099
-Middle East (Region),1980,5320.827
-Middle East (Region),1981,5662.214
-Middle East (Region),1982,5345.187
-Middle East (Region),1983,5261.506
-Middle East (Region),1984,5012.865
-Middle East (Region),1985,4859.237
-Middle East (Region),1986,4799.205
-Middle East (Region),1987,5624.702
-Middle East (Region),1988,5802.807
-Middle East (Region),1989,6407.311
-Middle East (Region),1990,7895.831
-Middle East (Region),1991,5413.161
-Middle East (Region),1992,3306.375
-Middle East (Region),1993,3522.642
-Middle East (Region),1994,3755.61
-Middle East (Region),1995,4123.675
-Middle East (Region),1996,4650.337
-Middle East (Region),1997,4891.616
-Middle East (Region),1998,4749.397
-Middle East (Region),1999,5418.974
-Middle East (Region),2000,6557.204
-Middle East (Region),2001,6110.657
-Middle East (Region),2002,4739.471
-Middle East (Region),2003,4543.871
-Middle East (Region),2004,5297.785
-Middle East (Region),2005,6304.651
-Middle East (Region),2006,7236.977
-Middle East (Region),2007,8361.706
-Middle East (Region),2008,10185.919
-Middle East (Region),2009,8828.42
-Middle East (Region),2010,10230.597
-Middle East (Region),2011,13272.852
-Middle East (Region),2012,12807.086
-Middle East (Region),2013,12993.342
-Middle East (Region),2014,13031.889
-Middle East (Region),2015,11076.524
-Middle East (Region),2016,10939.838
-Middle East (Region),2017,11563.327
-Middle East (Region),2018,11935.923
-Middle East (Region),2019,11377.529
-Middle East (Region),2020,9666.817
-Middle East (Region),2021,11533.527
-Middle East (Region),2022,13751.792
-Middle East (Region),2023,13328.237
-Middle East (Region),2024,13716.997
-Middle East (Region),2025,14066.009
-Middle East (Region),2026,14393.197
-Middle East (Region),2027,14760.022
-Middle East (Region),2028,15116.418
-Middle East and Central Asia,1980,2072.125
-Middle East and Central Asia,1981,2142.044
-Middle East and Central Asia,1982,2065.611
-Middle East and Central Asia,1983,2039.817
-Middle East and Central Asia,1984,2003.369
-Middle East and Central Asia,1985,2003.355
-Middle East and Central Asia,1986,1985.727
-Middle East and Central Asia,1987,2288.888
-Middle East and Central Asia,1988,2348.431
-Middle East and Central Asia,1989,2613.542
-Middle East and Central Asia,1990,3125.792
-Middle East and Central Asia,1991,2205.049
-Middle East and Central Asia,1992,1338.5
-Middle East and Central Asia,1993,1437.537
-Middle East and Central Asia,1994,1489.935
-Middle East and Central Asia,1995,1655.855
-Middle East and Central Asia,1996,1844.274
-Middle East and Central Asia,1997,1915.344
-Middle East and Central Asia,1998,1882.768
-Middle East and Central Asia,1999,2067.577
-Middle East and Central Asia,2000,2378.475
-Middle East and Central Asia,2001,2254.294
-Middle East and Central Asia,2002,1812.54
-Middle East and Central Asia,2003,1963.787
-Middle East and Central Asia,2004,2309.21
-Middle East and Central Asia,2005,2760.317
-Middle East and Central Asia,2006,3224.376
-Middle East and Central Asia,2007,3777.211
-Middle East and Central Asia,2008,4540.877
-Middle East and Central Asia,2009,3989.352
-Middle East and Central Asia,2010,4581.373
-Middle East and Central Asia,2011,5523.216
-Middle East and Central Asia,2012,5468.369
-Middle East and Central Asia,2013,5535.759
-Middle East and Central Asia,2014,5541.547
-Middle East and Central Asia,2015,4845.771
-Middle East and Central Asia,2016,4689.056
-Middle East and Central Asia,2017,4718.331
-Middle East and Central Asia,2018,4826.936
-Middle East and Central Asia,2019,4641.97
-Middle East and Central Asia,2020,4070.079
-Middle East and Central Asia,2021,4688.849
-Middle East and Central Asia,2022,5699.162
-Middle East and Central Asia,2023,5536.376
-Middle East and Central Asia,2024,5665.879
-Middle East and Central Asia,2025,5879.257
-Middle East and Central Asia,2026,6082.398
-Middle East and Central Asia,2027,6307.168
-Middle East and Central Asia,2028,6544.966
+Micronesia,1980,0.0
+Micronesia,1981,0.0
+Micronesia,1982,0.0
+Micronesia,1983,0.0
+Micronesia,1984,0.0
+Micronesia,1985,0.0
+Micronesia,1986,0.0
+Micronesia,1987,0.0
+Micronesia,1988,0.0
+Micronesia,1989,0.0
+Micronesia,1990,0.0
+Micronesia,1991,0.0
+Micronesia,1992,0.0
+Micronesia,1993,0.0
+Micronesia,1994,0.0
+Micronesia,1995,2094.48
+Micronesia,1996,2060.874
+Micronesia,1997,1944.21
+Micronesia,1998,2054.62
+Micronesia,1999,2061.643
+Micronesia,2000,2179.424
+Micronesia,2001,2257.322
+Micronesia,2002,2277.946
+Micronesia,2003,2312.427
+Micronesia,2004,2269.675
+Micronesia,2005,2371.093
+Micronesia,2006,2414.385
+Micronesia,2007,2457.987
+Micronesia,2008,2531.994
+Micronesia,2009,2711.063
+Micronesia,2010,2887.354
+Micronesia,2011,3021.694
+Micronesia,2012,3170.962
+Micronesia,2013,3068.371
+Micronesia,2014,3082.895
+Micronesia,2015,3050.723
+Micronesia,2016,3197.214
+Micronesia,2017,3522.106
+Micronesia,2018,3854.141
+Micronesia,2019,3979.627
+Micronesia,2020,3898.433
+Micronesia,2021,3873.938
+Micronesia,2022,4038.768
+Micronesia,2023,4357.639
+Micronesia,2024,4669.742
+Micronesia,2025,4888.36
+Micronesia,2026,5057.525
+Micronesia,2027,5208.911
+Micronesia,2028,5336.099
 Moldova,1980,0.0
 Moldova,1981,0.0
 Moldova,1982,0.0
@@ -7251,153 +6271,6 @@ Nigeria,2025,1962.767
 Nigeria,2026,2191.995
 Nigeria,2027,2447.192
 Nigeria,2028,2719.367
-North Africa,1980,1582.812
-North Africa,1981,1471.645
-North Africa,1982,1483.163
-North Africa,1983,1508.806
-North Africa,1984,1518.302
-North Africa,1985,1634.256
-North Africa,1986,1647.734
-North Africa,1987,1855.22
-North Africa,1988,1908.965
-North Africa,1989,2097.807
-North Africa,1990,2091.266
-North Africa,1991,1558.155
-North Africa,1992,1552.823
-North Africa,1993,1515.714
-North Africa,1994,1483.915
-North Africa,1995,1603.614
-North Africa,1996,1746.337
-North Africa,1997,1759.598
-North Africa,1998,1779.721
-North Africa,1999,1850.665
-North Africa,2000,1914.575
-North Africa,2001,1843.826
-North Africa,2002,1673.831
-North Africa,2003,1832.94
-North Africa,2004,2036.999
-North Africa,2005,2324.981
-North Africa,2006,2633.241
-North Africa,2007,3019.416
-North Africa,2008,3656.28
-North Africa,2009,3381.186
-North Africa,2010,3752.593
-North Africa,2011,3926.835
-North Africa,2012,4406.525
-North Africa,2013,4336.307
-North Africa,2014,4304.225
-North Africa,2015,3990.464
-North Africa,2016,3896.145
-North Africa,2017,3384.306
-North Africa,2018,3546.556
-North Africa,2019,3732.87
-North Africa,2020,3714.482
-North Africa,2021,4016.338
-North Africa,2022,4330.108
-North Africa,2023,4145.967
-North Africa,2024,4036.716
-North Africa,2025,4313.393
-North Africa,2026,4579.367
-North Africa,2027,4861.798
-North Africa,2028,5169.617
-North America,1980,10499.946
-North America,1981,11739.817
-North America,1982,11769.545
-North America,1983,12449.095
-North America,1984,13636.896
-North America,1985,14422.67
-North America,1986,14781.614
-North America,1987,15592.565
-North America,1988,16807.485
-North America,1989,18020.686
-North America,1990,18877.575
-North America,1991,19347.5
-North America,1992,20152.195
-North America,1993,20996.141
-North America,1994,21902.751
-North America,1995,22157.646
-North America,1996,23177.292
-North America,1997,24441.694
-North America,1998,25389.439
-North America,1999,26772.051
-North America,2000,28395.261
-North America,2001,29008.062
-North America,2002,29606.968
-North America,2003,30750.107
-North America,2004,32634.481
-North America,2005,34750.692
-North America,2006,36712.853
-North America,2007,38309.417
-North America,2008,38881.971
-North America,2009,36984.959
-North America,2010,38749.909
-North America,2011,40238.293
-North America,2012,41412.283
-North America,2013,42499.325
-North America,2014,43610.712
-North America,2015,43784.932
-North America,2016,44169.08
-North America,2017,45839.363
-North America,2018,47945.24
-North America,2019,49479.265
-North America,2020,47845.806
-North America,2021,53184.981
-North America,2022,57707.777
-North America,2023,60859.128
-North America,2024,63064.168
-North America,2025,65198.866
-North America,2026,67467.543
-North America,2027,69773.361
-North America,2028,72185.226
-North Macedonia ,1980,0.0
-North Macedonia ,1981,0.0
-North Macedonia ,1982,0.0
-North Macedonia ,1983,0.0
-North Macedonia ,1984,0.0
-North Macedonia ,1985,0.0
-North Macedonia ,1986,0.0
-North Macedonia ,1987,0.0
-North Macedonia ,1988,0.0
-North Macedonia ,1989,0.0
-North Macedonia ,1990,0.0
-North Macedonia ,1991,0.0
-North Macedonia ,1992,1263.863
-North Macedonia ,1993,1383.543
-North Macedonia ,1994,1824.418
-North Macedonia ,1995,2387.158
-North Macedonia ,1996,2348.109
-North Macedonia ,1997,1980.429
-North Macedonia ,1998,1888.755
-North Macedonia ,1999,1931.989
-North Macedonia ,2000,1878.237
-North Macedonia ,2001,1839.616
-North Macedonia ,2002,1974.061
-North Macedonia ,2003,2440.813
-North Macedonia ,2004,2796.622
-North Macedonia ,2005,3071.897
-North Macedonia ,2006,3359.608
-North Macedonia ,2007,4076.296
-North Macedonia ,2008,4838.148
-North Macedonia ,2009,4579.092
-North Macedonia ,2010,4576.228
-North Macedonia ,2011,5097.26
-North Macedonia ,2012,4728.373
-North Macedonia ,2013,5239.649
-North Macedonia ,2014,5498.612
-North Macedonia ,2015,4860.422
-North Macedonia ,2016,5152.966
-North Macedonia ,2017,5462.379
-North Macedonia ,2018,6111.186
-North Macedonia ,2019,6073.003
-North Macedonia ,2020,5986.552
-North Macedonia ,2021,6698.161
-North Macedonia ,2022,6599.902
-North Macedonia ,2023,7672.009
-North Macedonia ,2024,8463.441
-North Macedonia ,2025,8957.388
-North Macedonia ,2026,9488.944
-North Macedonia ,2027,9990.435
-North Macedonia ,2028,10533.327
 Norway,1980,15746.262
 Norway,1981,15484.681
 Norway,1982,15196.29
@@ -7496,104 +6369,55 @@ Oman,2025,21195.766
 Oman,2026,21139.095
 Oman,2027,21093.664
 Oman,2028,21128.57
-Other advanced economies,1980,6887.678
-Other advanced economies,1981,6931.932
-Other advanced economies,1982,6794.256
-Other advanced economies,1983,6701.009
-Other advanced economies,1984,6949.715
-Other advanced economies,1985,6862.985
-Other advanced economies,1986,8293.344
-Other advanced economies,1987,10107.535
-Other advanced economies,1988,11788.995
-Other advanced economies,1989,12688.315
-Other advanced economies,1990,14453.815
-Other advanced economies,1991,15165.193
-Other advanced economies,1992,16003.723
-Other advanced economies,1993,15632.304
-Other advanced economies,1994,17365.655
-Other advanced economies,1995,18785.653
-Other advanced economies,1996,19827.598
-Other advanced economies,1997,19044.756
-Other advanced economies,1998,17050.936
-Other advanced economies,1999,18129.259
-Other advanced economies,2000,18556.352
-Other advanced economies,2001,17818.998
-Other advanced economies,2002,19256.586
-Other advanced economies,2003,22060.942
-Other advanced economies,2004,25057.251
-Other advanced economies,2005,27467.155
-Other advanced economies,2006,29512.503
-Other advanced economies,2007,33466.579
-Other advanced economies,2008,34992.213
-Other advanced economies,2009,31880.852
-Other advanced economies,2010,36443.759
-Other advanced economies,2011,41289.671
-Other advanced economies,2012,41257.008
-Other advanced economies,2013,42337.612
-Other advanced economies,2014,42777.398
-Other advanced economies,2015,39047.834
-Other advanced economies,2016,39515.701
-Other advanced economies,2017,42199.64
-Other advanced economies,2018,44095.107
-Other advanced economies,2019,42996.566
-Other advanced economies,2020,42622.705
-Other advanced economies,2021,49366.494
-Other advanced economies,2022,49072.625
-Other advanced economies,2023,50006.416
-Other advanced economies,2024,51713.834
-Other advanced economies,2025,54067.823
-Other advanced economies,2026,56395.411
-Other advanced economies,2027,58664.967
-Other advanced economies,2028,60994.861
-Pacific Islands ,1980,1419.646
-Pacific Islands ,1981,1376.432
-Pacific Islands ,1982,1284.997
-Pacific Islands ,1983,1234.133
-Pacific Islands ,1984,1163.534
-Pacific Islands ,1985,1062.668
-Pacific Islands ,1986,1135.809
-Pacific Islands ,1987,1200.087
-Pacific Islands ,1988,1486.96
-Pacific Islands ,1989,1420.551
-Pacific Islands ,1990,1322.036
-Pacific Islands ,1991,1471.028
-Pacific Islands ,1992,1580.119
-Pacific Islands ,1993,1723.93
-Pacific Islands ,1994,1868.525
-Pacific Islands ,1995,1713.1
-Pacific Islands ,1996,1788.646
-Pacific Islands ,1997,1693.255
-Pacific Islands ,1998,1309.657
-Pacific Islands ,1999,1255.27
-Pacific Islands ,2000,1194.274
-Pacific Islands ,2001,1067.367
-Pacific Islands ,2002,1047.767
-Pacific Islands ,2003,1265.773
-Pacific Islands ,2004,1432.037
-Pacific Islands ,2005,1607.885
-Pacific Islands ,2006,1738.639
-Pacific Islands ,2007,1923.673
-Pacific Islands ,2008,2200.042
-Pacific Islands ,2009,2056.798
-Pacific Islands ,2010,2341.532
-Pacific Islands ,2011,2775.081
-Pacific Islands ,2012,3049.779
-Pacific Islands ,2013,3023.196
-Pacific Islands ,2014,3199.423
-Pacific Islands ,2015,2969.215
-Pacific Islands ,2016,2853.952
-Pacific Islands ,2017,3056.382
-Pacific Islands ,2018,3168.1
-Pacific Islands ,2019,3158.682
-Pacific Islands ,2020,2918.882
-Pacific Islands ,2021,2453.042
-Pacific Islands ,2022,2827.567
-Pacific Islands ,2023,2844.221
-Pacific Islands ,2024,2919.48
-Pacific Islands ,2025,2923.501
-Pacific Islands ,2026,2924.802
-Pacific Islands ,2027,2975.054
-Pacific Islands ,2028,3030.178
+Pacific island small states,1980,1419.646
+Pacific island small states,1981,1376.432
+Pacific island small states,1982,1284.997
+Pacific island small states,1983,1234.133
+Pacific island small states,1984,1163.534
+Pacific island small states,1985,1062.668
+Pacific island small states,1986,1135.809
+Pacific island small states,1987,1200.087
+Pacific island small states,1988,1486.96
+Pacific island small states,1989,1420.551
+Pacific island small states,1990,1322.036
+Pacific island small states,1991,1471.028
+Pacific island small states,1992,1580.119
+Pacific island small states,1993,1723.93
+Pacific island small states,1994,1868.525
+Pacific island small states,1995,1713.1
+Pacific island small states,1996,1788.646
+Pacific island small states,1997,1693.255
+Pacific island small states,1998,1309.657
+Pacific island small states,1999,1255.27
+Pacific island small states,2000,1194.274
+Pacific island small states,2001,1067.367
+Pacific island small states,2002,1047.767
+Pacific island small states,2003,1265.773
+Pacific island small states,2004,1432.037
+Pacific island small states,2005,1607.885
+Pacific island small states,2006,1738.639
+Pacific island small states,2007,1923.673
+Pacific island small states,2008,2200.042
+Pacific island small states,2009,2056.798
+Pacific island small states,2010,2341.532
+Pacific island small states,2011,2775.081
+Pacific island small states,2012,3049.779
+Pacific island small states,2013,3023.196
+Pacific island small states,2014,3199.423
+Pacific island small states,2015,2969.215
+Pacific island small states,2016,2853.952
+Pacific island small states,2017,3056.382
+Pacific island small states,2018,3168.1
+Pacific island small states,2019,3158.682
+Pacific island small states,2020,2918.882
+Pacific island small states,2021,2453.042
+Pacific island small states,2022,2827.567
+Pacific island small states,2023,2844.221
+Pacific island small states,2024,2919.48
+Pacific island small states,2025,2923.501
+Pacific island small states,2026,2924.802
+Pacific island small states,2027,2975.054
+Pacific island small states,2028,3030.178
 Pakistan,1980,464.514
 Pakistan,1981,533.72
 Pakistan,1982,566.631
@@ -9064,202 +7888,55 @@ South Africa,2025,6590.219
 South Africa,2026,6717.186
 South Africa,2027,6814.567
 South Africa,2028,6916.592
-South America,1980,2429.527
-South America,1981,2385.134
-South America,1982,1976.594
-South America,1983,1813.964
-South America,1984,1740.744
-South America,1985,1883.545
-South America,1986,2084.722
-South America,1987,2169.565
-South America,1988,2371.799
-South America,1989,2550.116
-South America,1990,2793.12
-South America,1991,2834.811
-South America,1992,2979.248
-South America,1993,3162.495
-South America,1994,3701.731
-South America,1995,4555.249
-South America,1996,4780.365
-South America,1997,5005.718
-South America,1998,4867.528
-South America,1999,3877.765
-South America,2000,4046.42
-South America,2001,3667.64
-South America,2002,2848.775
-South America,2003,3030.866
-South America,2004,3615.374
-South America,2005,4561.202
-South America,2006,5481.491
-South America,2007,6740.201
-South America,2008,8098.527
-South America,2009,7712.579
-South America,2010,9768.779
-South America,2011,11328.926
-South America,2012,11350.52
-South America,2013,11201.459
-South America,2014,10814.939
-South America,2015,8752.209
-South America,2016,8434.345
-South America,2017,9480.417
-South America,2018,8899.232
-South America,2019,8411.229
-South America,2020,6860.402
-South America,2021,7857.984
-South America,2022,8995.745
-South America,2023,9630.557
-South America,2024,10031.097
-South America,2025,10339.251
-South America,2026,10740.273
-South America,2027,11257.206
-South America,2028,11737.24
-South Asia,1980,292.219
-South Asia,1981,303.347
-South Asia,1982,307.1
-South Asia,1983,315.893
-South Asia,1984,310.371
-South Asia,1985,327.389
-South Asia,1986,337.556
-South Asia,1987,364.938
-South Asia,1988,382.648
-South Asia,1989,381.091
-South Asia,1990,399.494
-South Asia,1991,356.044
-South Asia,1992,369.187
-South Asia,1993,359.095
-South Asia,1994,396.269
-South Asia,1995,432.144
-South Asia,1996,457.299
-South Asia,1997,468.974
-South Asia,1998,465.989
-South Asia,1999,483.009
-South Asia,2000,485.804
-South Asia,2001,487.91
-South Asia,2002,503.276
-South Asia,2003,575.243
-South Asia,2004,655.512
-South Asia,2005,735.683
-South Asia,2006,817.263
-South Asia,2007,1017.934
-South Asia,2008,1020.979
-South Asia,2009,1095.198
-South Asia,2010,1315.907
-South Asia,2011,1406.012
-South Asia,2012,1406.752
-South Asia,2013,1426.71
-South Asia,2014,1542.791
-South Asia,2015,1595.661
-South Asia,2016,1713.062
-South Asia,2017,1929.56
-South Asia,2018,1962.653
-South Asia,2019,2008.533
-South Asia,2020,1894.376
-South Asia,2021,2188.48
-South Asia,2022,2330.193
-South Asia,2023,2468.274
-South Asia,2024,2646.873
-South Asia,2025,2877.183
-South Asia,2026,3126.597
-South Asia,2027,3397.062
-South Asia,2028,3689.891
-"South Sudan, Republic of",1980,0.0
-"South Sudan, Republic of",1981,0.0
-"South Sudan, Republic of",1982,0.0
-"South Sudan, Republic of",1983,0.0
-"South Sudan, Republic of",1984,0.0
-"South Sudan, Republic of",1985,0.0
-"South Sudan, Republic of",1986,0.0
-"South Sudan, Republic of",1987,0.0
-"South Sudan, Republic of",1988,0.0
-"South Sudan, Republic of",1989,0.0
-"South Sudan, Republic of",1990,0.0
-"South Sudan, Republic of",1991,0.0
-"South Sudan, Republic of",1992,0.0
-"South Sudan, Republic of",1993,0.0
-"South Sudan, Republic of",1994,0.0
-"South Sudan, Republic of",1995,0.0
-"South Sudan, Republic of",1996,0.0
-"South Sudan, Republic of",1997,0.0
-"South Sudan, Republic of",1998,0.0
-"South Sudan, Republic of",1999,0.0
-"South Sudan, Republic of",2000,0.0
-"South Sudan, Republic of",2001,0.0
-"South Sudan, Republic of",2002,0.0
-"South Sudan, Republic of",2003,0.0
-"South Sudan, Republic of",2004,0.0
-"South Sudan, Republic of",2005,0.0
-"South Sudan, Republic of",2006,0.0
-"South Sudan, Republic of",2007,0.0
-"South Sudan, Republic of",2008,0.0
-"South Sudan, Republic of",2009,0.0
-"South Sudan, Republic of",2010,0.0
-"South Sudan, Republic of",2011,1659.546
-"South Sudan, Republic of",2012,1041.463
-"South Sudan, Republic of",2013,1337.232
-"South Sudan, Republic of",2014,1316.366
-"South Sudan, Republic of",2015,1289.852
-"South Sudan, Republic of",2016,237.034
-"South Sudan, Republic of",2017,143.345
-"South Sudan, Republic of",2018,240.328
-"South Sudan, Republic of",2019,302.262
-"South Sudan, Republic of",2020,388.423
-"South Sudan, Republic of",2021,418.594
-"South Sudan, Republic of",2022,585.003
-"South Sudan, Republic of",2023,417.438
-"South Sudan, Republic of",2024,479.037
-"South Sudan, Republic of",2025,475.59
-"South Sudan, Republic of",2026,483.188
-"South Sudan, Republic of",2027,493.47
-"South Sudan, Republic of",2028,522.262
-Southeast Asia,1980,776.974
-Southeast Asia,1981,767.274
-Southeast Asia,1982,799.039
-Southeast Asia,1983,803.125
-Southeast Asia,1984,893.281
-Southeast Asia,1985,747.622
-Southeast Asia,1986,759.108
-Southeast Asia,1987,803.863
-Southeast Asia,1988,820.818
-Southeast Asia,1989,854.571
-Southeast Asia,1990,949.644
-Southeast Asia,1991,1047.244
-Southeast Asia,1992,1168.939
-Southeast Asia,1993,1288.455
-Southeast Asia,1994,1448.178
-Southeast Asia,1995,1656.909
-Southeast Asia,1996,1806.815
-Southeast Asia,1997,1686.398
-Southeast Asia,1998,1026.913
-Southeast Asia,1999,1187.915
-Southeast Asia,2000,1249.721
-Southeast Asia,2001,1189.509
-Southeast Asia,2002,1309.148
-Southeast Asia,2003,1454.198
-Southeast Asia,2004,1622.866
-Southeast Asia,2005,1786.022
-Southeast Asia,2006,2111.57
-Southeast Asia,2007,2488.493
-Southeast Asia,2008,2860.372
-Southeast Asia,2009,2791.612
-Southeast Asia,2010,3411.386
-Southeast Asia,2011,3915.591
-Southeast Asia,2012,4106.764
-Southeast Asia,2013,4198.345
-Southeast Asia,2014,4185.706
-Southeast Asia,2015,4018.403
-Southeast Asia,2016,4164.492
-Southeast Asia,2017,4444.94
-Southeast Asia,2018,4718.133
-Southeast Asia,2019,4946.212
-Southeast Asia,2020,4674.702
-Southeast Asia,2021,5067.709
-Southeast Asia,2022,5391.621
-Southeast Asia,2023,5687.844
-Southeast Asia,2024,6074.783
-Southeast Asia,2025,6498.719
-Southeast Asia,2026,6928.756
-Southeast Asia,2027,7374.33
-Southeast Asia,2028,7840.773
+South Sudan,1980,0.0
+South Sudan,1981,0.0
+South Sudan,1982,0.0
+South Sudan,1983,0.0
+South Sudan,1984,0.0
+South Sudan,1985,0.0
+South Sudan,1986,0.0
+South Sudan,1987,0.0
+South Sudan,1988,0.0
+South Sudan,1989,0.0
+South Sudan,1990,0.0
+South Sudan,1991,0.0
+South Sudan,1992,0.0
+South Sudan,1993,0.0
+South Sudan,1994,0.0
+South Sudan,1995,0.0
+South Sudan,1996,0.0
+South Sudan,1997,0.0
+South Sudan,1998,0.0
+South Sudan,1999,0.0
+South Sudan,2000,0.0
+South Sudan,2001,0.0
+South Sudan,2002,0.0
+South Sudan,2003,0.0
+South Sudan,2004,0.0
+South Sudan,2005,0.0
+South Sudan,2006,0.0
+South Sudan,2007,0.0
+South Sudan,2008,0.0
+South Sudan,2009,0.0
+South Sudan,2010,0.0
+South Sudan,2011,1659.546
+South Sudan,2012,1041.463
+South Sudan,2013,1337.232
+South Sudan,2014,1316.366
+South Sudan,2015,1289.852
+South Sudan,2016,237.034
+South Sudan,2017,143.345
+South Sudan,2018,240.328
+South Sudan,2019,302.262
+South Sudan,2020,388.423
+South Sudan,2021,418.594
+South Sudan,2022,585.003
+South Sudan,2023,417.438
+South Sudan,2024,479.037
+South Sudan,2025,475.59
+South Sudan,2026,483.188
+South Sudan,2027,493.47
+South Sudan,2028,522.262
 Spain,1980,6128.024
 Spain,1981,5381.909
 Spain,1982,5171.535
@@ -9358,55 +8035,6 @@ Sri Lanka,2025,0.0
 Sri Lanka,2026,0.0
 Sri Lanka,2027,0.0
 Sri Lanka,2028,0.0
-Sub-Saharan Africa,1980,0.0
-Sub-Saharan Africa,1981,0.0
-Sub-Saharan Africa,1982,0.0
-Sub-Saharan Africa,1983,0.0
-Sub-Saharan Africa,1984,0.0
-Sub-Saharan Africa,1985,0.0
-Sub-Saharan Africa,1986,0.0
-Sub-Saharan Africa,1987,0.0
-Sub-Saharan Africa,1988,0.0
-Sub-Saharan Africa,1989,0.0
-Sub-Saharan Africa,1990,893.641
-Sub-Saharan Africa,1991,880.671
-Sub-Saharan Africa,1992,846.236
-Sub-Saharan Africa,1993,819.786
-Sub-Saharan Africa,1994,774.692
-Sub-Saharan Africa,1995,927.166
-Sub-Saharan Africa,1996,1009.86
-Sub-Saharan Africa,1997,1022.726
-Sub-Saharan Africa,1998,1000.214
-Sub-Saharan Africa,1999,711.011
-Sub-Saharan Africa,2000,696.181
-Sub-Saharan Africa,2001,647.923
-Sub-Saharan Africa,2002,680.867
-Sub-Saharan Africa,2003,835.279
-Sub-Saharan Africa,2004,999.703
-Sub-Saharan Africa,2005,1146.304
-Sub-Saharan Africa,2006,1280.496
-Sub-Saharan Africa,2007,1436.976
-Sub-Saharan Africa,2008,1601.1
-Sub-Saharan Africa,2009,1494.823
-Sub-Saharan Africa,2010,1723.122
-Sub-Saharan Africa,2011,1900.371
-Sub-Saharan Africa,2012,1943.625
-Sub-Saharan Africa,2013,1988.407
-Sub-Saharan Africa,2014,2021.675
-Sub-Saharan Africa,2015,1761.831
-Sub-Saharan Africa,2016,1594.159
-Sub-Saharan Africa,2017,1658.898
-Sub-Saharan Africa,2018,1752.977
-Sub-Saharan Africa,2019,1722.048
-Sub-Saharan Africa,2020,1586.646
-Sub-Saharan Africa,2021,1745.13
-Sub-Saharan Africa,2022,1815.339
-Sub-Saharan Africa,2023,1721.362
-Sub-Saharan Africa,2024,1788.174
-Sub-Saharan Africa,2025,1900.327
-Sub-Saharan Africa,2026,2005.471
-Sub-Saharan Africa,2027,2111.363
-Sub-Saharan Africa,2028,2230.357
 Sub-Saharan Africa (Region) ,1980,0.0
 Sub-Saharan Africa (Region) ,1981,0.0
 Sub-Saharan Africa (Region) ,1982,0.0
@@ -9652,55 +8280,55 @@ Switzerland,2025,114725.257
 Switzerland,2026,120285.438
 Switzerland,2027,124458.138
 Switzerland,2028,130316.085
-Syria,1980,1421.836
-Syria,1981,1763.344
-Syria,1982,1784.577
-Syria,1983,1849.427
-Syria,1984,1839.915
-Syria,1985,1965.139
-Syria,1986,2284.039
-Syria,1987,2823.157
-Syria,1988,1389.823
-Syria,1989,800.859
-Syria,1990,967.145
-Syria,1991,972.175
-Syria,1992,983.575
-Syria,1993,995.061
-Syria,1994,1060.707
-Syria,1995,1133.162
-Syria,1996,1186.162
-Syria,1997,1080.812
-Syria,1998,1028.169
-Syria,1999,1043.174
-Syria,2000,1202.891
-Syria,2001,1236.897
-Syria,2002,1305.087
-Syria,2003,1208.885
-Syria,2004,1361.499
-Syria,2005,1510.392
-Syria,2006,1726.028
-Syria,2007,2016.052
-Syria,2008,2557.211
-Syria,2009,2557.267
-Syria,2010,2806.685
-Syria,2011,0.0
-Syria,2012,0.0
-Syria,2013,0.0
-Syria,2014,0.0
-Syria,2015,0.0
-Syria,2016,0.0
-Syria,2017,0.0
-Syria,2018,0.0
-Syria,2019,0.0
-Syria,2020,0.0
-Syria,2021,0.0
-Syria,2022,0.0
-Syria,2023,0.0
-Syria,2024,0.0
-Syria,2025,0.0
-Syria,2026,0.0
-Syria,2027,0.0
-Syria,2028,0.0
+Syrian Arab Republic,1980,1421.836
+Syrian Arab Republic,1981,1763.344
+Syrian Arab Republic,1982,1784.577
+Syrian Arab Republic,1983,1849.427
+Syrian Arab Republic,1984,1839.915
+Syrian Arab Republic,1985,1965.139
+Syrian Arab Republic,1986,2284.039
+Syrian Arab Republic,1987,2823.157
+Syrian Arab Republic,1988,1389.823
+Syrian Arab Republic,1989,800.859
+Syrian Arab Republic,1990,967.145
+Syrian Arab Republic,1991,972.175
+Syrian Arab Republic,1992,983.575
+Syrian Arab Republic,1993,995.061
+Syrian Arab Republic,1994,1060.707
+Syrian Arab Republic,1995,1133.162
+Syrian Arab Republic,1996,1186.162
+Syrian Arab Republic,1997,1080.812
+Syrian Arab Republic,1998,1028.169
+Syrian Arab Republic,1999,1043.174
+Syrian Arab Republic,2000,1202.891
+Syrian Arab Republic,2001,1236.897
+Syrian Arab Republic,2002,1305.087
+Syrian Arab Republic,2003,1208.885
+Syrian Arab Republic,2004,1361.499
+Syrian Arab Republic,2005,1510.392
+Syrian Arab Republic,2006,1726.028
+Syrian Arab Republic,2007,2016.052
+Syrian Arab Republic,2008,2557.211
+Syrian Arab Republic,2009,2557.267
+Syrian Arab Republic,2010,2806.685
+Syrian Arab Republic,2011,0.0
+Syrian Arab Republic,2012,0.0
+Syrian Arab Republic,2013,0.0
+Syrian Arab Republic,2014,0.0
+Syrian Arab Republic,2015,0.0
+Syrian Arab Republic,2016,0.0
+Syrian Arab Republic,2017,0.0
+Syrian Arab Republic,2018,0.0
+Syrian Arab Republic,2019,0.0
+Syrian Arab Republic,2020,0.0
+Syrian Arab Republic,2021,0.0
+Syrian Arab Republic,2022,0.0
+Syrian Arab Republic,2023,0.0
+Syrian Arab Republic,2024,0.0
+Syrian Arab Republic,2025,0.0
+Syrian Arab Republic,2026,0.0
+Syrian Arab Republic,2027,0.0
+Syrian Arab Republic,2028,0.0
 São Tomé and Príncipe,1980,775.709
 São Tomé and Príncipe,1981,931.011
 São Tomé and Príncipe,1982,876.128
@@ -9750,55 +8378,55 @@ São Tomé and Príncipe,2025,3439.792
 São Tomé and Príncipe,2026,3526.02
 São Tomé and Príncipe,2027,3755.301
 São Tomé and Príncipe,2028,4001.389
-Taiwan Province of China,1980,2366.797
-Taiwan Province of China,1981,2691.494
-Taiwan Province of China,1982,2675.311
-Taiwan Province of China,1983,2881.66
-Taiwan Province of China,1984,3202.615
-Taiwan Province of China,1985,3293.869
-Taiwan Province of China,1986,4008.134
-Taiwan Province of China,1987,5325.173
-Taiwan Province of China,1988,6338.1
-Taiwan Province of China,1989,7575.906
-Taiwan Province of China,1990,8167.2
-Taiwan Province of China,1991,9081.901
-Taiwan Province of China,1992,10715.536
-Taiwan Province of China,1993,11256.711
-Taiwan Province of China,1994,12099.746
-Taiwan Province of China,1995,13066.128
-Taiwan Province of China,1996,13588.306
-Taiwan Province of China,1997,13948.722
-Taiwan Province of China,1998,12767.078
-Taiwan Province of China,1999,13752.716
-Taiwan Province of China,2000,14844.238
-Taiwan Province of China,2001,13357.195
-Taiwan Province of China,2002,13651.355
-Taiwan Province of China,2003,14040.597
-Taiwan Province of China,2004,15290.307
-Taiwan Province of China,2005,16427.459
-Taiwan Province of China,2006,16892.883
-Taiwan Province of China,2007,17723.704
-Taiwan Province of China,2008,18053.591
-Taiwan Province of China,2009,16904.543
-Taiwan Province of China,2010,19181.358
-Taiwan Province of China,2011,20838.589
-Taiwan Province of China,2012,21256.361
-Taiwan Province of China,2013,21945.46
-Taiwan Province of China,2014,22844.316
-Taiwan Province of China,2015,22752.991
-Taiwan Province of China,2016,23070.733
-Taiwan Province of China,2017,25061.624
-Taiwan Province of China,2018,25825.566
-Taiwan Province of China,2019,25903.168
-Taiwan Province of China,2020,28571.44
-Taiwan Province of China,2021,33186.341
-Taiwan Province of China,2022,32687.371
-Taiwan Province of China,2023,32339.701
-Taiwan Province of China,2024,34046.202
-Taiwan Province of China,2025,36098.604
-Taiwan Province of China,2026,38111.965
-Taiwan Province of China,2027,39928.977
-Taiwan Province of China,2028,41276.254
+Taiwan,1980,2366.797
+Taiwan,1981,2691.494
+Taiwan,1982,2675.311
+Taiwan,1983,2881.66
+Taiwan,1984,3202.615
+Taiwan,1985,3293.869
+Taiwan,1986,4008.134
+Taiwan,1987,5325.173
+Taiwan,1988,6338.1
+Taiwan,1989,7575.906
+Taiwan,1990,8167.2
+Taiwan,1991,9081.901
+Taiwan,1992,10715.536
+Taiwan,1993,11256.711
+Taiwan,1994,12099.746
+Taiwan,1995,13066.128
+Taiwan,1996,13588.306
+Taiwan,1997,13948.722
+Taiwan,1998,12767.078
+Taiwan,1999,13752.716
+Taiwan,2000,14844.238
+Taiwan,2001,13357.195
+Taiwan,2002,13651.355
+Taiwan,2003,14040.597
+Taiwan,2004,15290.307
+Taiwan,2005,16427.459
+Taiwan,2006,16892.883
+Taiwan,2007,17723.704
+Taiwan,2008,18053.591
+Taiwan,2009,16904.543
+Taiwan,2010,19181.358
+Taiwan,2011,20838.589
+Taiwan,2012,21256.361
+Taiwan,2013,21945.46
+Taiwan,2014,22844.316
+Taiwan,2015,22752.991
+Taiwan,2016,23070.733
+Taiwan,2017,25061.624
+Taiwan,2018,25825.566
+Taiwan,2019,25903.168
+Taiwan,2020,28571.44
+Taiwan,2021,33186.341
+Taiwan,2022,32687.371
+Taiwan,2023,32339.701
+Taiwan,2024,34046.202
+Taiwan,2025,36098.604
+Taiwan,2026,38111.965
+Taiwan,2027,39928.977
+Taiwan,2028,41276.254
 Tajikistan,1980,0.0
 Tajikistan,1981,0.0
 Tajikistan,1982,0.0
@@ -10289,55 +8917,55 @@ Tuvalu,2025,6467.695
 Tuvalu,2026,6792.574
 Tuvalu,2027,7127.943
 Tuvalu,2028,7458.902
-"Türkiye, Republic of",1980,2133.685
-"Türkiye, Republic of",1981,2113.068
-"Türkiye, Republic of",1982,1876.637
-"Türkiye, Republic of",1983,1753.332
-"Türkiye, Republic of",1984,1668.464
-"Türkiye, Republic of",1985,1835.181
-"Türkiye, Republic of",1986,1983.05
-"Türkiye, Republic of",1987,2260.66
-"Türkiye, Republic of",1988,2333.225
-"Türkiye, Republic of",1989,2707.896
-"Türkiye, Republic of",1990,3738.161
-"Türkiye, Republic of",1991,3691.37
-"Türkiye, Republic of",1992,3818.769
-"Türkiye, Republic of",1993,4261.644
-"Türkiye, Republic of",1994,3026.717
-"Türkiye, Republic of",1995,3880.859
-"Türkiye, Republic of",1996,4099.228
-"Türkiye, Republic of",1997,4221.923
-"Türkiye, Republic of",1998,4384.471
-"Türkiye, Republic of",1999,4020.272
-"Türkiye, Republic of",2000,4237.961
-"Türkiye, Republic of",2001,3082.899
-"Türkiye, Republic of",2002,3617.23
-"Türkiye, Republic of",2003,4684.698
-"Türkiye, Republic of",2004,6015.665
-"Türkiye, Republic of",2005,7350.887
-"Türkiye, Republic of",2006,7961.078
-"Türkiye, Republic of",2007,9640.571
-"Türkiye, Republic of",2008,10778.131
-"Türkiye, Republic of",2009,8941.404
-"Türkiye, Republic of",2010,10533.45
-"Türkiye, Republic of",2011,11221.402
-"Türkiye, Republic of",2012,11637.915
-"Türkiye, Republic of",2013,12488.968
-"Türkiye, Republic of",2014,12079.287
-"Türkiye, Republic of",2015,10973.586
-"Türkiye, Republic of",2016,10891.19
-"Türkiye, Republic of",2017,10628.898
-"Türkiye, Republic of",2018,9514.047
-"Türkiye, Republic of",2019,9145.817
-"Türkiye, Republic of",2020,8612.903
-"Türkiye, Republic of",2021,9663.877
-"Türkiye, Republic of",2022,10621.965
-"Türkiye, Republic of",2023,13383.924
-"Türkiye, Republic of",2024,15368.271
-"Türkiye, Republic of",2025,15898.606
-"Türkiye, Republic of",2026,16317.087
-"Türkiye, Republic of",2027,16832.407
-"Türkiye, Republic of",2028,17332.694
+Turkiye,1980,2133.685
+Turkiye,1981,2113.068
+Turkiye,1982,1876.637
+Turkiye,1983,1753.332
+Turkiye,1984,1668.464
+Turkiye,1985,1835.181
+Turkiye,1986,1983.05
+Turkiye,1987,2260.66
+Turkiye,1988,2333.225
+Turkiye,1989,2707.896
+Turkiye,1990,3738.161
+Turkiye,1991,3691.37
+Turkiye,1992,3818.769
+Turkiye,1993,4261.644
+Turkiye,1994,3026.717
+Turkiye,1995,3880.859
+Turkiye,1996,4099.228
+Turkiye,1997,4221.923
+Turkiye,1998,4384.471
+Turkiye,1999,4020.272
+Turkiye,2000,4237.961
+Turkiye,2001,3082.899
+Turkiye,2002,3617.23
+Turkiye,2003,4684.698
+Turkiye,2004,6015.665
+Turkiye,2005,7350.887
+Turkiye,2006,7961.078
+Turkiye,2007,9640.571
+Turkiye,2008,10778.131
+Turkiye,2009,8941.404
+Turkiye,2010,10533.45
+Turkiye,2011,11221.402
+Turkiye,2012,11637.915
+Turkiye,2013,12488.968
+Turkiye,2014,12079.287
+Turkiye,2015,10973.586
+Turkiye,2016,10891.19
+Turkiye,2017,10628.898
+Turkiye,2018,9514.047
+Turkiye,2019,9145.817
+Turkiye,2020,8612.903
+Turkiye,2021,9663.877
+Turkiye,2022,10621.965
+Turkiye,2023,13383.924
+Turkiye,2024,15368.271
+Turkiye,2025,15898.606
+Turkiye,2026,16317.087
+Turkiye,2027,16832.407
+Turkiye,2028,17332.694
 Uganda,1980,664.574
 Uganda,1981,1044.13
 Uganda,1982,703.042
@@ -10877,153 +9505,6 @@ West Bank and Gaza,2025,0.0
 West Bank and Gaza,2026,0.0
 West Bank and Gaza,2027,0.0
 West Bank and Gaza,2028,0.0
-Western Europe,1980,10528.524
-Western Europe,1981,9371.955
-Western Europe,1982,9003.604
-Western Europe,1983,8740.792
-Western Europe,1984,8387.184
-Western Europe,1985,8688.554
-Western Europe,1986,11819.891
-Western Europe,1987,14594.519
-Western Europe,1988,16252.226
-Western Europe,1989,16463.212
-Western Europe,1990,20309.987
-Western Europe,1991,21470.327
-Western Europe,1992,23240.276
-Western Europe,1993,21030.253
-Western Europe,1994,22248.368
-Western Europe,1995,25461.107
-Western Europe,1996,25876.362
-Western Europe,1997,24278.944
-Western Europe,1998,24988.676
-Western Europe,1999,24958.423
-Western Europe,2000,23116.195
-Western Europe,2001,23189.631
-Western Europe,2002,25140.843
-Western Europe,2003,30345.32
-Western Europe,2004,34726.903
-Western Europe,2005,35924.666
-Western Europe,2006,38000.019
-Western Europe,2007,43337.48
-Western Europe,2008,46289.946
-Western Europe,2009,41324.829
-Western Europe,2010,41030.82
-Western Europe,2011,44306.092
-Western Europe,2012,41728.204
-Western Europe,2013,43296.825
-Western Europe,2014,44562.933
-Western Europe,2015,39070.711
-Western Europe,2016,39043.766
-Western Europe,2017,40693.028
-Western Europe,2018,43646.516
-Western Europe,2019,42599.105
-Western Europe,2020,41326.352
-Western Europe,2021,46645.892
-Western Europe,2022,45177.286
-Western Europe,2023,48784.08
-Western Europe,2024,51445.324
-Western Europe,2025,53855.138
-Western Europe,2026,56129.234
-Western Europe,2027,58063.576
-Western Europe,2028,59988.446
-Western Hemisphere (Region),1980,6715.11
-Western Hemisphere (Region),1981,7342.386
-Western Hemisphere (Region),1982,7174.795
-Western Hemisphere (Region),1983,7449.625
-Western Hemisphere (Region),1984,8033.453
-Western Hemisphere (Region),1985,8478.547
-Western Hemisphere (Region),1986,8720.163
-Western Hemisphere (Region),1987,9156.494
-Western Hemisphere (Region),1988,9850.92
-Western Hemisphere (Region),1989,10541.043
-Western Hemisphere (Region),1990,11073.951
-Western Hemisphere (Region),1991,11349.291
-Western Hemisphere (Region),1992,11818.41
-Western Hemisphere (Region),1993,12322.254
-Western Hemisphere (Region),1994,12937.563
-Western Hemisphere (Region),1995,13416.889
-Western Hemisphere (Region),1996,13997.327
-Western Hemisphere (Region),1997,14730.773
-Western Hemisphere (Region),1998,15147.139
-Western Hemisphere (Region),1999,15431.009
-Western Hemisphere (Region),2000,16322.99
-Western Hemisphere (Region),2001,16457.159
-Western Hemisphere (Region),2002,16404.842
-Western Hemisphere (Region),2003,17038.256
-Western Hemisphere (Region),2004,18229.298
-Western Hemisphere (Region),2005,19709.286
-Western Hemisphere (Region),2006,21091.079
-Western Hemisphere (Region),2007,22445.93
-Western Hemisphere (Region),2008,23324.796
-Western Hemisphere (Region),2009,22173.607
-Western Hemisphere (Region),2010,23926.033
-Western Hemisphere (Region),2011,25353.117
-Western Hemisphere (Region),2012,25961.094
-Western Hemisphere (Region),2013,26448.617
-Western Hemisphere (Region),2014,26851.211
-Western Hemisphere (Region),2015,26074.324
-Western Hemisphere (Region),2016,26135.093
-Western Hemisphere (Region),2017,27424.778
-Western Hemisphere (Region),2018,28257.792
-Western Hemisphere (Region),2019,28807.683
-Western Hemisphere (Region),2020,27288.11
-Western Hemisphere (Region),2021,30408.766
-Western Hemisphere (Region),2022,33199.612
-Western Hemisphere (Region),2023,35082.002
-Western Hemisphere (Region),2024,36362.146
-Western Hemisphere (Region),2025,37557.256
-Western Hemisphere (Region),2026,38855.729
-Western Hemisphere (Region),2027,40214.956
-Western Hemisphere (Region),2028,41609.687
-World,1980,2863.027
-World,1981,2879.483
-World,1982,2775.621
-World,1983,2800.48
-World,1984,2850.684
-World,1985,2924.417
-World,1986,3381.137
-World,1987,3825.176
-World,1988,4229.276
-World,1989,4371.092
-World,1990,4701.123
-World,1991,4833.492
-World,1992,4808.716
-World,1993,4865.899
-World,1994,5143.237
-World,1995,5638.384
-World,1996,5706.459
-World,1997,5603.141
-World,1998,5459.264
-World,1999,5580.423
-World,2000,5685.367
-World,2001,5573.199
-World,2002,5666.925
-World,2003,6259.559
-World,2004,6958.197
-World,2005,7444.741
-World,2006,7963.61
-World,2007,8880.476
-World,2008,9621.091
-World,2009,9001.813
-World,2010,9729.716
-World,2011,10693.364
-World,2012,10747.838
-World,2013,10922.701
-World,2014,11077.174
-World,2015,10330.08
-World,2016,10378.001
-World,2017,10905.997
-World,2018,11456.93
-World,2019,11500.192
-World,2020,11077.299
-World,2021,12468.435
-World,2022,12895.375
-World,2023,13332.788
-World,2024,13872.367
-World,2025,14477.052
-World,2026,15085.863
-World,2027,15673.547
-World,2028,16295.82
 Yemen,1980,0.0
 Yemen,1981,0.0
 Yemen,1982,0.0
@@ -11171,52 +9652,3 @@ Zimbabwe,2025,2962.04
 Zimbabwe,2026,2952.871
 Zimbabwe,2027,2722.861
 Zimbabwe,2028,2772.403
-"©IMF, 2023",1980,
-"©IMF, 2023",1981,
-"©IMF, 2023",1982,
-"©IMF, 2023",1983,
-"©IMF, 2023",1984,
-"©IMF, 2023",1985,
-"©IMF, 2023",1986,
-"©IMF, 2023",1987,
-"©IMF, 2023",1988,
-"©IMF, 2023",1989,
-"©IMF, 2023",1990,
-"©IMF, 2023",1991,
-"©IMF, 2023",1992,
-"©IMF, 2023",1993,
-"©IMF, 2023",1994,
-"©IMF, 2023",1995,
-"©IMF, 2023",1996,
-"©IMF, 2023",1997,
-"©IMF, 2023",1998,
-"©IMF, 2023",1999,
-"©IMF, 2023",2000,
-"©IMF, 2023",2001,
-"©IMF, 2023",2002,
-"©IMF, 2023",2003,
-"©IMF, 2023",2004,
-"©IMF, 2023",2005,
-"©IMF, 2023",2006,
-"©IMF, 2023",2007,
-"©IMF, 2023",2008,
-"©IMF, 2023",2009,
-"©IMF, 2023",2010,
-"©IMF, 2023",2011,
-"©IMF, 2023",2012,
-"©IMF, 2023",2013,
-"©IMF, 2023",2014,
-"©IMF, 2023",2015,
-"©IMF, 2023",2016,
-"©IMF, 2023",2017,
-"©IMF, 2023",2018,
-"©IMF, 2023",2019,
-"©IMF, 2023",2020,
-"©IMF, 2023",2021,
-"©IMF, 2023",2022,
-"©IMF, 2023",2023,
-"©IMF, 2023",2024,
-"©IMF, 2023",2025,
-"©IMF, 2023",2026,
-"©IMF, 2023",2027,
-"©IMF, 2023",2028,

@@ -4,11 +4,6 @@ Afghanistan,157902.0,2021
 Afghanistan,207322.0,2022
 Afghanistan,230375.0,2023
 Afghanistan,231539.0,2024
-Africa,2662452.0,2020
-Africa,9634415.0,2021
-Africa,12994425.0,2022
-Africa,13130839.0,2023
-Africa,13135066.0,2024
 Albania,55380.0,2020
 Albania,207221.0,2021
 Albania,332670.0,2022
@@ -59,11 +54,6 @@ Aruba,17165.0,2021
 Aruba,43752.0,2022
 Aruba,44224.0,2023
 Aruba,,2024
-Asia,20190911.0,2020
-Asia,84190614.0,2021
-Asia,250812759.0,2022
-Asia,301159792.0,2023
-Asia,,2024
 Australia,28296.0,2020
 Australia,366607.0,2021
 Australia,10694041.0,2022
@@ -159,11 +149,11 @@ British Virgin Islands,3071.0,2021
 British Virgin Islands,7305.0,2022
 British Virgin Islands,7392.0,2023
 British Virgin Islands,7392.0,2024
-Brunei,152.0,2020
-Brunei,15447.0,2021
-Brunei,268615.0,2022
-Brunei,330776.0,2023
-Brunei,342802.0,2024
+Brunei Darussalam,152.0,2020
+Brunei Darussalam,15447.0,2021
+Brunei Darussalam,268615.0,2022
+Brunei Darussalam,330776.0,2023
+Brunei Darussalam,342802.0,2024
 Bulgaria,197384.0,2020
 Bulgaria,733882.0,2021
 Bulgaria,1280617.0,2022
@@ -194,11 +184,11 @@ Canada,1961723.0,2021
 Canada,4476385.0,2022
 Canada,4760029.0,2023
 Canada,,2024
-Cape Verde,11698.0,2020
-Cape Verde,39013.0,2021
-Cape Verde,63190.0,2022
-Cape Verde,64474.0,2023
-Cape Verde,64474.0,2024
+Cabo Verde,11698.0,2020
+Cabo Verde,39013.0,2021
+Cabo Verde,63190.0,2022
+Cabo Verde,64474.0,2023
+Cabo Verde,64474.0,2024
 Cayman Islands,318.0,2020
 Cayman Islands,8386.0,2021
 Cayman Islands,31472.0,2022
@@ -234,11 +224,11 @@ Comoros,5603.0,2021
 Comoros,8982.0,2022
 Comoros,9109.0,2023
 Comoros,9109.0,2024
-Congo,6389.0,2020
-Congo,20089.0,2021
-Congo,25063.0,2022
-Congo,25213.0,2023
-Congo,25213.0,2024
+Democratic Republic of the Congo,6389.0,2020
+Democratic Republic of the Congo,20089.0,2021
+Democratic Republic of the Congo,25063.0,2022
+Democratic Republic of the Congo,25213.0,2023
+Democratic Republic of the Congo,25213.0,2024
 Cook Islands,,2020
 Cook Islands,,2021
 Cook Islands,6625.0,2022
@@ -348,11 +338,6 @@ Ethiopia,395750.0,2021
 Ethiopia,497096.0,2022
 Ethiopia,501117.0,2023
 Ethiopia,501117.0,2024
-Europe,22615686.0,2020
-Europe,84508328.0,2021
-Europe,242057677.0,2022
-Europe,251786367.0,2023
-Europe,,2024
 European Union,14744953.0,2020
 European Union,52796952.0,2021
 European Union,178836027.0,2022
@@ -593,11 +578,11 @@ Kyrgyzstan,68891.0,2021
 Kyrgyzstan,88455.0,2022
 Kyrgyzstan,88943.0,2023
 Kyrgyzstan,88953.0,2024
-Laos,41.0,2020
-Laos,106231.0,2021
-Laos,217642.0,2022
-Laos,218906.0,2023
-Laos,218917.0,2024
+Lao PDR,41.0,2020
+Lao PDR,106231.0,2021
+Lao PDR,217642.0,2022
+Lao PDR,218906.0,2023
+Lao PDR,218917.0,2024
 Latvia,36330.0,2020
 Latvia,271429.0,2021
 Latvia,970519.0,2022
@@ -638,11 +623,6 @@ Low income,1716263.0,2021
 Low income,2266359.0,2022
 Low income,2324732.0,2023
 Low income,2325993.0,2024
-Lower middle income,16795319.0,2020
-Lower middle income,65344268.0,2021
-Lower middle income,96416813.0,2022
-Lower middle income,97478076.0,2023
-Lower middle income,,2024
 Luxembourg,38383.0,2020
 Luxembourg,95888.0,2021
 Luxembourg,364867.0,2022
@@ -711,11 +691,11 @@ Mexico,4001979.0,2021
 Mexico,7245590.0,2022
 Mexico,7702809.0,2023
 Mexico,7702809.0,2024
-Micronesia (country),,2020
-Micronesia (country),,2021
-Micronesia (country),22069.0,2022
-Micronesia (country),26547.0,2023
-Micronesia (country),26547.0,2024
+Micronesia,,2020
+Micronesia,,2021
+Micronesia,22069.0,2022
+Micronesia,26547.0,2023
+Micronesia,26547.0,2024
 Moldova,140996.0,2020
 Moldova,374349.0,2021
 Moldova,596100.0,2022
@@ -922,11 +902,11 @@ Romania,1802396.0,2021
 Romania,3305048.0,2022
 Romania,3511059.0,2023
 Romania,3519108.0,2024
-Russia,3050248.0,2020
-Russia,10392020.0,2021
-Russia,21764292.0,2022
-Russia,23746552.0,2023
-Russia,23774451.0,2024
+Russian Federation,3050248.0,2020
+Russian Federation,10392020.0,2021
+Russian Federation,21764292.0,2022
+Russian Federation,23746552.0,2023
+Russian Federation,23774451.0,2024
 Rwanda,7817.0,2020
 Rwanda,104512.0,2021
 Rwanda,132920.0,2022
@@ -952,11 +932,11 @@ Saint Lucia,13275.0,2021
 Saint Lucia,29748.0,2022
 Saint Lucia,30209.0,2023
 Saint Lucia,30215.0,2024
-Saint Martin (French part),986.0,2020
-Saint Martin (French part),4118.0,2021
-Saint Martin (French part),12180.0,2022
-Saint Martin (French part),12324.0,2023
-Saint Martin (French part),12324.0,2024
+Saint Martin,986.0,2020
+Saint Martin,4118.0,2021
+Saint Martin,12180.0,2022
+Saint Martin,12324.0,2023
+Saint Martin,12324.0,2024
 Saint Pierre and Miquelon,16.0,2020
 Saint Pierre and Miquelon,98.0,2021
 Saint Pierre and Miquelon,3348.0,2022
@@ -1016,16 +996,16 @@ Singapore,277764.0,2021
 Singapore,2193890.0,2022
 Singapore,2924515.0,2023
 Singapore,2994295.0,2024
-Sint Maarten (Dutch part),1370.0,2020
-Sint Maarten (Dutch part),4748.0,2021
-Sint Maarten (Dutch part),10988.0,2022
-Sint Maarten (Dutch part),11051.0,2023
-Sint Maarten (Dutch part),11051.0,2024
-Slovakia,167523.0,2020
-Slovakia,825629.0,2021
-Slovakia,1858687.0,2022
-Slovakia,1875529.0,2023
-Slovakia,1877065.0,2024
+Sint Maarten,1370.0,2020
+Sint Maarten,4748.0,2021
+Sint Maarten,10988.0,2022
+Sint Maarten,11051.0,2023
+Sint Maarten,11051.0,2024
+Slovenia,167523.0,2020
+Slovenia,825629.0,2021
+Slovenia,1858687.0,2022
+Slovenia,1875529.0,2023
+Slovenia,1877065.0,2024
 Slovenia,115411.0,2020
 Slovenia,456842.0,2021
 Slovenia,1300803.0,2022
@@ -1091,11 +1071,11 @@ Switzerland,1253630.0,2021
 Switzerland,4375085.0,2022
 Switzerland,4446935.0,2023
 Switzerland,4450977.0,2024
-Syria,10932.0,2020
-Syria,50051.0,2021
-Syria,57423.0,2022
-Syria,57423.0,2023
-Syria,57423.0,2024
+Syrian Arab Republic,10932.0,2020
+Syrian Arab Republic,50051.0,2021
+Syrian Arab Republic,57423.0,2022
+Syrian Arab Republic,57423.0,2023
+Syrian Arab Republic,57423.0,2024
 Taiwan,,2020
 Taiwan,,2021
 Taiwan,,2022
@@ -1115,11 +1095,11 @@ Thailand,2209970.0,2021
 Thailand,4721808.0,2022
 Thailand,4762375.0,2023
 Thailand,4765718.0,2024
-Timor,41.0,2020
-Timor,19833.0,2021
-Timor,23388.0,2022
-Timor,23460.0,2023
-Timor,23460.0,2024
+Timor-Leste,41.0,2020
+Timor-Leste,19833.0,2021
+Timor-Leste,23388.0,2022
+Timor-Leste,23460.0,2023
+Timor-Leste,23460.0,2024
 Togo,3555.0,2020
 Togo,27992.0,2021
 Togo,39341.0,2022
@@ -1145,11 +1125,11 @@ Tunisia,722795.0,2021
 Tunisia,1147477.0,2022
 Tunisia,1153361.0,2023
 Tunisia,1153361.0,2024
-Turkey,2133373.0,2020
-Turkey,9286986.0,2021
-Turkey,17004677.0,2022
-Turkey,17004677.0,2023
-Turkey,17004677.0,2024
+Turkiye,2133373.0,2020
+Turkiye,9286986.0,2021
+Turkiye,17004677.0,2022
+Turkiye,17004677.0,2023
+Turkiye,17004677.0,2024
 Turkmenistan,,2020
 Turkmenistan,,2021
 Turkmenistan,,2022
@@ -1190,16 +1170,11 @@ United States,51878860.0,2021
 United States,99019493.0,2022
 United States,103436829.0,2023
 United States,,2024
-United States Virgin Islands,1979.0,2020
-United States Virgin Islands,8007.0,2021
-United States Virgin Islands,23734.0,2022
-United States Virgin Islands,25389.0,2023
-United States Virgin Islands,25389.0,2024
-Upper middle income,23440623.0,2020
-Upper middle income,82879454.0,2021
-Upper middle income,203294212.0,2022
-Upper middle income,245134952.0,2023
-Upper middle income,,2024
+Virgin Islands (U.S.),1979.0,2020
+Virgin Islands (U.S.),8007.0,2021
+Virgin Islands (U.S.),23734.0,2022
+Virgin Islands (U.S.),25389.0,2023
+Virgin Islands (U.S.),25389.0,2024
 Uruguay,15848.0,2020
 Uruguay,406739.0,2021
 Uruguay,1011988.0,2022
@@ -1240,11 +1215,6 @@ Wallis and Futuna,3415.0,2022
 Wallis and Futuna,3550.0,2023
 Wallis and Futuna,3550.0,2024
 Western Sahara,,2022
-World,80316045.0,2020
-World,280613650.0,2021
-World,704630839.0,2022
-World,773960065.0,2023
-World,,2024
 Yemen,2096.0,2020
 Yemen,10111.0,2021
 Yemen,11945.0,2022
