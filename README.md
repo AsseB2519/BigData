@@ -33,13 +33,13 @@ This project was conducted for the practical project for the Smart Analysis in B
 
 #### `FilesParquet`: Contains Preprocessed Data in Parquet Format
 
-- **`Population.parquet/`** : Preprocessed population data.
-- **`GDP.parquet/`** : Preprocessed GDP data.
-- **`Inflation.parquet/`** : Preprocessed inflation data.
-- **`Tax.parquet/`** : Preprocessed tax data.
-- **`Covid.parquet/`** : Preprocessed COVID-19 data.
-- **`Migration.parquet/`** : Preprocessed migration data.
-- **`Unemployment.parquet/`** : Preprocessed unemployment data.
+- **`Population.parquet`** : Preprocessed population data.
+- **`GDP.parquet`** : Preprocessed GDP data.
+- **`Inflation.parquet`** : Preprocessed inflation data.
+- **`Tax.parquet`** : Preprocessed tax data.
+- **`Covid.parquet`** : Preprocessed COVID-19 data.
+- **`Migration.parquet`** : Preprocessed migration data.
+- **`Unemployment.parquet`** : Preprocessed unemployment data.
 
 #### `FinalAllInOneParquet`: Contains Datasets Merged by Country in a Single Parquet File
 
