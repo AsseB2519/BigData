@@ -69,7 +69,6 @@ This project was conducted for the practical project for the Smart Analysis in B
 - **`ProcessingCovid.ipynb`**: Notebook for preprocessing COVID-19 data.
 - **`ProcessingTax.ipynb`**: Notebook for preprocessing tax data.
 - **`ProcessingPopulation.ipynb`**: Notebook for preprocessing population data.
-- **`MergeFiles.ipynb`**: Notebook for merging files.
 - **`ProcessingMigration.ipynb`**: Notebook for preprocessing migration data.
 
 #### `ProcessingFilesSpark`: Contains Notebooks for Preprocessing Individual Datasets using Apache Spark and for Merging
