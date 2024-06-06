@@ -12,6 +12,8 @@ This project was conducted for the practical project for the Smart Analysis in B
 
 - **`Article.pdf`**: Is the Article of this project.
 - **`Report.pdf`**: Is the Report of this project.
+- **`Presentation.pdf`**: Is the Slides of the Presentation of this project in PDF Format.
+- **`Presentation.pptx`**: Is the Slides of the Presentation of this project in PowerPoint Format.
 
 ### `MongoDB`: Contains a Notebook for Data Extraction to MongoDB
 
