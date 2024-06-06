@@ -8,6 +8,11 @@ This project was conducted for the practical project for the Smart Analysis in B
 
 - ## Index of Contents
 
+### `Documents`: Contains the Article, the Report and the PowerPoint Presentation
+
+- **`Article.pdf`**: Is the Article of this project.
+- **`Report.pdf`**: Is the Report of this project.
+
 ### `MongoDB`: Contains a Notebook for Data Extraction to MongoDB
 
 - **`LoadMongoDB.ipynb`**: Jupyter Notebook to extract data and load it into a MongoDB database.
